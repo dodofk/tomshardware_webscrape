@@ -1,1 +1,1 @@
-scrapy shell -s USER_AGENT='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36'  https://wccftech.com/category/news/page/2/
+scrapy shell -s USER_AGENT='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36'  https://wccftech.com/elon-musk-move-to-limit-the-number-of-viewable-tweets-is-partially-aimed-at-combatting-chatgpt-exploitation-of-twitter/
