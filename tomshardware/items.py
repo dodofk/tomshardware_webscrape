@@ -23,5 +23,9 @@ class TechspotItem(NewsItem):
     subtitle = Field()
 
 
+class VideocardzItem(NewsItem):
+    pass
+
+
 class NewsUrlItem(scrapy.Item):
     news_url = Field()

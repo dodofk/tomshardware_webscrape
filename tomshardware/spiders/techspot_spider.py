@@ -3,7 +3,6 @@ import xml.etree.ElementTree as ET
 from tomshardware.items import TechspotItem
 import gzip
 import requests
-import logging
 
 
 class TechspotSpider(scrapy.Spider):
