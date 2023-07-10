@@ -2,7 +2,7 @@ import scrapy
 from scrapy import Field
 
 
-class TomshardwareItem(scrapy.Item):
+class NewsItem(scrapy.Item):
     tag = Field()
     title = Field()
     author = Field()
@@ -11,13 +11,16 @@ class TomshardwareItem(scrapy.Item):
     url = Field()
 
 
-class WCCFItem(scrapy.Item):
-    tag = Field()
-    title = Field()
-    author = Field()
-    content = Field()
-    dates = Field()
-    url = Field()
+# the following class are used to specify the item class for each feed
+class TomshardwareItem(NewsItem):
+    pass
+
+class WCCFItem(NewsItem):
+    pass
+
+
+class TechspotItem(NewsItem):
+    subtitle = Field()
 
 
 class NewsUrlItem(scrapy.Item):

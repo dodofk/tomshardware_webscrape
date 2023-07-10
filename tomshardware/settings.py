@@ -7,7 +7,7 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-from tomshardware.items import TomshardwareItem, NewsUrlItem, WCCFItem
+from tomshardware.items import TomshardwareItem, NewsUrlItem, WCCFItem, TechspotItem
 
 BOT_NAME = "tomshardware"
 
@@ -110,4 +110,12 @@ FEEDS = {
         "overwrite": False,
         "item_classes": [WCCFItem],
     },
+    "techspot2.csv": {
+        "format": "csv",
+        "overwrite": False,
+        "item_classes": [TechspotItem],
+    },
 }
+
+LOG_LEVEL = "INFO"
+LOG_FILE = "log.txt"
