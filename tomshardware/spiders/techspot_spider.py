@@ -4,6 +4,7 @@ from tomshardware.items import TechspotItem
 import gzip
 import requests
 import datetime
+import json
 
 
 class TechspotSpider(scrapy.Spider):
@@ -21,28 +22,33 @@ class TechspotSpider(scrapy.Spider):
         self.end_year = datetime.date.today().year
 
         if update_date is None:
-            self.update_date = str(datetime.date.today())
+            self.update_date = str(datetime.date.today() - datetime.timedelta(days=1))
         else:
             self.update_date = update_date
 
+        with open("meta.json", "r") as f:
+            self.meta = json.load(f)
+
     def start_requests(self):
         if self.strategy == "all":
-            # years = [str(year) for year in range(self.start_year, self.end_year)]
+            years = [str(year) for year in range(self.start_year, self.end_year)]
             url_list = []
-            # for year in years:
-            #     url = f"https://www.techspot.com/sitemap/news_{year}.xml.gz"
-            #     url_list.append(url)
-            #
-            # url_list.append("https://www.techspot.com/sitemap/news_this_year.xml.gz")
-            # url_list.append("https://www.techspot.com/sitemap/reviews_all.xml.gz")
+            for year in years:
+                url = f"https://www.techspot.com/sitemap/news_{year}.xml.gz"
+                url_list.append(url)
+
+            url_list.append("https://www.techspot.com/sitemap/news_this_year.xml.gz")
+            # to crawl
+            url_list.append("https://www.techspot.com/sitemap/news_this_month.xml.gz")
+            url_list.append("https://www.techspot.com/sitemap/reviews_all.xml.gz")
+
+            # to crawl
+            url_list.append("https://www.techspot.com/sitemap/reviews_this_year.xml.gz")
 
             namespaces = {"ns": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 
             for _url in url_list:
                 r = requests.get(_url)
-                # print(_url)
-                # print(r)
-                # print(r.content)
                 gz_file = gzip.decompress(r.content)
                 root = ET.fromstring(gz_file)
                 loc_elements = root.findall(".//ns:url/ns:loc", namespaces)
@@ -50,54 +56,165 @@ class TechspotSpider(scrapy.Spider):
 
                 for url in urls:
                     if "/downloads/" in url:
-                        self.logger.info("Error in bad url: ", _url, url)
                         continue
-                    yield scrapy.Request(url=url, callback=self.parse_article)
+                    yield scrapy.Request(url=url, callback=self.parse_article, meta={"dont_redirect": True})
 
-            # r = requests.get("https://www.techspot.com/sitemap/features_category.xml.gz")
-            # gz_file = gzip.decompress(r.content)
-            # root = ET.fromstring(gz_file)
-            # loc_elements = root.findall(".//ns:url/ns:loc", namespaces)
-            # urls = [loc.text for loc in loc_elements]
-            #
-            # for url in urls:
-            #     if url == "https://www.techspot.com/features/":
-            #         continue
-            #     yield scrapy.Request(url=url, callback=self.parse_feature)
-
-            r = requests.get("https://www.techspot.com/sitemap/drivers_all.xml.gz")
+            r = requests.get(
+                "https://www.techspot.com/sitemap/features_category.xml.gz"
+            )
             gz_file = gzip.decompress(r.content)
             root = ET.fromstring(gz_file)
             loc_elements = root.findall(".//ns:url/ns:loc", namespaces)
             urls = [loc.text for loc in loc_elements]
+
+            for url in urls:
+                if url == "https://www.techspot.com/features/":
+                    continue
+                yield scrapy.Request(url=url, callback=self.parse_feature)
+
+            urls = []
+            driver_urls = [
+                "https://www.techspot.com/sitemap/drivers_all.xml.gz",
+                "https://www.techspot.com/sitemap/driver_this_year.xml.gz",
+            ]
+            for driver_url in driver_urls:
+                r = requests.get(driver_url)
+                gz_file = gzip.decompress(r.content)
+                root = ET.fromstring(gz_file)
+                loc_elements = root.findall(".//ns:url/ns:loc", namespaces)
+                urls += [loc.text for loc in loc_elements]
 
             for url in urls:
                 yield scrapy.Request(url=url, callback=self.parse_driver)
 
-            r = requests.get("https://www.techspot.com/sitemap/downloads_all.xml.gz")
+            urls = []
+            download_urls = [
+                "https://www.techspot.com/sitemap/downloads_all.xml.gz",
+                "https://www.techspot.com/sitemap/downloads_this_year.xml.gz",
+            ]
+
+            for download_url in download_urls:
+                r = requests.get(download_url)
+                gz_file = gzip.decompress(r.content)
+                root = ET.fromstring(gz_file)
+                loc_elements = root.findall(".//ns:url/ns:loc", namespaces)
+                urls += [loc.text for loc in loc_elements]
+
+            for url in urls:
+                # print("hi")
+                yield scrapy.Request(url=url, callback=self.parse_download)
+
+        elif self.strategy == "update":
+            years = [str(year) for year in range(self.start_year, self.end_year)]
+            url_list = []
+            for year in years:
+                if year < self.update_date[:4]:
+                    continue
+                url = f"https://www.techspot.com/sitemap/news_{year}.xml.gz"
+                url_list.append(url)
+
+            url_list.append("https://www.techspot.com/sitemap/news_this_year.xml.gz")
+            url_list.append("https://www.techspot.com/sitemap/news_this_month.xml.gz")
+            url_list.append("https://www.techspot.com/sitemap/reviews_all.xml.gz")
+            url_list.append("https://www.techspot.com/sitemap/reviews_this_year.xml.gz")
+
+            namespaces = {"ns": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+
+            for _url in url_list:
+                r = requests.get(_url)
+                gz_file = gzip.decompress(r.content)
+                root = ET.fromstring(gz_file)
+                loc_elements = root.findall(".//ns:url/ns:loc", namespaces)
+                lastmod_elements = root.findall(".//ns:url/ns:lastmod", namespaces)
+                urls = [loc.text for loc in loc_elements]
+                lastmods = [lastmod.text for lastmod in lastmod_elements]
+
+                for url, lastmod in zip(urls, lastmods):
+                    if self.update_date >= lastmod > self.meta["techspot"]:
+                        yield scrapy.Request(
+                            url=url,
+                            callback=self.parse_article,
+                            meta={"dont_redirect": True},
+                        )
+
+            r = requests.get(
+                "https://www.techspot.com/sitemap/features_category.xml.gz"
+            )
             gz_file = gzip.decompress(r.content)
             root = ET.fromstring(gz_file)
             loc_elements = root.findall(".//ns:url/ns:loc", namespaces)
             urls = [loc.text for loc in loc_elements]
 
             for url in urls:
-                # print("hi")
-                yield scrapy.Request(url=url, callback=self.parse_download)
-        elif self.strategy == "update":
-            yield self.start_requests_update()
+                if url == "https://www.techspot.com/features/":
+                    continue
+                yield scrapy.Request(url=url, callback=self.parse_feature)
 
-    def start_requests_update(self):
-        pass
+            urls, lastmods = [], []
+            driver_urls = [
+                "https://www.techspot.com/sitemap/drivers_this_year.xml.gz",
+            ]
+
+            if self.meta["techspot"] < self.end_year:
+                driver_urls.append("https://www.techspot.com/sitemap/drivers_all.xml.gz")
+
+            for driver_url in driver_urls:
+                r = requests.get(driver_url)
+                gz_file = gzip.decompress(r.content)
+                root = ET.fromstring(gz_file)
+                loc_elements = root.findall(".//ns:url/ns:loc", namespaces)
+                lastmod_elements = root.findall(".//ns:url/ns:lastmod", namespaces)
+                urls += [loc.text for loc in loc_elements]
+                lastmods += [lastmod.text for lastmod in lastmod_elements]
+
+            for url, lastmod in zip(urls, lastmods):
+                if self.update_date >= lastmod > self.meta["techspot"]:
+                    yield scrapy.Request(url=url, callback=self.parse_driver)
+
+            urls, lastmods = [], []
+            download_urls = [
+                "https://www.techspot.com/sitemap/downloads_this_year.xml.gz",
+            ]
+
+            if self.meta["techspot"] < self.end_year:
+                download_urls.append("https://www.techspot.com/sitemap/downloads_all.xml.gz")
+
+            # print(download_urls)
+            for download_url in download_urls:
+                r = requests.get(download_url)
+                gz_file = gzip.decompress(r.content)
+                root = ET.fromstring(gz_file)
+                loc_elements = root.findall(".//ns:url/ns:loc", namespaces)
+                lastmod_elements = root.findall(".//ns:url/ns:lastmod", namespaces)
+                urls += [loc.text for loc in loc_elements]
+                lastmods += [lastmod.text for lastmod in lastmod_elements]
+
+            for url, lastmod in zip(urls, lastmods):
+                if self.update_date >= lastmod > self.meta["techspot"]:
+                    yield scrapy.Request(url=url, callback=self.parse_download)
 
     # Since feature doesnot have entirely sitemap, it only have sitemap of urls
     # Therefore, we need to crawl the feature page and get the urls
     def parse_feature(self, response):
         urls = response.css("h3 a::attr(href)").getall()
-        for url in urls:
-            if "/downloads/" in url:
-                self.logger.info("Error in bad url: ", response.url, url)
-                continue
-            yield scrapy.Request(url=url, callback=self.parse_article)
+        if self.strategy == "all":
+            for url in urls:
+                if "/downloads/" in url:
+                    continue
+                yield scrapy.Request(url=url, callback=self.parse_article)
+        elif self.strategy == "update":
+            times = response.xpath(
+                '//div[@class="category"]/ul/li/p/time/text()'
+            ).getall()
+            for url, time in zip(urls, times):
+                time = datetime.datetime.strptime(time, "%B %d, %Y")
+                format_time = time.strftime("%Y-%m-%d")
+
+                if "/downloads/" in url:
+                    continue
+
+                if self.update_date >= format_time > self.meta["techspot"]:
+                    yield scrapy.Request(url=url, callback=self.parse_article)
 
     def parse_article(self, response):
         yield TechspotItem(
@@ -129,9 +246,7 @@ class TechspotSpider(scrapy.Spider):
             tag="\n".join(
                 response.xpath('//ul[@class="category-chicklets"]/li/a/text()').getall()
             ),
-            title=response.xpath('//h1/text()')
-            .get()
-            .strip(),
+            title=response.xpath("//h1/text()").get().strip(),
             content=" ".join(
                 response.xpath(
                     '//div[@itemprop="releaseNotes"]//p//text()'
@@ -152,10 +267,7 @@ class TechspotSpider(scrapy.Spider):
             tag="\n".join(
                 response.xpath('//ul[@class="category-chicklets"]/li/a/text()').getall()
             ),
-            title=response.xpath('//h1/text()')
-            .get()
-            .strip()
-            .replace("\xa0", " "),
+            title=response.xpath("//h1/text()").get().strip().replace("\xa0", " "),
             content=" ".join(
                 response.xpath(
                     '//div[@class="ps-item publisher-description"]//p//text() '
@@ -167,3 +279,10 @@ class TechspotSpider(scrapy.Spider):
             dates=response.xpath('//time[@itemprop="dateModified"]/@datetime').get(),
             url=response.url,
         )
+
+    def closed(self, reason):
+        if reason == "finished":
+            self.meta["techspot"] = self.update_date
+
+            with open("meta.json", "w") as f:
+                json.dump(self.meta, f)
