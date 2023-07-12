@@ -27,5 +27,9 @@ class VideocardzItem(NewsItem):
     pass
 
 
+class AnandtechItem(NewsItem):
+    pass
+
+
 class NewsUrlItem(scrapy.Item):
     news_url = Field()

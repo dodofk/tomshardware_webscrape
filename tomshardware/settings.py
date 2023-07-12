@@ -7,7 +7,7 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-from tomshardware.items import TomshardwareItem, NewsUrlItem, WCCFItem, TechspotItem, VideocardzItem
+from tomshardware.items import TomshardwareItem, NewsUrlItem, WCCFItem, TechspotItem, VideocardzItem, AnandtechItem
 
 BOT_NAME = "tomshardware"
 
@@ -110,7 +110,7 @@ FEEDS = {
         "overwrite": False,
         "item_classes": [WCCFItem],
     },
-    "techspot2.csv": {
+    "techspot_update.csv": {
         "format": "csv",
         "overwrite": False,
         "item_classes": [TechspotItem],
@@ -119,8 +119,13 @@ FEEDS = {
         "format": "csv",
         "overwrite": False,
         "item_classes": [VideocardzItem],
+    },
+    "anandtech_update.csv": {
+        "format": "csv",
+        "overwrite": False,
+        "item_classes": [AnandtechItem],
     }
 }
 
 LOG_LEVEL = "INFO"
-LOG_FILE = "log_videocardz.txt"
+LOG_FILE = "log_anandtech_update.txt"
