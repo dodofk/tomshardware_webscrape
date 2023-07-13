@@ -22,8 +22,14 @@ class WCCFSpider(scrapy.Spider):
 
     def start_requests(self):
         if self.strategy == "all":
+
+            headers = {
+                "User-Agent": self.custom_user_agents,
+            }
+
             yield scrapy.Request(
                 url="https://wccftech.com/category/news/page/2/",
+                headers=headers,
                 callback=self.parse_pages,
             )
         elif self.strategy == "update":
