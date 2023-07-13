@@ -1,27 +1,55 @@
 import scrapy
 from tomshardware.items import WCCFItem
+from datetime import datetime
+import feedparser
 
 
+# feed : https://wccftech.com/feed/
+# for wccf, it can just run a daily scheduled time without issue
 class WCCFSpider(scrapy.Spider):
     name = "wccftech"
-
-    # custom_settings = {
-    #     'DOWNLOAD_DELAY': 3,
-    # }
 
     custom_user_agents = (
         "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
     )
 
+    def __init__(self, strategy="all", *args, **kwargs):
+        super(WCCFSpider, self).__init__(*args, **kwargs)
+        assert strategy in ["all", "update"], "strategy must be all or update"
+
+        self.strategy = strategy
+
+
     def start_requests(self):
+        if self.strategy == "all":
+            yield scrapy.Request(
+                url="https://wccftech.com/category/news/page/2/",
+                callback=self.parse_pages,
+            )
+        elif self.strategy == "update":
+            feed = feedparser.parse("https://wccftech.com/feed/")
+
+            urls = []
+            for entry in feed.entries:
+                urls.append(entry.link)
+
+            headers = {
+                "User-Agent": self.custom_user_agents,
+            }
+
+            for url in urls:
+                yield scrapy.Request(url=url, headers=headers, callback=self.parse_article)
+
+    def parse_pages(self, response):
+        last_page = response.xpath('//div[@class="pagination-last"]/a/span/text()').get()
         domain = "https://wccftech.com/category/news/page"
-        page = list(range(1, 500))
+        pages = list(range(1, int(last_page) + 1))
 
         headers = {
             "User-Agent": self.custom_user_agents,
         }
-        urls = [f"{domain}/{p}/" for p in page]
 
+        urls = [f"{domain}/{p}/" for p in pages]
         for url in urls:
             yield scrapy.Request(url=url, headers=headers, callback=self.parse)
 
@@ -30,6 +58,7 @@ class WCCFSpider(scrapy.Spider):
         headers = {
             "User-Agent": self.custom_user_agents,
         }
+
         for article_url in article_urls:
             yield scrapy.Request(
                 url=article_url, headers=headers, callback=self.parse_article
