@@ -1,0 +1,2506 @@
+g2dmark,level,maxtdp,name,price,rank,sample,score,segment
+1316,high_end,450,GeForce RTX 4090,"1,599.00",1,3965,"39,118",gpus
+1273,high_end,320,GeForce RTX 4080,"1,099.00",2,2125,"35,110",gpus
+1091,high_end,-1,Radeon PRO W7800,NA,3,2,"32,146",gpus
+1207,high_end,285,GeForce RTX 4070 Ti,789.99,4,2376,"31,656",gpus
+1265,high_end,355,Radeon RX 7900 XTX,999.99,5,1026,"31,639",gpus
+1018,high_end,-1,Radeon PRO W7900,NA,6,6,"31,126",gpus
+1221,high_end,450,GeForce RTX 3090 Ti,"1,707.00",7,1508,"29,832",gpus
+1027,high_end,150,GeForce RTX 4090 Laptop GPU,NA,8,185,"29,553",gpus
+1198,high_end,315,Radeon RX 7900 XT,749.99,9,687,"29,215",gpus
+1039,high_end,335,Radeon RX 6950 XT,629.99,10,1019,"28,827",gpus
+1098,high_end,350,GeForce RTX 3080 Ti,"1,143.99",11,7046,"27,416",gpus
+1061,high_end,300,Radeon RX 6900 XT,"1,342.46",12,4000,"27,013",gpus
+1142,high_end,200,GeForce RTX 4070,599.99,13,968,"27,001",gpus
+1050,high_end,350,GeForce RTX 3090,"1,836.42",14,8067,"26,956",gpus
+1081,high_end,150,GeForce RTX 4080 Laptop GPU,NA,15,239,"26,893",gpus
+1096,high_end,350,GeForce RTX 3080 12GB,NA,16,1545,"26,844",gpus
+1044,high_end,320,GeForce RTX 3080,879.99,17,12720,"25,404",gpus
+1035,high_end,300,Radeon RX 6800 XT,510.66,18,2991,"25,149",gpus
+1054,high_end,290,GeForce RTX 3070 Ti,405.99,19,6343,"23,814",gpus
+880,high_end,-1,RTX 6000 Ada Generation,NA,20,7,"23,546",gpus
+1036,high_end,230,RTX A5000,"2,141.99*",21,296,"23,211",gpus
+883,high_end,300,RTX A6000,"4,109.99",22,165,"22,639",gpus
+1044,high_end,160,GeForce RTX 4060 Ti,379.99,23,122,"22,545",gpus
+985,high_end,250,Radeon RX 6800,274.99,24,1400,"22,530",gpus
+1003,high_end,220,GeForce RTX 3070,499.99,25,14191,"22,504",gpus
+1007,high_end,-1,NVIDIA A10,NA,26,2,"22,064",gpus
+939,high_end,250,GeForce RTX 2080 Ti,"1,124.99*",27,10040,"21,883",gpus
+1103,high_end,-1,RTX A4500,"1,079.99*",28,137,"21,757",gpus
+505,high_end,-1,RTX 4000 Ada Generation Laptop GPU,NA,29,4,"21,359",gpus
+1064,high_end,-1,RTX 4000 SFF Ada Generation,NA,30,4,"21,300",gpus
+950,high_end,250,Radeon RX 6750 XT,379.99,31,1026,"21,266",gpus
+605,high_end,-1,RTX 5000 Ada Generation Laptop GPU,NA,32,15,"20,796",gpus
+1004,high_end,200,GeForce RTX 3060 Ti,319.99,33,11293,"20,629",gpus
+910,high_end,250,Quadro GV100,"8,999.00*",34,25,"20,600",gpus
+865,high_end,115,GeForce RTX 3080 Ti Laptop GPU,NA,35,732,"20,432",gpus
+970,high_end,115,GeForce RTX 4060,299.99,36,26,"20,123",gpus
+869,high_end,250,TITAN V,"1,999.99*",37,87,"19,920",gpus
+957,high_end,230,Radeon RX 6700 XT,349.99,38,4529,"19,897",gpus
+829,high_end,280,TITAN RTX,"2,794.99*",39,189,"19,883",gpus
+811,high_end,115,GeForce RTX 4070 Laptop GPU,NA,40,336,"19,738",gpus
+937,high_end,-1,Radeon PRO W6800,"1,849.99*",41,76,"19,709",gpus
+605,high_end,-1,RTX 3500 Ada Generation Laptop GPU,NA,42,11,"19,704",gpus
+932,high_end,250,GeForce RTX 2080 SUPER,740.99*,43,5943,"19,581",gpus
+871,high_end,260,Quadro RTX 8000,"4,741.49*",44,53,"19,402",gpus
+917,high_end,250,TITAN Xp COLLECTORS EDITION,NA,45,185,"19,304",gpus
+977,high_end,140,RTX A4000,749.99*,46,681,"19,216",gpus
+816,high_end,295,Quadro RTX 6000,"6,300.00*",47,130,"19,204",gpus
+922,high_end,175,Radeon RX 6700,NA,48,459,"18,956",gpus
+914,high_end,250,GeForce RTX 2080,800.61,49,7954,"18,810",gpus
+650,high_end,-1,Radeon RX 6850M XT,NA,50,18,"18,738",gpus
+897,high_end,250,NVIDIA TITAN Xp,"1,645.00*",51,275,"18,692",gpus
+767,high_end,-1,Tesla P40,NA,52,3,"18,514",gpus
+943,high_end,250,GeForce GTX 1080 Ti,483.82*,53,24380,"18,510",gpus
+780,high_end,115,GeForce RTX 4060 Laptop GPU,NA,54,354,"18,463",gpus
+793,high_end,115,GeForce RTX 3070 Ti Laptop GPU,NA,55,1570,"18,460",gpus
+549,high_end,-1,NVIDIA A10G,NA,56,3,"18,407",gpus
+893,high_end,215,GeForce RTX 2070 SUPER,497.95,57,11612,"18,256",gpus
+736,high_end,-1,RTX A5500 Laptop GPU,NA,58,124,"18,036",gpus
+522,high_end,-1,A40-48Q,NA,-1,1,"17,864",gpus
+927,high_end,176,Radeon RX 6650 XT,244.99,59,1065,"17,611",gpus
+1059,high_end,-1,Radeon Pro W5700X,NA,-1,1,"17,591",gpus
+788,high_end,-1,RTX A5500,"2,169.99*",60,9,"17,585",gpus
+720,high_end,-1,RTX A4500 Laptop GPU,NA,61,134,"17,559",gpus
+981,high_end,170,GeForce RTX 3060,259.99,62,12178,"17,177",gpus
+1085,high_end,250,TITAN V CEO Edition,NA,63,1,"16,988",gpus
+940,high_end,225,Radeon RX 5700 XT,459.99,64,10131,"16,911",gpus
+788,high_end,300,Radeon VII,"1,899.95*",65,716,"16,790",gpus
+655,high_end,115,GeForce RTX 3080 Laptop GPU,NA,66,1569,"16,671",gpus
+980,high_end,165,Radeon RX 7600,257.99,67,34,"16,657",gpus
+961,high_end,235,Radeon RX 5700 XT 50th Anniversary,NA,68,168,"16,633",gpus
+870,high_end,175,GeForce RTX 2060 SUPER,370.32,69,5644,"16,600",gpus
+932,high_end,160,Radeon RX 6600 XT,349.99,70,2667,"16,467",gpus
+1063,high_end,-1,Radeon PRO W6600,NA,71,63,"16,270",gpus
+405,high_end,-1,Tesla V100-SXM2-16GB,NA,-1,1,"16,235",gpus
+767,high_end,230,Quadro RTX 5000,NA,72,384,"16,195",gpus
+832,high_end,175,GeForce RTX 2070,269.99*,73,10384,"16,175",gpus
+917,high_end,-1,Radeon Pro Vega II Duo,NA,-1,1,"15,977",gpus
+606,high_end,165,RTX A5000 Laptop GPU,NA,74,139,"15,933",gpus
+604,high_end,-1,Miracast display port driver V3,NA,-1,1,"15,910",gpus
+846,high_end,185,GeForce RTX 2060 12GB,NA,75,530,"15,897",gpus
+733,high_end,250,Quadro P6000,"3,250.00*",76,83,"15,710",gpus
+795,high_end,-1,Radeon Pro Vega II,NA,77,4,"15,668",gpus
+556,high_end,140,RTX A4000 Laptop GPU,NA,78,115,"15,624",gpus
+820,high_end,235,Quadro GP100,NA,79,28,"15,608",gpus
+653,high_end,115,GeForce RTX 3070 Laptop GPU,NA,80,3799,"15,548",gpus
+909,high_end,205,Radeon Pro W5700,649.99*,81,127,"15,544",gpus
+895,high_end,180,GeForce GTX 1080,442.79*,82,32807,"15,489",gpus
+711,high_end,100,Radeon RX 6800S,NA,83,67,"15,464",gpus
+744,high_end,-1,Radeon Pro VII,NA,84,10,"15,441",gpus
+890,high_end,160,Quadro RTX 4000,899.00*,85,1011,"15,437",gpus
+648,high_end,115,GeForce RTX 4050 Laptop GPU,NA,86,138,"15,371",gpus
+561,high_end,-1,RTX 2000 Ada Generation Laptop GPU,NA,87,30,"15,188",gpus
+888,high_end,132,Radeon RX 6600,329.00*,88,3146,"15,160",gpus
+812,high_end,150,GeForce RTX 2080 (Mobile),NA,89,201,"15,107",gpus
+643,high_end,80,Radeon RX 6600S,NA,90,2,"14,897",gpus
+705,high_end,110,Quadro RTX 5000 (Mobile),NA,91,66,"14,832",gpus
+883,high_end,180,GeForce GTX 1070 Ti,569.99*,92,8964,"14,710",gpus
+906,high_end,180,Radeon RX 5700,309.99*,93,1765,"14,697",gpus
+635,high_end,120,Radeon RX 7600M XT,NA,94,1,"14,691",gpus
+730,high_end,80,Radeon RX 6700S,NA,95,187,"14,664",gpus
+602,high_end,-1,RTX A3000 12GB Laptop GPU,NA,96,141,"14,638",gpus
+948,high_end,-1,Radeon Pro Vega 64X,NA,-1,1,"14,631",gpus
+809,high_end,295,Radeon RX Vega 64,749.99*,97,2692,"14,590",gpus
+769,high_end,-1,RadeonT RX 6850M XT,NA,98,1,"14,146",gpus
+622,high_end,75,Radeon RX 7600S,NA,99,3,"14,143",gpus
+752,high_end,160,GeForce RTX 2060,265.37,100,16234,"14,104",gpus
+649,high_end,80,GeForce RTX 2070 Super with Max-Q Design,NA,101,226,"14,029",gpus
+819,high_end,230,Radeon Pro WX 8200,"1,599.39*",102,75,"13,926",gpus
+859,high_end,250,GeForce GTX 980 Ti,816.99,103,13187,"13,865",gpus
+893,high_end,150,Radeon RX 5600 XT,545.00*,104,2353,"13,818",gpus
+594,high_end,80,GeForce RTX 2080 Super with Max-Q Design,NA,105,292,"13,798",gpus
+1005,high_end,-1,RTX A2000,419.00,106,325,"13,726",gpus
+912,high_end,250,NVIDIA TITAN X,608.10*,107,500,"13,660",gpus
+702,high_end,100,Radeon RX 6600M,189.99,108,302,"13,636",gpus
+584,high_end,80,Quadro RTX 5000 with Max-Q Design,NA,109,95,"13,617",gpus
+1143,high_end,-1,RTX A2000 12GB,NA,110,330,"13,534",gpus
+785,high_end,210,Radeon RX Vega 56,752.99*,111,2676,"13,506",gpus
+856,high_end,150,GeForce GTX 1070,488.09*,112,41054,"13,505",gpus
+750,high_end,350,Radeon Vega Frontier Edition,"1,679.99*",113,152,"13,463",gpus
+588,high_end,115,GeForce RTX 3060 Laptop GPU,309.99*,114,7383,"13,364",gpus
+593,high_end,135,Radeon RX 6700M,273.36,115,96,"13,339",gpus
+479,high_end,-1,A10-8Q,NA,116,2,"13,235",gpus
+764,high_end,230,Radeon Pro WX 9100,NA,117,90,"13,192",gpus
+542,high_end,90,GeForce RTX 2080 with Max-Q Design,"2,099.99*",118,421,"13,183",gpus
+856,high_end,-1,Radeon PRO W6600X,NA,119,2,"13,113",gpus
+848,high_end,250,GeForce GTX TITAN X,"1,096.99*",120,1615,"13,070",gpus
+958,high_end,130,GeForce RTX 3050,229.99,121,2216,"13,003",gpus
+559,high_end,145,Radeon RX 6800M,NA,122,358,"12,985",gpus
+821,high_end,120,GeForce GTX 1660 Ti,324.77,123,6440,"12,955",gpus
+803,high_end,-1,Radeon Pro Vega 64,NA,124,20,"12,919",gpus
+657,high_end,-1,Radeon RX 6650M,NA,125,11,"12,889",gpus
+818,high_end,125,GeForce GTX 1660 SUPER,219.99,126,8921,"12,803",gpus
+677,high_end,-1,Quadro P5200,NA,127,102,"12,776",gpus
+1014,high_end,-1,Radeon RX 5600 OEM,NA,-1,1,"12,738",gpus
+829,high_end,130,Radeon Pro 5700 XT,NA,128,23,"12,690",gpus
+594,high_end,-1,Tesla T10,NA,129,2,"12,650",gpus
+567,high_end,80,Quadro RTX 4000 with Max-Q Design,NA,130,56,"12,620",gpus
+488,high_end,-1,Quadro P5200 with Max-Q Design,NA,131,24,"12,608",gpus
+487,high_end,130,RTX A3000 Laptop GPU,NA,132,286,"12,510",gpus
+553,high_end,110,Quadro RTX 4000 (Mobile),NA,133,130,"12,447",gpus
+601,high_end,115,GeForce RTX 2070 (Mobile),NA,134,411,"12,354",gpus
+827,high_end,-1,Radeon Pro Vega 56,NA,135,20,"12,354",gpus
+693,high_end,180,Quadro P5000,"1,868.99*",136,650,"12,335",gpus
+713,high_end,-1,Radeon RX 6850M,NA,137,3,"12,274",gpus
+525,high_end,-1,Radeon Pro V520 MxGPU,NA,138,9,"12,258",gpus
+931,high_end,-1,GeForce RTX 3050 OEM,NA,139,50,"12,004",gpus
+494,high_end,80,GeForce RTX 2070 with Max-Q Design,NA,140,1396,"11,917",gpus
+743,high_end,250,Quadro M6000,"4,827.53*",141,126,"11,848",gpus
+829,high_end,130,Radeon Pro 5700,NA,142,3,"11,844",gpus
+621,high_end,-1,Quadro P4200 with Max-Q Design,NA,143,41,"11,816",gpus
+726,high_end,250,Quadro M6000 24GB,NA,144,78,"11,810",gpus
+791,high_end,120,GeForce GTX 1660,254.99,145,4805,"11,729",gpus
+746,high_end,110,GeForce GTX 1080 with Max-Q Design,NA,146,169,"11,571",gpus
+820,high_end,105,Quadro P4000,556.19*,147,1771,"11,548",gpus
+882,high_end,150,Radeon RX 5600,NA,148,35,"11,449",gpus
+539,high_end,80,GeForce RTX 2060 (Mobile),NA,149,1241,"11,355",gpus
+783,high_end,-1,Radeon Pro Vega 48,NA,150,14,"11,300",gpus
+806,high_end,165,GeForce GTX 980,247.35*,151,12777,"11,124",gpus
+525,high_end,80,Quadro RTX 3000,NA,152,572,"11,095",gpus
+1309,high_end,-1,RTX A1000 Embedded GPU,NA,-1,1,"11,047",gpus
+499,high_end,-1,GRID P40-12Q,NA,-1,1,"11,028",gpus
+536,high_end,-1,RTX A2000 8GB Laptop GPU,NA,153,252,"10,924",gpus
+572,high_end,-1,Tesla T4,"4,440.36",154,44,"10,847",gpus
+554,high_end,-1,RTX A1000 6GB Laptop GPU,NA,155,18,"10,808",gpus
+601,high_end,-1,Radeon Pro SSG,"2,410.15*",156,5,"10,498",gpus
+333,high_end,-1,Tesla M40 24GB,NA,157,3,"10,475",gpus
+603,high_end,-1,GeForce GTX 1070 (Mobile),NA,158,642,"10,465",gpus
+499,high_end,100,Quadro P4200,NA,159,68,"10,266",gpus
+485,high_end,-1,Tesla M40,600.00*,160,13,"10,212",gpus
+495,high_end,80,GeForce GTX 1660 Ti (Mobile),NA,161,3709,"10,192",gpus
+493,high_end,80,GeForce RTX 3050 Ti Laptop GPU,NA,162,3324,"10,126",gpus
+756,high_end,100,GeForce GTX 1650 SUPER,285.38*,163,3803,"10,108",gpus
+472,high_end,95,RTX A2000 Laptop GPU,NA,164,408,"10,075",gpus
+758,high_end,120,GeForce GTX 1060,279.99*,165,38072,"10,071",gpus
+445,high_end,90,GeForce GTX 1070 with Max-Q Design,NA,166,652,"10,067",gpus
+840,high_end,-1,Radeon R9 Fury X,NA,167,107,"10,041",gpus
+422,high_end,65,GeForce RTX 2060 with Max-Q Design,NA,168,727,"9,786",gpus
+782,high_end,120,GeForce GTX 1060 3GB,269.99*,169,16920,"9,743",gpus
+811,high_end,275,Radeon R9 Fury + Fury X,449.99*,170,705,"9,741",gpus
+778,high_end,145,GeForce GTX 970,237.99*,171,47532,"9,640",gpus
+797,high_end,-1,Radeon R9 Fury,443.10*,172,421,"9,611",gpus
+592,high_end,80,GeForce RTX 3050 6GB Laptop GPU,NA,173,23,"9,601",gpus
+804,high_end,175,Radeon RX 590,549.99*,174,2780,"9,547",gpus
+839,high_end,107,Radeon RX 6500 XT,159.99,175,930,"9,508",gpus
+516,high_end,-1,RTX A1000 Laptop GPU,NA,176,232,"9,507",gpus
+622,high_end,250,GeForce GTX 780 Ti,339.99*,177,4674,"9,463",gpus
+416,high_end,-1,Radeon Ryzen 9 4900HSS,NA,-1,1,"9,461",gpus
+816,high_end,275,Radeon R9 390X,NA,178,1215,"9,453",gpus
+945,high_end,75,Quadro P2200,459.80*,179,749,"9,384",gpus
+464,high_end,75,GeForce RTX 3050 Laptop GPU,269.99*,180,3585,"9,372",gpus
+668,high_end,150,Quadro M5000,499.00*,181,258,"9,352",gpus
+692,high_end,50,Radeon Pro 5600M,NA,182,14,"9,314",gpus
+553,high_end,-1,Quadro P3200 with Max-Q Design,NA,183,87,"9,249",gpus
+798,high_end,130,Radeon RX 5500 XT,184.99*,184,1904,"9,188",gpus
+502,high_end,-1,NVIDIA A40,NA,185,3,"9,170",gpus
+386,high_end,-1,Tesla P4,NA,186,17,"9,120",gpus
+266,high_end,-1,GRID P40-2B4,NA,187,1,"9,111",gpus
+831,high_end,125,Radeon Pro W5500,409.99*,188,141,"9,107",gpus
+699,high_end,80,Quadro P4000 with Max-Q Design,NA,189,2,"9,083",gpus
+605,high_end,250,GeForce GTX TITAN Black,524.99*,190,417,"9,073",gpus
+811,high_end,275,Radeon R9 390,NA,191,2999,"9,031",gpus
+656,high_end,375,GeForce GTX TITAN Z,"1,515.00*",192,129,"8,987",gpus
+271,high_end,-1,GRID P40-8Q,NA,193,2,"8,967",gpus
+597,high_end,120,GeForce GTX 1060 5GB,487.99*,194,81,"8,917",gpus
+775,high_end,185,Radeon RX 580,179.99*,195,20939,"8,912",gpus
+484,high_end,-1,Quadro P3200,389.30*,196,262,"8,905",gpus
+784,high_end,150,Radeon RX 5500,NA,197,135,"8,860",gpus
+779,high_end,-1,Radeon R9 290X,NA,198,310,"8,725",gpus
+785,high_end,150,Radeon RX 480,339.99*,199,11034,"8,692",gpus
+371,high_end,60,GeForce GTX 1660 Ti with Max-Q Design,NA,200,858,"8,661",gpus
+784,high_end,500,Radeon R9 295X2,499.10*,201,531,"8,638",gpus
+623,high_end,225,Intel Arc A770,319.99,202,376,"8,624",gpus
+646,high_end,175,Radeon RX590 GME,NA,203,59,"8,604",gpus
+345,high_end,60,Quadro RTX 3000 with Max-Q Design,NA,204,79,"8,587",gpus
+592,high_end,-1,GRID RTX6000-1B,NA,205,3,"8,473",gpus
+790,high_end,-1,Radeon R9 290,NA,206,454,"8,400",gpus
+698,high_end,290,Radeon R9 290X / 390X,319.99*,207,4607,"8,389",gpus
+414,high_end,-1,Ryzen 5 4600HS with Radeon Graphics,NA,208,3,"8,371",gpus
+612,high_end,-1,Radeon Pro 5500 XT,NA,209,7,"8,326",gpus
+720,high_end,350,Radeon Pro Duo,"3,970.36",210,708,"8,294",gpus
+327,high_end,-1,Tesla V100-PCIE-32GB,NA,-1,1,"8,260",gpus
+611,high_end,225,Intel Arc A750,219.99,211,156,"8,213",gpus
+627,high_end,250,GeForce GTX Titan,745.00*,212,1217,"8,186",gpus
+444,high_end,80,GeForce GTX 1060 (Mobile),NA,213,1662,"8,161",gpus
+695,high_end,275,Radeon R9 290 / 390,380.00*,214,8447,"8,150",gpus
+730,high_end,120,Radeon RX 470/570,388.99*,215,15594,"8,065",gpus
+537,high_end,225,Quadro K6000,210.66*,216,162,"8,020",gpus
+590,high_end,250,GeForce GTX 780,279.99*,217,8556,"8,019",gpus
+836,high_end,-1,Ryzen 9 6900HS,NA,218,3,"8,005",gpus
+416,high_end,-1,Radeon RX 6500M,NA,219,68,"8,000",gpus
+833,high_end,-1,Radeon PRO W6400,NA,220,17,"7,936",gpus
+776,high_end,275,FirePro W9100,"1,729.99*",221,30,"7,928",gpus
+417,high_end,80,GeForce GTX 1060 with Max-Q Design,NA,222,1855,"7,923",gpus
+697,high_end,150,Quadro M5500,NA,223,3,"7,915",gpus
+801,high_end,130,Radeon Pro WX 7100,"1,047.99*",224,280,"7,914",gpus
+503,high_end,150,Radeon RX 5600M,NA,225,102,"7,897",gpus
+582,high_end,75,GeForce GTX 1650,144.99,226,13149,"7,854",gpus
+884,high_end,185,Radeon RX 580X,NA,227,1,"7,798",gpus
+449,high_end,-1,T1200 Laptop GPU,NA,228,284,"7,772",gpus
+562,high_end,-1,Tesla M60,787.90*,229,17,"7,771",gpus
+660,high_end,-1,Radeon RX 580 2048SP,NA,230,823,"7,760",gpus
+942,high_end,-1,Radeon Pro 580,NA,231,2,"7,753",gpus
+849,high_end,-1,T1000,399.99,232,227,"7,681",gpus
+868,high_end,-1,T1000 8GB,NA,233,125,"7,670",gpus
+807,high_end,100,Radeon RX 5300,NA,234,16,"7,663",gpus
+697,high_end,150,Radeon Pro 580X,NA,235,1,"7,540",gpus
+395,high_end,55,GeForce GTX 1650 Ti,NA,236,2283,"7,540",gpus
+440,high_end,-1,Tesla M6,199.00*,237,2,"7,509",gpus
+705,high_end,53,Radeon RX 6400,154.99,238,383,"7,480",gpus
+633,high_end,-1,Radeon Pro 5300,NA,239,9,"7,416",gpus
+505,high_end,100,GeForce GTX 980M,289.99*,240,2559,"7,368",gpus
+736,high_end,220,FirePro W8100,704.00*,241,51,"7,313",gpus
+572,high_end,-1,Tesla P100-PCIE-16GB,NA,242,2,"7,225",gpus
+918,high_end,-1,Radeon 780M,NA,243,26,"7,217",gpus
+373,high_end,-1,Radeon Ryzen 9 4900HS,NA,244,10,"7,186",gpus
+588,high_end,150,Intel Arc A770M,NA,245,20,"7,147",gpus
+467,high_end,-1,Quadro T2000,528.35*,246,555,"7,135",gpus
+397,high_end,80,GeForce RTX 3050 4GB Laptop GPU,NA,247,17,"7,079",gpus
+485,high_end,100,Quadro M5000M,546.92*,248,186,"7,025",gpus
+432,high_end,-1,T600 Laptop GPU,NA,249,177,"7,014",gpus
+660,high_end,75,Quadro P2000,439.60,250,2055,"7,005",gpus
+354,high_end,-1,Ryzen 7 4800HS with Radeon Graphics,NA,-1,1,"6,999",gpus
+430,high_end,45,GeForce RTX 2050,NA,251,73,"6,973",gpus
+384,high_end,50,GeForce GTX 1650 (Mobile),NA,252,1756,"6,969",gpus
+445,high_end,-1,Quadro T2000 with Max-Q Design,NA,253,166,"6,895",gpus
+704,high_end,-1,Ryzen 7 6800HS with Radeon Graphics,NA,254,3,"6,867",gpus
+678,high_end,85,Radeon Pro 5500M,NA,255,126,"6,826",gpus
+662,high_end,-1,Radeon RX 6500,NA,256,3,"6,802",gpus
+771,high_end,-1,Radeon Ryzen 7 6800HS,NA,257,9,"6,775",gpus
+724,high_end,-1,GeForce GTX 970XM FORCE,NA,258,1,"6,707",gpus
+443,high_end,-1,RTX A500 Laptop GPU,NA,259,36,"6,699",gpus
+597,high_end,-1,Radeon R9 285,NA,-1,1,"6,680",gpus
+438,high_end,-1,Quadro T1000 with Max-Q Design,NA,260,118,"6,666",gpus
+692,high_end,120,Quadro M4000,362.00*,261,1320,"6,652",gpus
+446,high_end,75,Quadro P3000,NA,262,186,"6,595",gpus
+433,high_end,-1,Quadro T1000,404.98,263,569,"6,593",gpus
+555,high_end,130,Radeon Pro WX 7130,NA,264,7,"6,578",gpus
+802,high_end,-1,Radeon RX Vega M GH,NA,265,318,"6,571",gpus
+668,high_end,-1,Radeon Ryzen 9 7950X 16-Core,NA,266,81,"6,552",gpus
+740,high_end,-1,T600,239.99*,267,270,"6,513",gpus
+715,high_end,-1,Radeon Ryzen 9 6900HS,NA,268,9,"6,439",gpus
+334,high_end,35,GeForce GTX 1650 Ti with Max-Q Design,NA,269,310,"6,369",gpus
+443,high_end,-1,Radeon Ryzen 7 4800HS,NA,270,10,"6,345",gpus
+697,high_end,-1,Radeon Pro 570,NA,271,2,"6,337",gpus
+651,high_end,75,GeForce GTX 1050 Ti,204.99,272,30450,"6,299",gpus
+670,high_end,190,Radeon R9 380X,349.99*,273,1097,"6,261",gpus
+690,high_end,250,Radeon R9 280X,NA,274,4932,"6,241",gpus
+664,high_end,190,Radeon R9 380,89.99*,275,3504,"6,240",gpus
+438,high_end,100,Quadro M4000M,254.91*,276,117,"6,231",gpus
+720,high_end,274,FirePro W9000,845.00*,277,14,"6,138",gpus
+322,high_end,35,GeForce GTX 1650 with Max-Q Design,NA,278,983,"6,078",gpus
+390,high_end,-1,GeForce MX570 A,NA,279,26,"6,062",gpus
+676,high_end,120,GeForce GTX 960,172.00*,280,22967,"6,031",gpus
+265,high_end,-1,P106-100,NA,281,13,"6,001",gpus
+549,high_end,-1,Ryzen 9 5900HS with Radeon Graphics,NA,282,31,"5,991",gpus
+625,high_end,85,Radeon Pro 5300M,NA,283,40,"5,973",gpus
+756,high_end,-1,GRID P100-16Q,NA,284,1,"5,945",gpus
+386,high_end,-1,Tesla K80,593.95*,285,2,"5,940",gpus
+510,high_end,150,Quadro K5200,415.00*,286,298,"5,926",gpus
+322,high_end,-1,GeForce GTX 1050 Ti (Mobile),NA,287,1543,"5,919",gpus
+555,high_end,230,GeForce GTX 770,249.00*,288,14523,"5,893",gpus
+745,high_end,-1,Ryzen 9 6900HS with Radeon Graphics,NA,289,5,"5,827",gpus
+428,high_end,-1,GeForce MX570,NA,290,14,"5,801",gpus
+56,high_end,-1,A16,NA,-1,1,"5,797",gpus
+780,high_end,-1,Radeon PRO Ryzen 7 PRO 6850U,NA,291,32,"5,789",gpus
+799,high_end,-1,Radeon Ryzen 7 PRO 6850H,NA,292,16,"5,768",gpus
+949,high_end,-1,Ryzen 9 PRO 6950H,NA,293,9,"5,759",gpus
+391,high_end,75,GeForce GTX 970M,209.99*,294,3426,"5,732",gpus
+788,high_end,-1,Radeon Ryzen 7 6800H,NA,295,66,"5,698",gpus
+805,high_end,-1,Radeon Ryzen 7 7735H,NA,-1,1,"5,632",gpus
+786,high_end,75,Radeon Pro WX 5100,359.99*,296,245,"5,624",gpus
+670,high_end,250,Radeon R9 280,NA,297,3419,"5,604",gpus
+741,high_end,-1,Ryzen 7 PRO 6850U,NA,298,25,"5,581",gpus
+198,high_end,-1,NVIDIA A40-12Q,NA,-1,1,"5,573",gpus
+765,high_end,375,Radeon HD 7990,399.99*,299,301,"5,566",gpus
+465,high_end,300,GeForce GTX 690,280.99*,300,1185,"5,557",gpus
+654,high_end,190,Radeon R9 285 / 380,485.00*,301,1841,"5,550",gpus
+531,high_end,195,GeForce GTX 680,399.00*,302,7179,"5,531",gpus
+380,high_end,-1,GRID M60-8A,NA,303,1,"5,523",gpus
+396,high_end,75,Quadro M3000M,159.95*,304,329,"5,478",gpus
+693,high_end,-1,GeForce GTX 760 Ti OEM,NA,305,13,"5,427",gpus
+836,high_end,-1,Ryzen 9 6900HX,NA,306,16,"5,416",gpus
+694,high_end,150,FirePro W7100,389.30*,307,184,"5,399",gpus
+357,high_end,-1,GeForce GTX 1050 Ti with Max-Q Design,NA,308,1541,"5,392",gpus
+549,high_end,-1,Radeon Pro Vega 20,NA,309,34,"5,391",gpus
+780,high_end,-1,Radeon Ryzen 7 7736U,NA,-1,1,"5,377",gpus
+670,high_end,-1,GRID P40-4Q,NA,310,2,"5,365",gpus
+648,high_end,90,GeForce GTX 950,141.99*,311,6938,"5,346",gpus
+840,high_end,-1,Ryzen 7 6800HS Creator Edition,NA,312,7,"5,345",gpus
+524,high_end,170,GeForce GTX 670,193.98*,313,9403,"5,300",gpus
+825,high_end,-1,Radeon Ryzen 7 7735HS,NA,314,135,"5,276",gpus
+413,high_end,85,Radeon RX 5500M,NA,315,206,"5,269",gpus
+729,high_end,250,Radeon HD 7970 / R9 280X,246.99*,316,10419,"5,248",gpus
+808,high_end,-1,Ryzen 7 6800H,NA,317,10,"5,248",gpus
+867,high_end,-1,Ryzen 7 6800HS,NA,318,3,"5,237",gpus
+853,high_end,-1,Radeon Ryzen 9 6900HX,NA,319,154,"5,224",gpus
+658,high_end,375,Radeon HD 8990,NA,320,26,"5,214",gpus
+310,high_end,-1,GRID M60-2Q,NA,321,6,"5,203",gpus
+819,high_end,-1,Radeon Ryzen 7 6800HS Creator Edition,NA,322,12,"5,189",gpus
+864,high_end,-1,Radeon Ryzen 7 PRO 6850HS,NA,323,8,"5,166",gpus
+599,high_end,-1,Q12U-1,NA,324,1,"5,164",gpus
+832,high_end,125,Radeon R9 M295X,"1,449.00*",325,28,"5,150",gpus
+546,high_end,170,GeForce GTX 760 Ti,297.50*,326,155,"5,145",gpus
+763,high_end,-1,Radeon Ryzen 7 PRO 6850U,NA,327,94,"5,127",gpus
+627,high_end,75,GeForce GTX 1050 3GB,NA,328,100,"5,121",gpus
+686,high_end,-1,GeForce GTX 1630,139.99,329,43,"5,085",gpus
+837,high_end,-1,Ryzen 7 PRO 6860Z,NA,330,2,"5,077",gpus
+867,high_end,-1,Ryzen 9 PRO 6950HS with Radeon Graphics,NA,331,3,"5,068",gpus
+478,high_end,-1,Quadro P2000 with Max-Q Design,NA,332,92,"5,062",gpus
+560,high_end,-1,FirePro S9000,NA,333,6,"5,059",gpus
+951,high_end,-1,EIZO Quadro MED-XN51LP,NA,334,3,"5,048",gpus
+468,high_end,75,GeForce GTX 1050,239.99*,335,16753,"5,043",gpus
+745,high_end,125,Radeon R9 M395,NA,336,39,"5,024",gpus
+783,high_end,-1,Ryzen 7 6800U,NA,337,17,"5,006",gpus
+679,high_end,-1,Radeon Ryzen 7 7735U,NA,338,34,"5,003",gpus
+651,high_end,-1,Radeon Ryzen 9 7900 12-Core,NA,339,20,"4,990",gpus
+805,high_end,-1,Ryzen 7 PRO 6850U with Radeon Graphics,NA,340,47,"4,966",gpus
+441,high_end,-1,Barco MXRT 7600,602.59*,341,1,"4,944",gpus
+612,high_end,180,Radeon R9 270X,326.50*,342,10492,"4,917",gpus
+368,high_end,-1,FirePro S9050,NA,343,2,"4,901",gpus
+479,high_end,-1,Ryzen 7 5800HS with Radeon Graphics,NA,344,2,"4,839",gpus
+360,high_end,-1,Radeon Instinct MI25 MxGPU,NA,345,5,"4,816",gpus
+781,high_end,-1,Ryzen 7 6800H with Radeon Graphics,NA,346,15,"4,796",gpus
+524,high_end,170,GeForce GTX 760,149.00*,347,17665,"4,778",gpus
+192,high_end,-1,GRID RTX6000P-6Q,NA,348,4,"4,777",gpus
+414,high_end,-1,T550 Laptop GPU,NA,349,95,"4,776",gpus
+761,high_end,125,Radeon R9 M395X,NA,350,31,"4,775",gpus
+502,high_end,-1,FirePro S10000,NA,351,6,"4,768",gpus
+690,high_end,200,Radeon HD 7950 / R9 280,132.20*,352,7473,"4,765",gpus
+551,high_end,-1,Radeon Sky 500,NA,353,9,"4,736",gpus
+801,high_end,-1,Ryzen 7 PRO 6860Z with Radeon Graphics,NA,354,13,"4,730",gpus
+652,high_end,-1,GRID P40-24Q,NA,355,2,"4,728",gpus
+780,high_end,150,Radeon R9 370,159.99*,356,3,"4,722",gpus
+709,high_end,-1,Radeon Ryzen 7 PRO 6860Z,NA,357,12,"4,710",gpus
+776,high_end,-1,Ryzen 7 6800U with Radeon Graphics,NA,358,25,"4,709",gpus
+672,high_end,-1,Radeon Pro Vega 16,NA,359,1,"4,683",gpus
+79,high_end,-1,GRID V100D-2Q,NA,360,1,"4,668",gpus
+669,high_end,-1,Radeon Ryzen 7 6800U,NA,361,58,"4,659",gpus
+404,high_end,65,Radeon Pro WX Vega M GL,NA,362,4,"4,643",gpus
+592,high_end,175,Radeon HD 7870,176.00*,363,7596,"4,636",gpus
+407,high_end,-1,GeForce MX550,NA,364,159,"4,597",gpus
+533,high_end,-1,B8DKMDAP,NA,365,1,"4,557",gpus
+562,high_end,-1,Radeon Pro 465,NA,366,1,"4,538",gpus
+470,high_end,244,GeForce GTX 580,139.92*,367,4618,"4,537",gpus
+705,high_end,150,FirePro S7000,246.54*,368,7,"4,524",gpus
+186,high_end,-1,GRID T4-8Q,NA,369,6,"4,519",gpus
+603,high_end,150,Radeon R7 370,NA,370,3624,"4,507",gpus
+661,high_end,185,Radeon HD 7870 XT,NA,371,1221,"4,470",gpus
+291,high_end,-1,GeForce GTX 1050 (Mobile),NA,372,2443,"4,462",gpus
+483,high_end,-1,GRID M60-1B,NA,373,1,"4,457",gpus
+700,high_end,-1,Citrix Indirect Display Adapter,NA,374,1,"4,447",gpus
+585,high_end,-1,GRID P6-4Q,NA,375,3,"4,429",gpus
+622,high_end,47,Quadro P1000,289.99*,376,1561,"4,422",gpus
+457,high_end,150,GeForce GTX 660 Ti,144.00*,377,7961,"4,369",gpus
+641,high_end,-1,FirePro W7000 Adapter,NA,378,41,"4,362",gpus
+385,high_end,55,Quadro M2200,249.99*,379,534,"4,346",gpus
+783,high_end,-1,Radeon Ryzen 5 7535HS,NA,380,2,"4,343",gpus
+277,high_end,-1,GRID GTX P40-6,NA,381,2,"4,340",gpus
+758,high_end,-1,Radeon Ryzen 5 6600H,NA,382,14,"4,333",gpus
+205,high_end,-1,Tesla K20m,NA,383,3,"4,331",gpus
+505,high_end,105,Quadro K4200,249.00*,384,993,"4,310",gpus
+566,high_end,-1,Radeon R9 270,NA,385,11,"4,306",gpus
+122,high_end,-1,P104-100,299.99*,386,2,"4,290",gpus
+75,high_end,-1,GRID RTX6000P-4Q,NA,-1,1,"4,283",gpus
+645,high_end,150,Radeon R9 270 / R7 370,213.16*,387,4752,"4,260",gpus
+211,high_end,-1,GRID M60-1Q,NA,388,13,"4,251",gpus
+551,high_end,150,FirePro W7000,278.05*,389,249,"4,250",gpus
+86,high_end,-1,RTXA6000-8Q,NA,-1,1,"4,237",gpus
+77,high_end,-1,NVIDIA A40-4Q,NA,-1,1,"4,230",gpus
+801,high_end,-1,Ryzen 9 6900HX with Radeon Graphics,NA,390,2,"4,209",gpus
+370,high_end,85,Radeon RX 5300M,NA,391,12,"4,198",gpus
+518,high_end,-1,GRID V100D-8Q,NA,392,1,"4,156",gpus
+589,high_end,122,GeForce GTX 680MX,NA,393,39,"4,142",gpus
+575,high_end,75,Radeon RX 460,166.81*,394,3418,"4,114",gpus
+463,high_end,189,FirePro W8000,573.00*,395,42,"4,096",gpus
+829,high_end,-1,Radeon PRO Ryzen 5 PRO 6650U,NA,396,3,"4,067",gpus
+448,high_end,250,GeForce GTX 480,169.99*,397,1853,"4,042",gpus
+504,high_end,-1,Radeon Ryzen 7 4800H,NA,398,151,"4,032",gpus
+708,high_end,-1,Radeon HD 7800-serie,NA,399,1,"4,029",gpus
+262,high_end,-1,GRID P40-2Q,NA,400,4,"4,023",gpus
+474,high_end,140,GeForce GTX 660,167.95*,401,15561,"3,991",gpus
+544,high_end,75,Intel Arc A380,NA,402,56,"3,987",gpus
+76,high_end,-1,A40-24Q,NA,-1,1,"3,973",gpus
+439,high_end,122,Quadro K5000,249.00*,403,549,"3,969",gpus
+80,high_end,-1,GRID RTX8000-4Q,NA,-1,1,"3,961",gpus
+570,high_end,75,Quadro M2000,264.24*,404,735,"3,939",gpus
+336,high_end,-1,GRID P6-2Q,NA,405,3,"3,926",gpus
+467,high_end,219,GeForce GTX 570,149.99*,406,5308,"3,920",gpus
+800,high_end,-1,Radeon Ryzen 9 PRO 6950HS,NA,407,4,"3,902",gpus
+507,high_end,60,GeForce GTX 750 Ti,88.11*,408,20731,"3,898",gpus
+617,high_end,-1,GRID M60-8Q,NA,409,13,"3,884",gpus
+402,high_end,122,GeForce GTX 780M,499.00*,410,822,"3,878",gpus
+806,high_end,100,Radeon HD 8970M,139.99*,411,51,"3,876",gpus
+290,high_end,-1,GeForce GTX 1050 with Max-Q Design,NA,412,221,"3,874",gpus
+549,high_end,75,Radeon HD 7970M,NA,413,315,"3,847",gpus
+558,high_end,130,Radeon HD 7850,169.99*,414,11066,"3,844",gpus
+84,high_end,-1,GRID RTX8000P-2Q,NA,-1,1,"3,843",gpus
+480,high_end,-1,GRID P100-8Q,NA,415,1,"3,841",gpus
+700,high_end,-1,Radeon Ryzen 5 7535U,NA,416,4,"3,839",gpus
+768,high_end,-1,Radeon Ryzen 5 6600HS Creator Edition,NA,417,8,"3,838",gpus
+277,high_end,-1,GRID M60-4Q,NA,418,6,"3,831",gpus
+78,high_end,-1,GRID V100-2Q,NA,-1,1,"3,811",gpus
+330,high_end,130,GeForce GTX 880M,NA,419,631,"3,776",gpus
+668,high_end,50,Radeon Pro WX 4100,499.99*,420,153,"3,759",gpus
+341,high_end,-1,Tesla K40c,NA,-1,1,"3,756",gpus
+730,high_end,-1,Barco MXRT 7500,299.00*,421,5,"3,753",gpus
+757,high_end,-1,Ryzen 7 PRO 6850HS with Radeon Graphics,NA,422,5,"3,736",gpus
+844,high_end,-1,Ryzen 5 PRO 6650H with Radeon Graphics,NA,-1,1,"3,727",gpus
+300,high_end,-1,GeForce MX450,NA,423,591,"3,721",gpus
+328,high_end,60,GeForce GTX 965M,NA,424,937,"3,709",gpus
+831,high_end,-1,Eng Sample: 100-000000545-40_Y,NA,-1,1,"3,692",gpus
+570,high_end,-1,GeForce GTX 775M,NA,425,34,"3,689",gpus
+767,high_end,-1,Ryzen 5 6600HS Creator Edition,NA,426,4,"3,686",gpus
+710,high_end,-1,Radeon Pro 560X,NA,427,2,"3,678",gpus
+668,high_end,-1,Ryzen 5 6600H with Radeon Graphics,NA,-1,1,"3,674",gpus
+646,high_end,-1,T400 4GB,NA,428,86,"3,668",gpus
+417,high_end,-1,Radeon R9 M485X,NA,429,3,"3,661",gpus
+420,high_end,-1,Intel Arc A370M,NA,-1,1,"3,646",gpus
+746,high_end,-1,Radeon Ryzen 5 PRO 6650U,NA,430,34,"3,642",gpus
+504,high_end,80,Radeon RX 560,215.99,431,3740,"3,638",gpus
+295,high_end,-1,T500,NA,432,303,"3,636",gpus
+717,high_end,-1,Ryzen 5 PRO 6650U with Radeon Graphics,NA,433,17,"3,630",gpus
+589,high_end,-1,T400,179.99*,434,139,"3,629",gpus
+75,high_end,-1,NVIDIA A40-8Q,NA,-1,1,"3,596",gpus
+564,high_end,40,Quadro P620,574.80,435,845,"3,584",gpus
+493,high_end,-1,Radeon RX Vega M GL,NA,436,192,"3,579",gpus
+86,high_end,-1,GRID RTX8000-2Q,NA,-1,1,"3,574",gpus
+580,high_end,-1,GeForce GTX 680M KY_Bullet Edition,NA,437,1,"3,569",gpus
+556,high_end,-1,GRID M6-8Q,NA,438,1,"3,568",gpus
+540,high_end,68,Quadro K2200,268.30*,439,1802,"3,542",gpus
+719,high_end,-1,Radeon Ryzen 5 6600U,NA,440,13,"3,528",gpus
+160,high_end,-1,GRID K520,149.99*,441,20,"3,516",gpus
+397,high_end,204,Quadro 7000,NA,442,2,"3,505",gpus
+617,high_end,-1,Radeon Ryzen 9 7900X 12-Core,NA,443,62,"3,500",gpus
+767,high_end,-1,Ryzen 5 PRO 6650U,NA,444,10,"3,493",gpus
+521,high_end,-1,Tesla M10,"2,695.00*",445,2,"3,490",gpus
+723,high_end,-1,Radeon Pro 560,NA,446,4,"3,475",gpus
+283,high_end,110,GeForce GTX 870M,NA,447,700,"3,458",gpus
+678,high_end,-1,Radeon Pro 460,NA,448,3,"3,453",gpus
+72,high_end,-1,GRID T4-2Q,NA,449,3,"3,451",gpus
+374,high_end,-1,Quadro K2200M,124.95*,450,53,"3,441",gpus
+337,high_end,55,Quadro M2000M,213.16*,451,1075,"3,436",gpus
+567,high_end,238,Tesla C2050 / C2070,NA,452,5,"3,428",gpus
+231,high_end,-1,NVIDIA A10-4Q,NA,453,2,"3,425",gpus
+551,high_end,75,Radeon R9 M470X,NA,454,9,"3,400",gpus
+246,high_end,65,GeForce GTX 960M,"1,169.00*",455,8834,"3,398",gpus
+663,high_end,-1,Radeon HD8970M,NA,456,16,"3,369",gpus
+707,high_end,-1,Radeon E8870PCIe,NA,457,1,"3,368",gpus
+491,high_end,55,GeForce GTX 750,79.99*,458,6060,"3,357",gpus
+633,high_end,-1,GRID P40-2B,NA,459,1,"3,354",gpus
+556,high_end,-1,GRID M10-1Q,NA,460,1,"3,351",gpus
+458,high_end,100,Radeon R9 M390X,NA,461,25,"3,346",gpus
+393,high_end,365,GeForce GTX 590,435.00*,462,419,"3,341",gpus
+447,high_end,134,GeForce GTX 650 Ti BOOST,NA,463,2455,"3,334",gpus
+407,high_end,-1,Tesla C2050,269.99*,464,11,"3,323",gpus
+85,high_end,-1,GRID P4-8Q,NA,-1,1,"3,299",gpus
+317,high_end,45,Quadro M1200,NA,465,815,"3,284",gpus
+110,high_end,-1,Tesla K40m,NA,466,3,"3,281",gpus
+707,high_end,-1,Radeon Pro,229.99*,467,16,"3,273",gpus
+83,high_end,-1,GRID T4-4Q,NA,468,8,"3,260",gpus
+499,high_end,-1,GeForce 770M,176.99*,469,1,"3,246",gpus
+479,high_end,40,Quadro P600,207.42,470,559,"3,240",gpus
+731,high_end,-1,Eng Sample: 100-000000534-40_Y,NA,-1,1,"3,237",gpus
+754,high_end,-1,Ryzen 5 6600U with Radeon Graphics,NA,471,2,"3,233",gpus
+452,high_end,75,Radeon RX 560X,NA,472,30,"3,195",gpus
+336,high_end,100,GeForce GTX 680M,135.99*,473,471,"3,190",gpus
+585,high_end,-1,Radeon R9 260,NA,474,6,"3,182",gpus
+667,high_end,-1,FirePro V7000,NA,475,2,"3,162",gpus
+417,high_end,-1,FirePro W7170M,NA,476,23,"3,162",gpus
+516,high_end,115,Radeon R7 260X,139.99*,477,4859,"3,154",gpus
+417,high_end,100,Radeon R9 M290X,NA,478,107,"3,152",gpus
+658,high_end,-1,Radeon Pro 555,"1,049.00*",479,2,"3,141",gpus
+385,high_end,100,Quadro K5100M,"1,108.84*",480,139,"3,121",gpus
+589,high_end,-1,Tesla C2075,646.00*,481,10,"3,118",gpus
+704,high_end,-1,Radeon Pro 455,449.00*,482,2,"3,113",gpus
+493,high_end,247,Tesla C2070,604.00*,483,11,"3,101",gpus
+384,high_end,-1,Intel G35 Express,NA,484,45,"3,090",gpus
+458,high_end,85,Radeon HD 7790,139.99*,485,2143,"3,090",gpus
+650,high_end,-1,Radeon Ryzen 7 5800HS,NA,486,14,"3,071",gpus
+514,high_end,100,Radeon R7 360,145.99*,487,1802,"3,066",gpus
+387,high_end,215,GeForce GTX 470,59.99*,488,2015,"3,066",gpus
+224,high_end,45,GeForce GTX 860M,114.00*,489,3978,"3,052",gpus
+405,high_end,-1,EIZO MED-X5000,NA,-1,1,"3,038",gpus
+460,high_end,85,Radeon R9 360,133.89*,490,23,"3,032",gpus
+427,high_end,170,GeForce GTX 560 Ti,129.99*,491,9751,"3,027",gpus
+630,high_end,375,Radeon HD 6990,498.49*,492,15,"3,013",gpus
+273,high_end,-1,GRID M10-4Q,NA,493,2,"2,977",gpus
+532,high_end,75,FirePro W5100,125.99*,494,338,"2,966",gpus
+566,high_end,75,FirePro W5000,184.00*,495,233,"2,965",gpus
+361,high_end,-1,GRID K260Q,NA,496,4,"2,949",gpus
+319,high_end,40,Quadro M1000M,85.99*,497,1439,"2,927",gpus
+171,high_end,-1,Tesla K20Xm,NA,498,2,"2,918",gpus
+558,high_end,95,Radeon R7 260,89.99*,499,107,"2,892",gpus
+752,high_end,-1,Ryzen 9 5900HX with Radeon Graphics,NA,500,362,"2,891",gpus
+712,high_end,-1,Ryzen 7 PRO 4700G with Radeon Graphics,NA,-1,1,"2,880",gpus
+567,high_end,45,Quadro K1200,285.29*,501,424,"2,879",gpus
+864,high_end,-1,Eng Sample: 100-000000261-50_Y,NA,502,2,"2,860",gpus
+118,high_end,-1,Radeon Pro V340 MxGPU,NA,503,1,"2,853",gpus
+371,high_end,-1,GRID K280Q,NA,504,30,"2,840",gpus
+242,high_end,-1,GeForce MX350,NA,505,511,"2,836",gpus
+421,high_end,250,Radeon HD 6970,149.99*,506,2186,"2,824",gpus
+555,high_end,225,FirePro 3D V9800,"2,499.00*",507,3,"2,812",gpus
+410,high_end,30,Quadro M620,NA,508,259,"2,808",gpus
+821,high_end,-1,Ryzen 7 5700G with Radeon Graphics,NA,509,1451,"2,805",gpus
+343,high_end,75,GeForce GTX 770M,138.00*,510,1054,"2,802",gpus
+653,high_end,-1,Radeon Ryzen 7 PRO 7730U,NA,511,15,"2,792",gpus
+773,high_end,-1,Ryzen 7 5800H with Radeon Graphics,NA,512,43,"2,782",gpus
+575,high_end,-1,Radeon R9 M380,NA,513,23,"2,770",gpus
+359,high_end,100,Quadro K5000M,508.91*,514,106,"2,763",gpus
+639,high_end,50,FirePro W4300,239.99*,515,37,"2,757",gpus
+836,high_end,-1,Radeon Ryzen 9 5900H,NA,-1,1,"2,755",gpus
+370,high_end,-1,FirePro M6100 FireGL V,NA,516,10,"2,749",gpus
+751,high_end,-1,Radeon Ryzen 9 5980HS,NA,-1,1,"2,749",gpus
+397,high_end,100,GeForce GTX 675MX,NA,517,142,"2,748",gpus
+370,high_end,-1,Custom GPU 0405,NA,518,46,"2,743",gpus
+319,high_end,-1,GRID K2,"4,449.99",519,17,"2,737",gpus
+465,high_end,-1,FirePro S7150,"1,697.99*",520,4,"2,727",gpus
+655,high_end,-1,FirePro V9800,474.00*,521,18,"2,727",gpus
+619,high_end,-1,Radeon Pro 450,NA,522,3,"2,723",gpus
+419,high_end,150,GeForce GTX 560,205.00*,523,5293,"2,720",gpus
+690,high_end,-1,Ryzen 9 4900H with Radeon Graphics,NA,-1,1,"2,714",gpus
+84,high_end,-1,GRID T4-1Q,NA,524,2,"2,703",gpus
+510,high_end,-1,Barco MXRT 5500,299.00*,525,1,"2,702",gpus
+413,high_end,80,Quadro K4000,270.00*,526,1284,"2,700",gpus
+439,high_end,204,Quadro 6000,"4,092.38*",527,247,"2,696",gpus
+484,high_end,50,Radeon RX 550,178.84,528,1032,"2,692",gpus
+73,high_end,-1,GRID M10-2Q,NA,529,3,"2,692",gpus
+716,high_end,-1,Radeon Ryzen 7 5800H,NA,530,325,"2,687",gpus
+672,high_end,-1,Radeon Ryzen 7 4700GE,NA,531,10,"2,686",gpus
+337,high_end,-1,Intel Iris Xe,NA,532,12815,"2,686",gpus
+465,high_end,200,GeForce GTX 465,195.00*,533,539,"2,684",gpus
+702,high_end,-1,Ryzen 7 Pro 4750G with Radeon Graphics,NA,534,91,"2,682",gpus
+747,high_end,-1,Radeon Eng Sample: 100-000000300-40_Y,NA,535,3,"2,670",gpus
+857,high_end,-1,Ryzen 7 5700GE with Radeon Graphics,NA,536,8,"2,656",gpus
+625,high_end,-1,FirePro R5000,109.99*,537,1,"2,647",gpus
+42,high_end,-1,GRID P6-4A,NA,-1,1,"2,639",gpus
+685,high_end,-1,MONSTER GeForce GTX 675M,NA,538,1,"2,637",gpus
+429,high_end,200,Radeon HD 6950,139.99*,539,5054,"2,634",gpus
+318,high_end,100,Quadro K4100M,261.29*,540,264,"2,629",gpus
+556,high_end,-1,GRID M10-8Q,NA,541,2,"2,606",gpus
+694,high_end,-1,Radeon Ryzen 7 PRO 4750G,NA,542,169,"2,602",gpus
+886,high_end,-1,Ryzen 5 5600GE with Radeon Graphics,NA,543,18,"2,602",gpus
+62,high_end,-1,GRID T4-2B,NA,544,2,"2,601",gpus
+714,high_end,-1,Radeon Ryzen 7 4700G,NA,545,40,"2,597",gpus
+217,high_end,75,GeForce GTX 950M,567.00*,546,4760,"2,596",gpus
+360,high_end,225,Radeon HD 8950,NA,547,106,"2,594",gpus
+786,high_end,-1,Ryzen 5 5600G with Radeon Graphics,NA,548,2527,"2,584",gpus
+621,high_end,-1,Radeon Ryzen 7 7700X 8-Core,NA,549,45,"2,581",gpus
+671,high_end,-1,Radeon Ryzen 9 4900H,NA,550,42,"2,575",gpus
+682,high_end,-1,Ryzen 7 PRO 4750GE with Radeon Graphics,NA,551,7,"2,550",gpus
+807,high_end,-1,Ryzen 7 PRO 5750GE with Radeon Graphics,NA,552,71,"2,543",gpus
+211,high_end,-1,GRID K240Q,NA,553,8,"2,541",gpus
+224,high_end,40,GeForce GTX 850M,NA,554,2602,"2,538",gpus
+373,high_end,-1,Radeon HD 6850 X2,NA,555,1,"2,534",gpus
+830,high_end,-1,Ryzen 9 5980HS with Radeon Graphics,NA,-1,1,"2,534",gpus
+405,high_end,110,GeForce GTX 650 Ti,93.05*,556,5223,"2,533",gpus
+763,high_end,225,FireStream 9370,NA,557,1,"2,528",gpus
+547,high_end,-1,N18E-Q1,NA,558,1,"2,525",gpus
+865,high_end,-1,Ryzen 5 PRO 5650G with Radeon Graphics,NA,559,26,"2,505",gpus
+264,high_end,-1,GeForce GTX 950A,NA,560,51,"2,504",gpus
+760,high_end,-1,Ryzen 7 4700GE with Radeon Graphics,NA,561,2,"2,496",gpus
+447,high_end,30,GeForce GT 1030,105.59,562,6458,"2,494",gpus
+231,high_end,-1,GeForce MX330,NA,563,531,"2,487",gpus
+471,high_end,65,Radeon Pro WX 3200,174.47,564,25,"2,473",gpus
+858,high_end,-1,Ryzen 5 PRO 5650GE with Radeon Graphics,NA,565,29,"2,471",gpus
+644,high_end,-1,Barco MXRT 5600,704.00*,566,2,"2,466",gpus
+730,high_end,-1,Radeon Eng Sample: 100-000000146-40_42/35_Y,NA,-1,1,"2,464",gpus
+832,high_end,-1,Ryzen 7 PRO 5750G with Radeon Graphics,NA,567,61,"2,453",gpus
+414,high_end,50,Radeon Pro WX 3100,NA,568,184,"2,448",gpus
+244,high_end,-1,GeForce MX250,NA,569,1429,"2,446",gpus
+617,high_end,-1,Radeon Ryzen 7 7730U,NA,570,32,"2,441",gpus
+631,high_end,208,FirePro 3D V8800,424.99*,571,34,"2,438",gpus
+649,high_end,-1,Radeon Ryzen 5 5600H,NA,572,217,"2,430",gpus
+679,high_end,-1,Ryzen 5 Pro 4650G with Radeon Graphics,NA,573,479,"2,424",gpus
+784,high_end,-1,Radeon Eng Sample: 100-000000262-30_Y,NA,574,3,"2,416",gpus
+630,high_end,-1,GeForce GTX 960A,NA,575,29,"2,411",gpus
+601,high_end,-1,Radeon RX Vega 11 PRD,NA,576,1,"2,402",gpus
+630,high_end,-1,Ryzen 5 4600G with Radeon Graphics,NA,577,279,"2,397",gpus
+706,high_end,-1,Ryzen 7 5800U with Radeon Graphics,NA,578,46,"2,388",gpus
+676,high_end,-1,Radeon Ryzen 7 5800U,NA,579,264,"2,379",gpus
+479,high_end,100,GeForce GTX 485M,NA,580,24,"2,360",gpus
+286,high_end,-1,FirePro W6150M,NA,581,4,"2,358",gpus
+621,high_end,-1,Radeon Ryzen 7 5825U,NA,582,202,"2,348",gpus
+440,high_end,50,Radeon Pro WX 4150,610.04*,583,34,"2,345",gpus
+719,high_end,-1,Radeon Ryzen 5 5600GE,NA,584,10,"2,345",gpus
+570,high_end,-1,Ryzen 7 4800U with Radeon Graphics,NA,585,121,"2,344",gpus
+322,midlow_range,-1,Radeon HD 7660G + 7610M Dual,NA,1186,16,746,gpus
+212,midlow_range,25,Radeon HD 7730M,NA,1187,100,745,gpus
+440,midlow_range,-1,Radeon R5 235 + HD 7560D Dual,NA,1188,4,744,gpus
+347,midlow_range,-1,Radeon HD 7660G + 7670M Dual,NA,1189,96,743,gpus
+714,midlow_range,-1,GeForce GT 730A,NA,1190,10,743,gpus
+403,midlow_range,-1,Radeon HD 8650G + 7600M Dual,NA,1191,5,742,gpus
+193,midlow_range,-1,Radeon R7 FX-9800P RADEON,530.00*,1192,93,740,gpus
+783,midlow_range,-1,Intel Poison Ivy,NA,1193,1,739,gpus
+242,midlow_range,69,GeForce GT 340,52.99*,1194,26,738,gpus
+294,midlow_range,-1,Radeon HD 7670M + 7670M Dual,NA,1195,3,738,gpus
+486,midlow_range,-1,Radeon R5 235 + HD 8570D Dual,NA,1196,1,738,gpus
+218,midlow_range,-1,Radeon R7 A8-7650K,NA,1197,278,737,gpus
+173,midlow_range,-1,Radeon R7 A12-9700P RADEON,435.92*,1198,202,736,gpus
+200,midlow_range,-1,Radeon R7 PRO A8-8650B,NA,1199,67,735,gpus
+242,midlow_range,66,Radeon HD 6670,68.99*,1200,5264,734,gpus
+193,midlow_range,-1,Radeon R7 PRO A10-8750B,NA,1201,22,734,gpus
+196,midlow_range,-1,Radeon R5 A10-9620P 4C+6G,NA,1202,98,732,gpus
+189,midlow_range,-1,Intel HD 615,NA,1203,798,729,gpus
+523,midlow_range,13,Radeon HD 7550M/7650M,NA,1204,136,729,gpus
+456,midlow_range,-1,GRID K140Q,NA,1205,4,728,gpus
+118,midlow_range,-1,GeForce 920M,NA,1206,2364,727,gpus
+248,midlow_range,-1,Radeon Athlon Gold 3150U,NA,1207,16,726,gpus
+292,midlow_range,-1,Radeon HD 7660G N HD 7660G + HD 7600M N HD 7600M D,NA,1208,7,723,gpus
+322,midlow_range,-1,Radeon HD 8650G + R5 M200 Dual,NA,1209,4,723,gpus
+228,midlow_range,30,Quadro K610M,240.00*,1210,147,722,gpus
+533,midlow_range,-1,Asus GTX 650 FML II EC-EGPU,NA,1211,1,721,gpus
+177,midlow_range,-1,Intel UHD Graphics 610,NA,1212,707,720,gpus
+416,midlow_range,-1,Mobility Radeon HD 4870,NA,1213,29,720,gpus
+469,midlow_range,-1,Radeon HD 7540D + 6570 Dual,NA,1214,3,720,gpus
+285,midlow_range,35,NVS 510,255.53*,1215,270,719,gpus
+402,midlow_range,-1,Radeon HD 8670D + HD 7000 Dual,NA,1216,3,719,gpus
+557,midlow_range,-1,Radeon HD 8470D + 6450 Dual,NA,1217,3,717,gpus
+183,midlow_range,-1,Radeon HD 8730M,NA,1218,220,717,gpus
+316,midlow_range,-1,Radeon HD 8650G + HD 8570M Dual,NA,1219,10,716,gpus
+192,midlow_range,-1,Radeon R7 A10-7800,NA,1220,360,712,gpus
+325,midlow_range,-1,Radeon HD 7660G + HD 8670M Dual,NA,1221,5,711,gpus
+223,midlow_range,165,Radeon HD 3870 X2,NA,1222,122,709,gpus
+193,midlow_range,-1,Radeon R7 PRO A12-9800B,NA,1223,49,708,gpus
+609,midlow_range,-1,Radeon HD 6550A,NA,1224,10,708,gpus
+317,midlow_range,-1,Radeon HD 7660G + HD 7670M Dual,NA,1225,17,707,gpus
+221,midlow_range,-1,Radeon R7 PRO A10-9700B,NA,1226,25,706,gpus
+294,midlow_range,-1,Radeon HD 7640G + 7600M Dual,NA,1227,64,706,gpus
+317,midlow_range,-1,Radeon HD 7660G N HD 7660G + HD 7670M Dual,NA,1228,8,705,gpus
+276,midlow_range,-1,Radeon HD 7640G + HD 7600M Dual,NA,1229,59,704,gpus
+146,midlow_range,-1,"Radeon R5 A10-9600P RADEON R5, 10 COMPUTE CORES 4C",NA,1230,29,703,gpus
+180,midlow_range,-1,"Radeon R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C",NA,1231,21,700,gpus
+335,midlow_range,-1,TRINITY DEVASTATOR MOBILE,NA,1232,4,699,gpus
+555,midlow_range,25,Radeon HD 7570M/HD 7670M,NA,1233,4,699,gpus
+156,midlow_range,-1,Intel HD 610,NA,1234,1110,698,gpus
+201,midlow_range,-1,Radeon R5 PRO A10-8730B 4C+6G,NA,1235,23,695,gpus
+323,midlow_range,-1,Radeon R5 PRO A6-9500B 2C+4G,NA,1236,2,693,gpus
+193,midlow_range,-1,Radeon R5 A6-7480,NA,1237,29,693,gpus
+324,midlow_range,-1,Radeon HD 7640G + 7700M Dual,NA,1238,2,691,gpus
+354,midlow_range,-1,Radeon R5 PRO A6-8530B 2C+4G,NA,1239,3,690,gpus
+308,midlow_range,-1,Radeon HD 7640G + 8600/8700M Dual,NA,1240,10,689,gpus
+374,midlow_range,-1,Radeon HD 8650G + R5 M230 Dual,NA,1241,13,686,gpus
+356,midlow_range,-1,Radeon HD 8550D,NA,1242,4,685,gpus
+389,midlow_range,-1,Radeon HD 6630M,NA,1243,3,685,gpus
+211,midlow_range,50,GeForce GT 630,147.01*,1244,5692,683,gpus
+603,midlow_range,-1,GRID P40-3Q,NA,1245,2,681,gpus
+346,midlow_range,-1,Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D,NA,1246,2,680,gpus
+217,midlow_range,50,GeForce GT 530,49.00*,1247,421,680,gpus
+305,midlow_range,-1,Radeon HD 7640G N HD 7640G + HD 7670M Dual,NA,1248,6,680,gpus
+308,midlow_range,60,GeForce GTS 160M,NA,1249,5,679,gpus
+249,midlow_range,-1,Radeon HD 7640G + HD 8670M Dual,NA,1250,1,677,gpus
+290,midlow_range,-1,Radeon HD 8610G + R5 M200 Dual,NA,1251,4,676,gpus
+509,midlow_range,-1,Quadro FX 4700 X2,NA,1252,4,676,gpus
+182,midlow_range,-1,Radeon R8 M535DX,NA,1253,9,670,gpus
+167,midlow_range,32,GeForce GT 640M LE,849.99*,1254,338,669,gpus
+300,midlow_range,-1,GeForce GT 740A,NA,1255,4,668,gpus
+64,midlow_range,38,GeForce GTS 360M,NA,1256,218,667,gpus
+179,midlow_range,-1,Radeon R7 A8 PRO-7600B,NA,1257,94,666,gpus
+212,midlow_range,-1,Radeon Athlon Silver 3050U,NA,1258,33,666,gpus
+311,midlow_range,-1,Radeon HD 7640G + HD 8500M N HD 8500M Dual,NA,1259,2,666,gpus
+414,midlow_range,-1,FirePro M7740,NA,1260,50,665,gpus
+260,midlow_range,-1,Radeon HD 8550G + 8690M Dual,NA,1261,4,664,gpus
+204,midlow_range,-1,"Radeon R5 A6-9500E RADEON R5, 6 COMPUTE CORES 2C+4",NA,1262,2,664,gpus
+110,midlow_range,30,GeForce GT 555M,177.20*,1263,1166,664,gpus
+154,midlow_range,-1,Radeon R7 M340,NA,1264,247,663,gpus
+272,midlow_range,-1,Radeon HD 5600/5700,NA,1265,71,661,gpus
+422,midlow_range,-1,FireGL V7700,69.99*,1266,18,660,gpus
+396,midlow_range,215,Radeon HD 2900 XT,NA,1267,27,660,gpus
+223,midlow_range,-1,Radeon R5 PRO A8-9600B 4C+6G,NA,1268,48,659,gpus
+225,midlow_range,105,GeForce GT 140,NA,1269,22,658,gpus
+305,midlow_range,-1,Radeon HD 7640G + 8750M Dual,NA,1270,4,655,gpus
+169,midlow_range,-1,Radeon HD 8550G + HD 8600/8700M Dual,NA,1271,9,655,gpus
+282,midlow_range,-1,Radeon HD 8650G + 8570M Dual,NA,1272,11,654,gpus
+288,midlow_range,-1,Radeon HD 7520G + HD 8750M Dual,NA,1273,2,651,gpus
+259,midlow_range,-1,GRID K1,395.00*,1274,14,651,gpus
+169,midlow_range,75,GeForce GTX 285M,NA,1275,42,650,gpus
+397,midlow_range,-1,SUMO 9640,NA,1276,6,650,gpus
+236,midlow_range,50,FirePro V3900,238.44*,1277,129,650,gpus
+515,midlow_range,-1,Radeon R5 M430,NA,1278,49,649,gpus
+493,midlow_range,-1,FireStream 9170,NA,1279,1,647,gpus
+552,midlow_range,-1,Radeon HD 6670 + 6670 Dual,NA,1280,2,647,gpus
+273,midlow_range,-1,Radeon HD 8610G + HD 8500M Dual,NA,1281,4,646,gpus
+293,midlow_range,-1,Radeon HD 7640G + 7670M Dual,NA,1282,113,645,gpus
+443,midlow_range,-1,Radeon HD 7540D + HD 6450 Dual,NA,1283,1,643,gpus
+151,midlow_range,-1,"Radeon R5 PRO A10-8730B R5, 10 COMPUTE CORES 4C+6G",NA,1284,15,643,gpus
+251,midlow_range,171,GeForce 8800 Ultra,NA,1285,41,643,gpus
+367,midlow_range,-1,Intel HD P4600/P4700,NA,1286,498,639,gpus
+268,midlow_range,-1,Radeon R5 PRO A6-8570E 2C+4G,NA,1287,3,638,gpus
+286,midlow_range,-1,Radeon HD 7640G + 7400M Dual,NA,1288,5,637,gpus
+299,midlow_range,-1,Radeon HD 8450G + 8750M Dual,NA,1289,2,637,gpus
+427,midlow_range,-1,GeForce 9800 S,NA,1290,6,636,gpus
+354,midlow_range,-1,Radeon HD 8650G + 8670M Dual,NA,1291,58,635,gpus
+304,midlow_range,-1,Radeon HD 8650G + HD 7670M Dual,NA,1292,2,634,gpus
+464,midlow_range,-1,Radeon HD 7660D + HD 7000 Dual,NA,1293,2,634,gpus
+211,midlow_range,25,GeForce GT 710,249.99*,1294,6161,633,gpus
+478,midlow_range,20,Radeon HD 7610M,NA,1295,79,632,gpus
+187,midlow_range,35,NVS 5400M,NA,1296,587,632,gpus
+315,midlow_range,45,Intel HD 4600,NA,1297,28570,632,gpus
+271,midlow_range,-1,Radeon HD 7640G + HD 7700M N HD 7700M Dual,NA,1298,1,631,gpus
+350,midlow_range,-1,Radeon HD 7660G + 7470M Dual,NA,1299,7,631,gpus
+259,midlow_range,-1,Radeon R7 A360,NA,1300,5,630,gpus
+191,midlow_range,-1,Radeon HD 8510G + HD 8500M Dual,NA,1301,1,630,gpus
+191,midlow_range,-1,Intel HD 515,NA,1302,1290,630,gpus
+262,midlow_range,-1,GRID K160Q,NA,1303,7,628,gpus
+397,midlow_range,200,Radeon HD 2900 PRO,NA,1304,18,628,gpus
+292,midlow_range,-1,Radeon HD 7640G + 7500/7600 Dual,NA,1305,2,627,gpus
+351,midlow_range,-1,Radeon HD 8650G + 8500M Dual,NA,1306,13,627,gpus
+259,midlow_range,44,Radeon HD 7570,102.49*,1307,605,624,gpus
+290,midlow_range,-1,Radeon HD 7520G + HD 8600/8700M Dual,NA,1308,3,624,gpus
+162,midlow_range,-1,Intel HD 510,NA,1309,1114,623,gpus
+319,midlow_range,-1,GeForce 810A,NA,1310,11,622,gpus
+296,midlow_range,-1,Radeon HD 7640G + HD 7400M Dual,NA,1311,17,621,gpus
+495,midlow_range,-1,Radeon HD 8570 + 8670D Dual,NA,1312,3,620,gpus
+276,midlow_range,-1,Radeon HD 8550G + R5 M200 Dual,NA,1313,14,619,gpus
+145,midlow_range,-1,Radeon R5 A10-9600P 4C+6G,NA,1314,329,619,gpus
+321,midlow_range,-1,Radeon HD 8550G + 8600M Dual,NA,1315,14,618,gpus
+307,midlow_range,-1,Radeon HD 7500G + 7500M/7600M Dual,NA,1316,5,617,gpus
+140,midlow_range,15,Radeon R6,NA,1317,1283,616,gpus
+488,midlow_range,-1,FireGL V7600,NA,1318,11,616,gpus
+304,midlow_range,-1,GeForce 720A,NA,1319,5,614,gpus
+66,midlow_range,150,GeForce GTS 250,69.99*,1320,3117,614,gpus
+258,midlow_range,-1,Radeon Vega 3 Athlon 320GE,NA,1321,2,614,gpus
+369,midlow_range,-1,Radeon HD 8650G + 8600M Dual,NA,1322,24,613,gpus
+183,midlow_range,-1,Radeon Vega 3 3020e,NA,1323,9,612,gpus
+115,midlow_range,-1,Radeon HD 8550G N HD 8550G + HD 8600M N HD 8600M D,NA,1324,1,612,gpus
+198,midlow_range,19,GeForce GT 720,99.99*,1325,1497,611,gpus
+130,midlow_range,-1,GeForce GT 735M,NA,1326,143,611,gpus
+240,midlow_range,-1,Radeon Vega 3 Athlon Gold 3150U,NA,1327,2,611,gpus
+322,midlow_range,-1,7900 MOD - Radeon HD 6520G,NA,1328,4,610,gpus
+84,midlow_range,-1,Qualcomm Adreno 680 GPU,NA,1329,83,610,gpus
+550,midlow_range,30,Quadro K510M,NA,1330,5,610,gpus
+298,midlow_range,-1,Radeon HD 8610G + 8500M Dual,NA,1331,2,610,gpus
+102,midlow_range,-1,GeForce 9800 GTX/9800 GTX+,89.99*,1332,724,608,gpus
+304,midlow_range,-1,Radeon HD 7640G + HD 8500M Dual,NA,1333,9,607,gpus
+377,midlow_range,-1,Radeon HD 8650G + HD 8600M Dual,NA,1334,42,606,gpus
+115,midlow_range,-1,Radeon R6 M255DX,NA,1335,11,605,gpus
+270,midlow_range,-1,"Radeon R5 A6-9400 RADEON R5, 6 COMPUTE CORES 2C+4G",NA,1336,4,605,gpus
+962,midlow_range,-1,Intel HD P4600,NA,1337,5,605,gpus
+159,midlow_range,-1,"Radeon R6 PRO A8-8600B R6, 10 Compute Cores 4C+6G",NA,1338,12,604,gpus
+49,midlow_range,100,Quadro FX 3800M,NA,1339,142,604,gpus
+304,midlow_range,-1,Radeon HD 8550G + 8500M Dual,NA,1340,21,603,gpus
+220,midlow_range,-1,GeForce GT 720A,NA,1341,12,601,gpus
+356,midlow_range,-1,Radeon HD 8610G + 8670M Dual,NA,1342,5,600,gpus
+237,midlow_range,-1,Radeon R8 M365DX,NA,1343,3,600,gpus
+189,midlow_range,49,GeForce GT 430,139.99*,1344,2919,600,gpus
+141,midlow_range,-1,Qualcomm Adreno 7c+ Gen 3,NA,1345,1,598,gpus
+187,midlow_range,-1,Radeon R7 PRO A12-8800B,NA,1346,22,597,gpus
+359,midlow_range,-1,Matrox C420 LP PCIe x16,NA,1347,8,597,gpus
+260,midlow_range,-1,Radeon HD 8510G + 8500M Dual,NA,1348,2,596,gpus
+519,midlow_range,18,Radeon R5 M330,NA,1349,133,596,gpus
+90,midlow_range,135,GeForce 8800 GTS 512,NA,1350,416,596,gpus
+101,midlow_range,155,GeForce 8800 GTX,119.99*,1351,567,596,gpus
+300,midlow_range,-1,Radeon HD 7640G + 7470M Dual,NA,1352,53,595,gpus
+195,midlow_range,-1,Radeon R7 PRO A12-8830B,NA,1353,19,595,gpus
+322,midlow_range,-1,Radeon HD 8550G + HD 8600M Dual,NA,1354,22,594,gpus
+137,midlow_range,-1,GeForce 910M,NA,1355,19,591,gpus
+361,midlow_range,-1,Radeon HD 7520G + 7600M Dual,NA,1356,25,591,gpus
+276,midlow_range,-1,Radeon HD 7640G + HD 7700M Dual,NA,1357,3,589,gpus
+319,midlow_range,-1,Radeon HD 8610G + 8600M Dual,NA,1358,10,589,gpus
+317,midlow_range,-1,Radeon HD 7520G + 7610M Dual,NA,1359,3,588,gpus
+325,midlow_range,-1,Radeon HD 7660G + 7400M Dual,NA,1360,2,588,gpus
+332,midlow_range,-1,Radeon HD 7660G + 8670M Dual,NA,1361,7,588,gpus
+297,midlow_range,-1,Radeon HD 7640G + HD 8600/8700M Dual,NA,1362,10,587,gpus
+189,midlow_range,-1,Radeon R5 A6-8500P,NA,1363,6,587,gpus
+307,midlow_range,-1,Radeon HD 7640G + 8500M Dual,NA,1364,11,586,gpus
+319,midlow_range,-1,Radeon HD 8650G + HD 8670M Dual,NA,1365,23,585,gpus
+145,midlow_range,-1,GeForce GT 820M,NA,1366,162,585,gpus
+235,midlow_range,-1,Intel HD 5500,NA,1367,11411,584,gpus
+119,midlow_range,32,GeForce GT 550M,NA,1368,301,583,gpus
+379,midlow_range,-1,Radeon HD 7520G + 7500/7600 Dual,NA,1369,1,582,gpus
+334,midlow_range,-1,Radeon HD 8550G + 8670M Dual,NA,1370,16,579,gpus
+298,midlow_range,-1,Radeon HD 8450G + R5 M230 Dual,NA,1371,1,578,gpus
+281,midlow_range,-1,Radeon HD 8610G + HD 8670M Dual,NA,1372,32,578,gpus
+147,midlow_range,120,GeForce GTS 240,64.99*,1373,210,577,gpus
+321,midlow_range,-1,Radeon HD 7620G + 8670M Dual,NA,1374,3,577,gpus
+402,midlow_range,-1,Intel Skylake HD DT GT2,NA,1375,3,577,gpus
+802,midlow_range,-1,Radeon R5 A240,NA,1376,1,576,gpus
+153,midlow_range,75,GeForce GTX 280M,NA,1377,65,576,gpus
+388,midlow_range,-1,Radeon HD 7520G + HD 7700M Dual,NA,1378,1,575,gpus
+229,midlow_range,-1,Radeon R5 420,39.95*,1379,5,575,gpus
+223,midlow_range,-1,Intel HD 5000,625.00*,1380,1091,575,gpus
+385,midlow_range,-1,Radeon HD 7520G N HD 7520G + HD 7500/7600 7500/760,NA,1381,1,575,gpus
+376,midlow_range,-1,Radeon HD 8450G + HD 8670M Dual,NA,1382,3,575,gpus
+190,midlow_range,45,Quadro 1000M,54.50*,1383,1068,574,gpus
+286,midlow_range,-1,Radeon HD 7650A,262.00*,1384,78,574,gpus
+194,midlow_range,-1,Intel i gfx-driver-ci-master-9938 DCH-I,NA,-1,1,573,gpus
+365,midlow_range,35,Quadro 500M,275.14*,1385,6,571,gpus
+328,midlow_range,-1,Radeon R6 + R7 M265DX Dual,NA,1386,2,571,gpus
+54,midlow_range,28,GeForce GTS 250M,NA,1387,57,569,gpus
+489,midlow_range,-1,Radeon HD 7560D + 6450 Dual,NA,1388,1,569,gpus
+169,midlow_range,35,GeForce GT 635M,NA,1389,1528,566,gpus
+526,midlow_range,-1,Radeon HD 6610M,NA,1390,26,565,gpus
+159,midlow_range,-1,Radeon R7E,NA,1391,2,565,gpus
+396,midlow_range,-1,Radeon HD 7560D + R5 235 Dual,NA,1392,2,563,gpus
+161,midlow_range,-1,"Radeon R5 PRO A8-9600B R5, 10 COMPUTE CORES 4C+6G",NA,1393,7,562,gpus
+216,midlow_range,44,Radeon HD 6570,64.99*,1394,2865,561,gpus
+61,midlow_range,106,Radeon HD 3870,69.99*,1395,828,560,gpus
+249,midlow_range,-1,Radeon HD 7640G + R5 M200 Dual,NA,1396,10,559,gpus
+147,midlow_range,-1,Radeon R7 M360,NA,1397,174,559,gpus
+300,midlow_range,-1,Radeon HD 8550G + HD 8500M Dual,NA,1398,1,559,gpus
+315,midlow_range,-1,Radeon HD 7640G + 8670M Dual,NA,1399,2,558,gpus
+273,midlow_range,-1,Radeon HD 7640G + 8570M Dual,NA,1400,13,558,gpus
+156,midlow_range,-1,GeForce 820A,NA,1401,28,558,gpus
+136,midlow_range,-1,Radeon HD 8650G,NA,1402,787,556,gpus
+446,midlow_range,-1,GF117,NA,1403,5,554,gpus
+506,midlow_range,-1,Radeon R7 7850A10-7850K,NA,1404,1,551,gpus
+636,midlow_range,-1,FireGL V8650,298.99*,1405,4,550,gpus
+576,midlow_range,-1,Radeon R5 M335,NA,1406,33,549,gpus
+287,midlow_range,-1,Mobility Radeon HD 3870,NA,1407,3,548,gpus
+516,midlow_range,58,FirePro 3D V5700,319.99*,1408,30,547,gpus
+314,midlow_range,-1,Radeon HD 8550G + HD 8670M Dual,NA,1409,7,546,gpus
+312,midlow_range,-1,GeForce 615,NA,1410,34,546,gpus
+356,midlow_range,-1,Radeon HD 8450G + 8600M Dual,NA,1411,3,545,gpus
+149,midlow_range,33,GeForce GT 630M,NA,1412,2964,545,gpus
+467,midlow_range,76,FirePro 3D V7750,350.00*,1413,23,545,gpus
+315,midlow_range,-1,Radeon HD 7520G + HD 7400M Dual,NA,1414,9,545,gpus
+226,midlow_range,40,Quadro 600,76.00*,1415,1737,544,gpus
+245,midlow_range,-1,Mobility Radeon HD 5570,NA,1416,30,544,gpus
+240,midlow_range,-1,Radeon HD 7600G + HD 8670M Dual,NA,1417,2,544,gpus
+464,midlow_range,-1,Quadro FX 2700,NA,1418,1,543,gpus
+187,midlow_range,-1,Radeon HD 8670D,NA,1419,987,543,gpus
+344,midlow_range,-1,Radeon HD 7520G + 7470M Dual,NA,1420,1,543,gpus
+81,midlow_range,-1,Qualcomm Adreno 675 GPU,NA,1421,5,540,gpus
+141,midlow_range,-1,Quadro FX 5600,295.00*,1422,71,539,gpus
+145,midlow_range,-1,Radeon R6 PRO A10-8700B 4C+6G,NA,1423,53,538,gpus
+140,midlow_range,-1,Radeon R7 M265,NA,1424,100,537,gpus
+422,midlow_range,-1,Radeon HD 7560D + HD 7000 Dual,NA,1425,2,534,gpus
+139,midlow_range,-1,Radeon R6 A10-8700P,NA,1426,286,534,gpus
+113,midlow_range,-1,GRID K180Q,NA,1427,11,534,gpus
+307,midlow_range,-1,Radeon HD 8550G + 8570M Dual,NA,1428,24,533,gpus
+158,midlow_range,-1,Radeon R6 PRO A8-8600B 4C+6G,NA,1429,46,532,gpus
+327,midlow_range,-1,RADEON HD6530D,NA,1430,2,532,gpus
+259,midlow_range,-1,Radeon HD 8550G + HD 8570M Dual,NA,1431,2,529,gpus
+58,midlow_range,69,GeForce GT 240,160.97*,1432,1794,528,gpus
+279,midlow_range,-1,Radeon HD 7640G + 6400M Dual,NA,1433,7,527,gpus
+192,midlow_range,50,Radeon R5 240,85.00*,1434,315,526,gpus
+244,midlow_range,-1,Radeon HD 7600G N HD 7600G + HD ON HD Dual,NA,1435,1,526,gpus
+386,midlow_range,-1,Radeon HD 7660D + R5 235 Dual,NA,1436,1,524,gpus
+89,midlow_range,-1,Radeon HD 7660G + HD 7600M Dual,NA,1437,104,523,gpus
+323,midlow_range,-1,Radeon HD 7520G + 7670M Dual,NA,1438,62,523,gpus
+170,midlow_range,23,GeForce GT 425M,NA,1439,535,523,gpus
+138,midlow_range,-1,Radeon R5 M255,NA,1440,105,523,gpus
+135,midlow_range,-1,"Radeon R6 PRO A10-8700B R6, 10 Compute Cores 4C+6G",NA,1441,19,521,gpus
+279,midlow_range,-1,Intel HD 4400,NA,1442,3682,521,gpus
+129,midlow_range,-1,MCT USB3.0 External Device,NA,-1,1,520,gpus
+488,midlow_range,-1,Radeon HD 8670M,NA,1443,20,520,gpus
+173,midlow_range,35,GeForce GT 435M,NA,1444,137,520,gpus
+189,midlow_range,35,NVS 5200M,NA,1445,1333,519,gpus
+97,midlow_range,-1,Radeon HD 7640G + HD 7670M Dual,NA,1446,20,519,gpus
+207,midlow_range,-1,Radeon Vega 3 Athlon Silver 3050e,NA,1447,5,518,gpus
+519,midlow_range,-1,IncrediblE HD 4000,NA,1448,2,517,gpus
+635,midlow_range,-1,Intel HD P4000,NA,1449,13,516,gpus
+194,midlow_range,30,Radeon R5 330,339.99*,1450,13,513,gpus
+284,midlow_range,-1,Mobility Radeon HD 4830,NA,1451,3,512,gpus
+152,midlow_range,-1,Radeon 6600M,NA,1452,710,512,gpus
+309,midlow_range,-1,Radeon HD 7640G + 7610M Dual,NA,1453,7,510,gpus
+201,midlow_range,-1,Radeon HD 7600G + HD 7550M Dual,NA,1454,2,509,gpus
+294,midlow_range,-1,Radeon HD 7620G + 8600M Dual,NA,1455,13,509,gpus
+416,midlow_range,-1,Radeon R5 PRO A6-8500B 2C+4G,NA,1456,1,508,gpus
+267,midlow_range,-1,Radeon HD 7620G + HD 8670M Dual,NA,1457,24,507,gpus
+88,midlow_range,141,GeForce 9800 GTX+,NA,1458,420,507,gpus
+114,midlow_range,15,GeForce 820M,NA,1459,2403,506,gpus
+243,midlow_range,-1,Radeon Vega 2,NA,1460,11,506,gpus
+406,midlow_range,-1,GeForce GTS 150M,NA,1461,1,504,gpus
+322,midlow_range,-1,Radeon HD 8450G + HD 8750M Dual,NA,1462,4,504,gpus
+69,midlow_range,125,GeForce 8800 GT,69.99*,1463,1662,503,gpus
+178,midlow_range,100,Radeon HD 7660D,NA,1464,1619,503,gpus
+138,midlow_range,-1,Radeon R7 M265DX,NA,1465,3,499,gpus
+142,midlow_range,26,Mobility Radeon HD 5730,NA,1466,690,498,gpus
+279,midlow_range,-1,TRINITY SCRAPPER MOBILE,NA,1467,5,498,gpus
+402,midlow_range,-1,SUMO 964A,NA,1468,2,498,gpus
+262,midlow_range,-1,Radeon HD 7500G + 7550M Dual,NA,1469,7,497,gpus
+538,midlow_range,-1,ASUS EAH4870x2,NA,1470,2,496,gpus
+295,midlow_range,-1,Radeon HD 7520G + HD 7670M Dual,NA,1471,5,495,gpus
+50,midlow_range,95,GeForce 9600 GT,64.99*,1472,3726,495,gpus
+437,midlow_range,-1,Radeon HD8530M,NA,1473,3,490,gpus
+525,midlow_range,-1,Radeon HD 8670D N HD 8670D + HD 8670D Dual,NA,1474,1,489,gpus
+87,midlow_range,32,GeForce GT 540M,87.95*,1475,3652,488,gpus
+210,midlow_range,-1,Radeon HD 8550G + R5 M230 Dual,NA,1476,4,488,gpus
+366,midlow_range,-1,Radeon R4E,NA,1477,1,487,gpus
+280,midlow_range,-1,Radeon HD 7520G + 7400M Dual,NA,1478,2,487,gpus
+128,midlow_range,-1,Radeon HD 8690A,NA,1479,877,484,gpus
+191,midlow_range,39,Radeon HD 5570,179.99*,1480,1927,484,gpus
+118,midlow_range,-1,Radeon R7 M260,799.00*,1481,253,484,gpus
+155,midlow_range,-1,Radeon HD 8610G + HD 8600M Dual,NA,1482,18,481,gpus
+163,midlow_range,-1,Radeon R5 M420,NA,1483,24,480,gpus
+184,midlow_range,-1,Quadro K500M,NA,-1,1,480,gpus
+304,midlow_range,-1,Mobility Radeon HD 5000 Serisi,NA,1484,2,479,gpus
+159,midlow_range,-1,Radeon 3020e,NA,1485,11,479,gpus
+186,midlow_range,-1,Mobility Radeon HD 3870 X2,NA,1486,57,478,gpus
+126,midlow_range,-1,Radeon HD 7600G + HD 7500M/7600M Dual,NA,1487,7,477,gpus
+165,midlow_range,-1,GeForce 800A,NA,1488,5,477,gpus
+101,midlow_range,20,Radeon HD 7670M,629.99*,1489,457,476,gpus
+151,midlow_range,-1,Radeon R6 A8-8600P,NA,1490,7,475,gpus
+413,midlow_range,-1,Radeon HD 8450G + 8670M Dual,NA,1491,2,475,gpus
+196,midlow_range,-1,Radeon HD 7640G + HD 8570M Dual,NA,1492,5,475,gpus
+506,midlow_range,43,FirePro 3D V3800,149.99*,1493,47,472,gpus
+126,midlow_range,-1,Radeon HD 7660G,NA,1494,678,472,gpus
+68,midlow_range,125,GeForce 9800 GT,74.99*,1495,3372,471,gpus
+469,midlow_range,-1,Radeon HD 8570D + R5 235 Dual,NA,1496,1,471,gpus
+167,midlow_range,-1,Radeon R5 M315,NA,1497,14,470,gpus
+138,midlow_range,-1,GeForce GT625M,NA,1498,30,470,gpus
+364,midlow_range,70,Quadro FX 3600M,NA,1499,36,467,gpus
+69,midlow_range,45,Quadro FX 1800M,NA,1500,246,467,gpus
+209,midlow_range,33,GeForce 710A,NA,1501,26,467,gpus
+118,midlow_range,-1,GeForce GT 720M,NA,1502,1372,466,gpus
+385,midlow_range,-1,SUMO 9644,NA,1503,1,466,gpus
+490,midlow_range,-1,Radeon HD 7660D + 7470 Dual,NA,1504,3,466,gpus
+403,midlow_range,13,Radeon HD 7550M,NA,1505,22,465,gpus
+469,midlow_range,-1,FirePro V5700,188.06*,1506,2,465,gpus
+124,midlow_range,-1,Radeon HD 7640G,NA,1507,1146,464,gpus
+123,midlow_range,12,GeForce 710M,NA,1508,895,463,gpus
+374,midlow_range,-1,Mobility Radeon HD 4670,NA,1509,234,463,gpus
+164,midlow_range,100,Radeon HD 7560D,NA,1510,1153,463,gpus
+174,midlow_range,65,GeForce 8800M GTX,NA,1511,47,462,gpus
+108,midlow_range,60,GeForce 9800M GS,NA,1512,63,460,gpus
+297,midlow_range,-1,Radeon HD 7660G + HD 7600M N HD 7600M Dual,NA,1513,1,460,gpus
+90,midlow_range,20,GeForce GT 525M,NA,1514,1681,459,gpus
+192,midlow_range,-1,Intel HD Family,NA,1515,29616,457,gpus
+87,midlow_range,75,Quadro FX 3700M,925.00*,1516,175,456,gpus
+455,midlow_range,-1,GeForce 705M,NA,1517,21,456,gpus
+88,midlow_range,75,GeForce 9800M GTX,328.50*,1518,47,454,gpus
+65,midlow_range,43,GeForce GT 320,32.69*,1519,249,454,gpus
+345,midlow_range,-1,Radeon HD 7520G + 7650M Dual,NA,1520,3,453,gpus
+236,midlow_range,-1,GeForce 800M,NA,1521,25,453,gpus
+326,midlow_range,-1,Radeon HD 8450G + HD 8600M Dual,NA,1522,2,452,gpus
+238,midlow_range,-1,Radeon HD 7620G N HD 7620G + HD 8600M N HD 8600M D,NA,1523,1,452,gpus
+176,midlow_range,15,GeForce GT 625M,NA,1524,33,451,gpus
+144,midlow_range,15,Mobility Radeon HD 5650,NA,1525,2568,449,gpus
+129,midlow_range,-1,"Radeon R5 PRO A6-8500B R5, 6 Compute Cores 2C+4G",NA,-1,1,449,gpus
+149,midlow_range,-1,Radeon HD 7520G + HD 7600M Dual,NA,1526,16,447,gpus
+117,midlow_range,-1,GeForce GT 710M,NA,1527,154,447,gpus
+359,midlow_range,-1,Radeon HD 7660G + 8600M Dual,NA,1528,3,446,gpus
+497,midlow_range,-1,PHDGD Ivy 5,NA,1529,2,445,gpus
+221,midlow_range,38,Quadro 410,129.00*,1530,103,443,gpus
+266,midlow_range,-1,Radeon HD 7620G + HD 8600M Dual,NA,1531,18,443,gpus
+62,midlow_range,20,Radeon HD 7650M,NA,1532,205,441,gpus
+128,midlow_range,15,GeForce GT 620M,NA,1533,630,441,gpus
+36,midlow_range,146,GeForce 8800 GTS,79.99*,1534,857,438,gpus
+158,midlow_range,-1,Radeon HD 7600G + HD Dual,NA,1535,9,435,gpus
+263,midlow_range,-1,Radeon HD 8410G,NA,1536,8,435,gpus
+154,midlow_range,-1,Radeon HD 8570D,NA,1537,888,434,gpus
+73,low_end,23,GeForce GT 120M,NA,1800,34,160,gpus
+101,mid_range,-1,P106-090,NA,586,9,"2,343",gpus
+91,midlow_range,75,Radeon HD 3850 AGP,NA,1538,50,432,gpus
+186,midlow_range,13,Radeon HD 7570M,NA,1539,518,430,gpus
+131,midlow_range,134,Quadro FX 4600,333.25*,1540,372,430,gpus
+118,midlow_range,-1,Radeon HD 8610G,NA,1541,463,428,gpus
+129,midlow_range,-1,Surface Duo Adreno 640 GPU,NA,1542,2,426,gpus
+190,midlow_range,-1,Radeon R5 M240,NA,1543,11,425,gpus
+206,midlow_range,-1,FirePro M2000,NA,1544,120,424,gpus
+301,midlow_range,-1,Radeon HD 7640G + HD 7500/7600 Dual,NA,1545,1,424,gpus
+246,midlow_range,-1,Radeon HD 7600G + 7550M Dual,NA,1546,3,423,gpus
+296,midlow_range,-1,RADEON HD6410D,NA,1547,3,423,gpus
+287,midlow_range,-1,Radeon HD 7640G N HD 7640G + HD 8570M Dual,NA,1548,1,423,gpus
+125,midlow_range,-1,Radeon R7 Eng Sample: ZM2111C1Y4382_34/21/13/06_98,NA,-1,1,422,gpus
+59,midlow_range,75,Quadro FX 2800M,190.00*,1549,323,422,gpus
+163,midlow_range,-1,Radeon HD 8570M,NA,1550,32,422,gpus
+132,midlow_range,-1,Radeon R5 M320,NA,1551,34,421,gpus
+189,midlow_range,50,GeForce GT 420,155.00*,1552,496,420,gpus
+734,midlow_range,-1,Intel 4th Generation Haswell HD,NA,1553,2,420,gpus
+89,midlow_range,23,GeForce GT 420M,NA,1554,337,417,gpus
+131,midlow_range,-1,Radeon R5 M230,NA,1555,107,413,gpus
+69,midlow_range,-1,GeForce 810M,NA,1556,81,410,gpus
+119,midlow_range,-1,"Radeon R5 PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G",NA,1557,16,408,gpus
+113,midlow_range,28,GeForce GTS 350M,NA,1558,28,408,gpus
+393,midlow_range,7,Radeon HD 7470M,NA,1559,4,408,gpus
+115,midlow_range,-1,Radeon HD 8550G,NA,1560,374,408,gpus
+197,midlow_range,-1,Radeon HD 7640G + HD 7600M N HD 7600M Dual,NA,1561,1,407,gpus
+210,midlow_range,-1,Radeon HD 7600G + 7500M/7600M Dual,NA,1562,3,406,gpus
+346,midlow_range,-1,RADEON E4690,NA,1563,3,405,gpus
+112,midlow_range,-1,Radeon HD 8500M,NA,1564,139,405,gpus
+70,midlow_range,59,Quadro FX 1800,135.00*,1565,1021,402,gpus
+33,midlow_range,75,Radeon HD 3850,NA,1566,804,402,gpus
+133,midlow_range,100,Radeon HD 6550D,NA,1567,801,401,gpus
+319,midlow_range,-1,Mobility Radeon HD 4650,NA,1568,961,401,gpus
+98,midlow_range,75,GeForce 9800M GTS,NA,1569,119,401,gpus
+36,midlow_range,28,GeForce GT 335M,NA,1570,307,401,gpus
+92,midlow_range,-1,GeForce GT 330,39.99*,1571,136,401,gpus
+259,midlow_range,-1,Radeon HD 8650D,NA,1572,10,396,gpus
+182,midlow_range,-1,Radeon R5 Opteron X3216,NA,1573,13,394,gpus
+220,midlow_range,-1,Radeon HD 7600G + 7450M Dual,NA,1574,3,390,gpus
+184,midlow_range,-1,Intel HD 5300,NA,1575,1251,390,gpus
+427,midlow_range,-1,IncrediblE HD,NA,1576,1,389,gpus
+47,midlow_range,65,GeForce GTX 260M,NA,1577,329,389,gpus
+165,midlow_range,-1,GeForce 7900 GTX,NA,1578,90,388,gpus
+159,midlow_range,50,GeForce 8800M GTS,NA,1579,36,382,gpus
+80,midlow_range,65,GeForce 9800M GT,NA,1580,22,381,gpus
+109,midlow_range,75,GeForce GT 130,151.34*,1581,41,381,gpus
+41,midlow_range,59,Radeon HD 4670,142.96*,1582,2077,381,gpus
+514,midlow_range,-1,Radeon HD 6490M,"1,193.03*",1583,16,378,gpus
+387,midlow_range,-1,Radeon HD 7520G + 8750M Dual,NA,1584,1,377,gpus
+257,midlow_range,-1,Radeon HD 7600G + 6400M Dual,NA,1585,1,377,gpus
+331,midlow_range,-1,PHDGD Ivy 4,NA,1586,13,375,gpus
+98,midlow_range,78,Quadro FX 3700,213.27*,1587,277,375,gpus
+379,midlow_range,-1,Radeon HD 8570D + HD8490 Dual,NA,1588,1,374,gpus
+175,midlow_range,39,Radeon HD 5550,54.99*,1589,316,372,gpus
+823,midlow_range,-1,GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT,NA,1590,1,369,gpus
+110,midlow_range,-1,Intel UHD Graphics 605,NA,1591,650,368,gpus
+294,midlow_range,-1,Matrox Millennium P690 PCIe x16,NA,1592,4,367,gpus
+585,midlow_range,-1,Radeon HD4670,NA,1593,1,366,gpus
+248,midlow_range,-1,Mobility Radeon HD 3850,NA,1594,2,366,gpus
+102,midlow_range,-1,Radeon HD 8510G,NA,1595,276,365,gpus
+262,midlow_range,-1,Radeon HD 7520G N HD 7520G + HD 7600M N HD 7600M D,NA,1596,1,365,gpus
+146,midlow_range,-1,Radeon HD 8450G,NA,1597,121,364,gpus
+336,midlow_range,-1,Radeon HD 7660G + HD 8600M Dual,NA,1598,1,364,gpus
+156,midlow_range,30,GeForce GT 620,154.00*,1599,1519,363,gpus
+141,midlow_range,-1,Radeon HD 8470D,NA,1600,578,360,gpus
+150,midlow_range,-1,Radeon Vega 3 Ryzen Embedded R1305G,NA,1601,3,359,gpus
+265,midlow_range,-1,Radeon HD 7500G + HD 7500M/7600M Dual,NA,1602,2,356,gpus
+119,midlow_range,-1,Radeon 3015e,NA,1603,5,355,gpus
+105,midlow_range,45,Radeon HD 6620G,NA,1604,762,354,gpus
+282,midlow_range,-1,Radeon HD 6480M,NA,1605,1,353,gpus
+317,midlow_range,-1,Mobility Radeon HD 565v,NA,1606,10,353,gpus
+107,midlow_range,-1,Radeon HD 7620G,NA,1607,82,352,gpus
+429,midlow_range,-1,Radeon HD 7580D,NA,1608,2,351,gpus
+95,midlow_range,-1,Intel HD 505,NA,1609,143,346,gpus
+47,midlow_range,65,Quadro FX 2700M,99.95*,1610,274,346,gpus
+189,midlow_range,-1,GeForce 7950 GT,203.99*,1611,167,344,gpus
+188,midlow_range,-1,Intel HD 4000,"1,592.95*",1612,43116,342,gpus
+167,midlow_range,35,Radeon R5 235,60.13*,1613,69,342,gpus
+466,midlow_range,48,FirePro 3D V3750,50.88*,1614,45,341,gpus
+444,midlow_range,-1,FireGL V5600,225.00*,1615,34,341,gpus
+186,midlow_range,-1,Radeon HD 8310E,NA,1616,1,341,gpus
+448,midlow_range,-1,Radeon HD 7660D + HD 7400 Dual,NA,1617,1,340,gpus
+110,midlow_range,84,GeForce 9600 GSO,49.99*,1618,249,339,gpus
+187,midlow_range,30,GeForce GT 625,NA,1619,105,338,gpus
+415,midlow_range,-1,Radeon HD 8570D + HD 8470 Dual,NA,1620,1,338,gpus
+551,midlow_range,35,FirePro RG220,650.18*,1621,1,335,gpus
+135,midlow_range,100,Radeon HD 6530D,NA,1622,789,335,gpus
+131,midlow_range,-1,Radeon HD 7600G + 8500M/8700M Dual,NA,1623,5,334,gpus
+168,midlow_range,29,GeForce GT 705,296.76*,1624,202,333,gpus
+545,midlow_range,-1,Radeon R5 310,499.00*,1625,18,332,gpus
+126,midlow_range,65,Radeon HD 7540D,NA,1626,523,331,gpus
+99,midlow_range,-1,Radeon R4,396.99*,1627,1772,331,gpus
+121,midlow_range,105,GeForce 8800 GS,NA,1628,108,330,gpus
+79,midlow_range,90,GeForce 9600 GSO 512,NA,1629,95,330,gpus
+441,midlow_range,7,Radeon HD 7450M,NA,1630,3,330,gpus
+126,midlow_range,-1,Radeon Athlon PRO 3045B,NA,-1,1,330,gpus
+146,midlow_range,-1,Radeon HD 7600G + HD 7400M Dual,NA,1631,1,329,gpus
+95,midlow_range,-1,Intel UHD Graphics 600,NA,1632,2242,327,gpus
+326,midlow_range,-1,GeForce GT 120 / 9500 GT,NA,1633,1,325,gpus
+224,midlow_range,-1,Radeon E6460,NA,1634,1,324,gpus
+70,midlow_range,-1,GeForce GT 230,43.99*,1635,264,323,gpus
+178,midlow_range,-1,FirePro V3800,124.99*,1636,23,321,gpus
+152,midlow_range,-1,Radeon HD 8370D,NA,1637,272,320,gpus
+312,midlow_range,-1,RADEON HD6370D,NA,1638,9,320,gpus
+434,midlow_range,-1,GeForce 240M GT,NA,1639,1,320,gpus
+365,midlow_range,-1,Mobility Radeon HD 560v,NA,1640,29,318,gpus
+107,midlow_range,-1,Radeon HD 7520G,NA,1641,644,315,gpus
+328,midlow_range,-1,Radeon HD 7520G + 8600/8700M Dual,NA,1642,2,311,gpus
+53,low_end,33,GeForce 315,32.99*,1801,173,159,gpus
+48,low_end,-1,GeForce 7600 GS,175.00*,1802,550,157,gpus
+346,low_end,-1,Radeon HD 4300/4500 Serisi,NA,1803,2,156,gpus
+54,low_end,-1,Radeon HD 7340,552.69*,1804,549,155,gpus
+52,low_end,-1,Radeon HD 3670,NA,1805,784,152,gpus
+47,low_end,40,Quadro FX 580,130.00*,1806,879,152,gpus
+466,low_end,-1,Radeon X1950 CrossFire Edition,NA,1807,2,151,gpus
+149,low_end,14,GeForce 305M,NA,1808,3,151,gpus
+155,low_end,-1,Radeon HD 3650 AGP,185.00*,1809,66,150,gpus
+29,low_end,75,GeForce 8600 GTS,241.99*,1810,642,150,gpus
+235,low_end,83,Quadro FX 3450,119.99*,1811,2,149,gpus
+58,low_end,32,Quadro 400,211.00*,1812,126,148,gpus
+369,low_end,-1,Mobility Radeon HD 4350,NA,1813,10,148,gpus
+44,low_end,45,Radeon HD 6320,554.99*,1814,1087,148,gpus
+232,low_end,-1,GeForce Go 7700,NA,1815,4,148,gpus
+219,low_end,-1,ZX Chrome 645/640 GPU,NA,1816,1,147,gpus
+9,low_end,-1,S3 5400EW,NA,1817,13,146,gpus
+29,low_end,23,GeForce GT 130M,NA,1818,187,146,gpus
+408,low_end,75,Radeon X1900 GT,NA,1819,14,146,gpus
+184,low_end,17,FirePro 2270,134.00*,1820,79,145,gpus
+60,low_end,-1,GeForce 9200M GE,NA,1821,51,144,gpus
+108,low_end,-1,Radeon HD 6300M,NA,1822,771,143,gpus
+212,low_end,-1,GeForce 6800 GT,NA,1823,27,142,gpus
+33,low_end,50,GeForce 9500 GT,85.99*,1824,3381,142,gpus
+6,low_end,-1,EG PARK,NA,-1,1,141,gpus
+171,low_end,19.1,RADEON HD 6350,59.00*,1825,23,141,gpus
+441,low_end,-1,Radeon HD 4290,NA,1826,180,141,gpus
+414,low_end,48,Radeon X1800 GTO,NA,1827,13,141,gpus
+92,low_end,-1,Radeon HD 6290M,NA,1828,10,140,gpus
+379,low_end,-1,nForce 760i SLI,NA,1829,3,140,gpus
+152,low_end,14,NVS 2100M,NA,1830,63,140,gpus
+85,low_end,-1,GeForce 8200,NA,1831,172,140,gpus
+629,low_end,-1,Intel Haswell HD - GT2,NA,1832,8,139,gpus
+153,low_end,-1,GeForce 6800 Ultra,NA,1833,3,139,gpus
+35,low_end,-1,Radeon HD 8180,NA,1834,104,139,gpus
+149,low_end,19.1,Radeon HD 5450,94.96*,1835,4546,138,gpus
+197,low_end,-1,GeForce Go 6800 Ultra,NA,1836,4,138,gpus
+30,low_end,23,GeForce 9600M GT,78.20*,1837,959,138,gpus
+67,low_end,-1,GeForce 6600 GT,64.95*,1838,249,137,gpus
+506,low_end,100,Radeon X1900 CrossFire Edition,NA,1839,4,137,gpus
+61,low_end,23,GeForce 9650M GT,117.30*,1840,81,137,gpus
+21,low_end,-1,Mobility Radeon HD 4570,75.90*,1841,1804,136,gpus
+26,low_end,40,GeForce 8400 GS,85.97*,1842,3100,136,gpus
+32,low_end,-1,GeForce 7300 GT,149.99*,1843,392,136,gpus
+82,low_end,-1,GeForce G200,NA,1844,10,136,gpus
+26,low_end,25,Radeon HD 3450,89.00*,1845,1378,136,gpus
+377,low_end,-1,Mobility Radeon HD 4330,NA,1846,8,135,gpus
+286,low_end,-1,Mobility Radeon X1900,NA,1847,3,135,gpus
+314,low_end,-1,GeForce 9800 GT 1024MB,NA,1848,1,134,gpus
+216,low_end,-1,EAH5450,109.99*,1849,1,134,gpus
+334,low_end,-1,GeForce 7650 GS,NA,1850,30,134,gpus
+111,low_end,19,Radeon R5 220,85.26*,1851,2807,133,gpus
+82,low_end,-1,VIA/S3G C-645/640 GPU,NA,1852,3,132,gpus
+109,low_end,50,Quadro FX 1600M,149.90*,1853,134,131,gpus
+100,low_end,28,Quadro FX 380 LP,NA,1854,54,131,gpus
+247,low_end,-1,MOBILITY RADEON X1800,NA,1855,8,130,gpus
+383,low_end,-1,RADEON X800 SE,NA,1856,1,130,gpus
+36,low_end,-1,Mobility Radeon HD 3650,73.53*,1857,922,129,gpus
+366,low_end,-1,GeForce 9300 / nForce 730i,NA,1858,50,129,gpus
+44,low_end,-1,Radeon HD 7310,NA,1859,784,129,gpus
+70,low_end,30,Radeon HD 3470,109.65*,1860,154,128,gpus
+322,low_end,-1,FireGL V7300,"1,189.99*",1861,2,128,gpus
+220,low_end,-1,GeForce Go 7600,NA,1862,193,128,gpus
+109,low_end,20,Quadro NVS 320M,NA,1863,44,128,gpus
+444,low_end,-1,All-in-Wonder X1900,NA,1864,4,127,gpus
+384,low_end,-1,GeForce 9300,59.00*,1865,2,127,gpus
+372,low_end,-1,Radeon HD 3300,NA,1866,162,127,gpus
+308,low_end,30.5,GeForce 205,NA,1867,5,126,gpus
+148,low_end,-1,Seria Mobility Radeon HD 3400,NA,1868,1,125,gpus
+57,low_end,29,GeForce 8700M GT,NA,1869,107,124,gpus
+152,low_end,70,Quadro FX 1400,245.01*,1870,59,124,gpus
+47,low_end,-1,GeForce G100,19.99*,1871,68,124,gpus
+33,low_end,45,GeForce 8500 GT,NA,1872,1133,124,gpus
+63,low_end,-1,Qualcomm Adreno 618 GPU,NA,1873,46,124,gpus
+89,low_end,-1,Radeon HD 7290M,NA,1874,2,123,gpus
+121,low_end,-1,GeForce 6800 XT,NA,1875,33,123,gpus
+491,low_end,-1,Intel Haswell HD - GT1,NA,1876,10,123,gpus
+408,low_end,-1,Radeon HD 4250,NA,1877,880,123,gpus
+43,low_end,17.5,NVS 300,62.97*,1878,342,123,gpus
+35,low_end,45,Radeon HD 6310,NA,1879,2033,122,gpus
+73,low_end,14,GeForce GT 220M,NA,1880,169,122,gpus
+171,low_end,20,GeForce 9500M G,NA,1881,3,122,gpus
+105,low_end,25,Quadro FX 380M,NA,1882,37,121,gpus
+297,low_end,-1,Radeon HD 2400,88.20*,1883,91,121,gpus
+44,low_end,30.5,GeForce 310,108.35*,1884,374,120,gpus
+55,low_end,-1,GeForce 405,24.64*,1885,178,120,gpus
+218,low_end,-1,Extreme AX850 PRO,NA,1886,1,120,gpus
+75,low_end,-1,GeForce 505,115.06*,1887,19,120,gpus
+356,low_end,25,Radeon HD 2400 XT,NA,1888,228,119,gpus
+385,low_end,-1,RV530 PRO,NA,1889,3,119,gpus
+54,low_end,-1,Qualcomm Adreno 540 GPU,NA,1890,5,119,gpus
+62,low_end,20,GeForce 9600M GS,NA,1891,249,118,gpus
+487,low_end,15,FireMV 2260,88.08*,1892,9,117,gpus
+270,low_end,-1,Mobile Intel 45 Express-Chipsatzfamilie,NA,1893,9,117,gpus
+351,low_end,-1,PHDGD Quantic C3,NA,1894,4,117,gpus
+43,low_end,47,GeForce 8600 GT,196.00*,1895,2132,117,gpus
+254,low_end,-1,Radeon X1700 Targa Edition,NA,1896,2,117,gpus
+347,low_end,-1,FireGL V7200,NA,1897,28,116,gpus
+355,low_end,42,Radeon X1600 XT,NA,1898,32,116,gpus
+39,low_end,42,Quadro FX 1700,350.14*,1899,540,115,gpus
+49,low_end,-1,Radeon HD 7290,NA,1900,121,115,gpus
+22,low_end,14,GeForce G210M,NA,1901,207,115,gpus
+39,low_end,14,GeForce 315M,NA,1902,344,115,gpus
+161,low_end,-1,RADEON X800 GTO,NA,1903,31,115,gpus
+36,low_end,14,NVS 3100M,NA,1904,1477,115,gpus
+208,low_end,35,GeForce Go 7800,NA,1905,5,115,gpus
+347,low_end,-1,FireGL V5200,133.40*,1906,23,115,gpus
+345,low_end,20,Radeon HD 2400 Pro,NA,1907,500,114,gpus
+200,mid_range,-1,GRID M10-2B,NA,587,2,"2,333",gpus
+712,mid_range,-1,Ryzen 5 5600H with Radeon Graphics,NA,588,11,"2,333",gpus
+306,mid_range,75,Radeon R9 M470,NA,589,7,"2,331",gpus
+416,mid_range,-1,GRID M10-1B,NA,590,4,"2,310",gpus
+418,mid_range,294,Radeon HD 5970,179.99*,591,532,"2,308",gpus
+599,mid_range,-1,Ryzen 5 PRO 4400G with Radeon Graphics,NA,592,3,"2,306",gpus
+336,mid_range,150,FirePro V7900,190.00*,593,75,"2,305",gpus
+447,mid_range,50,Radeon RX 550X,NA,594,108,"2,301",gpus
+669,mid_range,-1,Ryzen 7 PRO 5850U with Radeon Graphics,NA,595,254,"2,300",gpus
+692,mid_range,-1,Radeon Ryzen 5 4400G,NA,-1,1,"2,296",gpus
+570,mid_range,-1,Radeon Ryzen 7 4800U,NA,596,196,"2,285",gpus
+787,mid_range,-1,Ryzen 3 PRO 5350G with Radeon Graphics,NA,597,34,"2,283",gpus
+572,mid_range,-1,Ryzen 5 4600H with Radeon Graphics,NA,598,206,"2,282",gpus
+214,mid_range,25,GeForce MX150,59.29*,599,3362,"2,281",gpus
+444,mid_range,-1,FirePro V8800,198.00*,600,4,"2,281",gpus
+772,mid_range,-1,Radeon Ryzen 5 PRO 5650GE,NA,601,56,"2,276",gpus
+520,mid_range,-1,Radeon Ryzen 7 Microsoft Surface Edition,NA,602,56,"2,273",gpus
+319,mid_range,75,Quadro K3100M,399.95*,603,641,"2,272",gpus
+576,mid_range,-1,Radeon Ryzen 7 5800HS Creator Edition,NA,-1,1,"2,271",gpus
+655,mid_range,75,Radeon HD 6970M,215.99*,604,3,"2,270",gpus
+637,mid_range,95,Radeon R7 250X,194.00*,605,2,"2,269",gpus
+380,mid_range,150,GeForce GTX 460,89.99*,606,6790,"2,269",gpus
+330,mid_range,-1,Intel UHD Graphics P630,NA,607,130,"2,267",gpus
+462,mid_range,-1,Intel HD 5600,NA,608,24,"2,264",gpus
+787,mid_range,-1,Ryzen 3 PRO 5350GE with Radeon Graphics,NA,609,31,"2,262",gpus
+591,mid_range,-1,Radeon Vega 11 Ryzen 5 PRO 3350G,NA,-1,1,"2,261",gpus
+605,mid_range,-1,Radeon Ryzen 5 7530U,NA,610,52,"2,258",gpus
+670,mid_range,-1,Ryzen 3 4300GE with Radeon Graphics,NA,611,65,"2,252",gpus
+569,mid_range,-1,Ryzen 7 5700U with Radeon Graphics,NA,612,1080,"2,248",gpus
+594,mid_range,-1,Radeon Ryzen 5 7600 6-Core,NA,613,39,"2,245",gpus
+469,mid_range,45,Quadro K620,"2,029.99*",614,1839,"2,239",gpus
+519,mid_range,-1,Radeon Ryzen 7 5700U,NA,615,249,"2,237",gpus
+628,mid_range,-1,Radeon Ryzen 7 PRO 4750GE,NA,616,44,"2,232",gpus
+509,mid_range,-1,Intel Iris Pro P580,NA,617,26,"2,231",gpus
+544,mid_range,-1,GRID P100-1B,NA,618,1,"2,223",gpus
+394,mid_range,228,Radeon HD 5870,295.00*,619,2540,"2,222",gpus
+403,mid_range,151,Radeon HD 6870,275.00*,620,6402,"2,217",gpus
+542,mid_range,-1,Ryzen 7 Extreme Edition,NA,621,9,"2,215",gpus
+331,mid_range,-1,FirePro M6100,NA,622,128,"2,206",gpus
+655,mid_range,-1,Ryzen 5 5600U with Radeon Graphics,NA,623,47,"2,188",gpus
+671,mid_range,-1,Ryzen 7 4700G with Radeon Graphics,NA,624,35,"2,187",gpus
+801,mid_range,-1,Ryzen 3 5300GE with Radeon Graphics,NA,625,8,"2,171",gpus
+633,mid_range,-1,Ryzen 3 Pro 4350G with Radeon Graphics,NA,626,101,"2,168",gpus
+462,mid_range,80,Radeon HD 7770,300.00*,627,9157,"2,168",gpus
+734,mid_range,-1,Radeon Ryzen 5 PRO 5650G,NA,628,41,"2,161",gpus
+594,mid_range,-1,Radeon Ryzen 5 5625U,NA,629,225,"2,159",gpus
+467,mid_range,55,GeForce GTX 745,284.95*,630,1717,"2,153",gpus
+371,mid_range,30,Quadro M600M,251.99*,631,40,"2,146",gpus
+519,mid_range,-1,Radeon Ryzen 7 4850U Mobile,NA,-1,1,"2,138",gpus
+431,mid_range,-1,RadeonT RX Vega 11,NA,-1,1,"2,131",gpus
+676,mid_range,-1,Radeon Ryzen 3 PRO 7330U,NA,632,5,"2,127",gpus
+531,mid_range,-1,Radeon RX Vega 11,"1,002.00*",633,3594,"2,126",gpus
+617,mid_range,-1,Ryzen 5 5560U with Radeon Graphics,NA,634,3,"2,120",gpus
+641,mid_range,-1,Radeon Eng Sample: 100-000000285-40_Y,NA,-1,1,"2,116",gpus
+519,mid_range,-1,Radeon Ryzen 5 5500U,NA,635,439,"2,114",gpus
+584,mid_range,-1,Ryzen 7 4800H with Radeon Graphics,NA,636,39,"2,113",gpus
+718,mid_range,-1,Radeon TM R9 A360,NA,637,3,"2,105",gpus
+800,mid_range,-1,FirePro M5100,NA,638,11,"2,103",gpus
+497,mid_range,-1,Radeon RX Vega 11 Ryzen 5 3400G,NA,639,103,"2,100",gpus
+247,mid_range,-1,Quadro P520,"1,499.00*",640,211,"2,099",gpus
+521,mid_range,-1,Radeon Ryzen 5 Microsoft Surface Edition,NA,641,63,"2,094",gpus
+348,mid_range,100,GeForce GTX 580M,248.68*,642,101,"2,074",gpus
+422,mid_range,-1,GRID M6-1Q,NA,643,1,"2,069",gpus
+621,mid_range,-1,Radeon Ryzen 5 5600U,NA,644,314,"2,067",gpus
+259,mid_range,-1,GeForce 945M,NA,645,39,"2,063",gpus
+425,mid_range,100,Quadro 5000M,NA,646,11,"2,060",gpus
+626,mid_range,-1,Ryzen 5 PRO 4650GE with Radeon Graphics,NA,647,110,"2,057",gpus
+557,mid_range,-1,Radeon RX Vega 11 Ryzen 5 3400GE,NA,648,2,"2,057",gpus
+546,mid_range,-1,Radeon Ryzen 7 4700U,NA,649,622,"2,051",gpus
+549,mid_range,-1,Radeon Ryzen 7 PRO 4750U,NA,650,233,"2,037",gpus
+552,mid_range,-1,Ryzen 7 4700U with Radeon Graphics,NA,651,532,"2,034",gpus
+657,mid_range,-1,Ryzen 5 PRO 5650U with Radeon Graphics,NA,652,149,"2,034",gpus
+548,mid_range,-1,Ryzen 7 PRO 4750U with Radeon Graphics,NA,653,252,"2,030",gpus
+307,mid_range,-1,FirePro V7800,190.00*,654,5,"2,028",gpus
+541,mid_range,60,Radeon R9 350,299.00*,655,25,"2,026",gpus
+365,mid_range,150,GeForce GTX 460 SE,159.99*,656,695,"2,011",gpus
+532,mid_range,85,Radeon Pro W5500M,NA,657,3,"2,010",gpus
+547,mid_range,-1,Ryzen 5 5500U with Radeon Graphics,NA,658,1266,"2,010",gpus
+313,mid_range,-1,Intel Iris Xe MAX,NA,659,6,"2,010",gpus
+563,mid_range,-1,Ryzen 5 PRO 4500U with Radeon Graphics,NA,660,4,"2,008",gpus
+442,mid_range,-1,GeForce GT 645,NA,661,11,"2,006",gpus
+473,mid_range,-1,Radeon Vega 8 Ryzen 3 3200G,NA,662,85,"2,000",gpus
+267,mid_range,75,Radeon R9 M385X,NA,663,9,"1,994",gpus
+292,mid_range,65,GeForce GTX 765M,186.30*,664,1342,"1,994",gpus
+369,mid_range,-1,Intel Iris Pro 580,NA,665,423,"1,992",gpus
+551,mid_range,-1,Radeon R7 + R7 350 Dual,NA,666,2,"1,982",gpus
+551,mid_range,-1,Radeon Ryzen Embedded V2718,NA,667,10,"1,982",gpus
+401,mid_range,151,Radeon HD 5850,288.99*,668,2782,"1,978",gpus
+431,mid_range,127,Radeon HD 6850,85.00*,669,6707,"1,972",gpus
+585,mid_range,-1,Radeon Ryzen 7 PRO 5875U,NA,670,13,"1,969",gpus
+615,mid_range,-1,Radeon Ryzen 5 5560U,NA,671,76,"1,968",gpus
+733,mid_range,-1,Ryzen 3 5300G with Radeon Graphics,NA,672,18,"1,964",gpus
+498,mid_range,-1,Radeon R7 + HD 7700 Dual,NA,673,6,"1,962",gpus
+494,mid_range,-1,Radeon HD 7660D + HD 7700 Dual,NA,674,3,"1,958",gpus
+413,mid_range,50,GeForce GTX 470M,NA,675,8,"1,953",gpus
+559,mid_range,65,Radeon R7 450,299.00*,676,107,"1,946",gpus
+309,mid_range,100,GeForce GTX 675M,NA,677,370,"1,944",gpus
+461,mid_range,160,GeForce GTX 460 v2,199.99*,678,212,"1,927",gpus
+409,mid_range,-1,Intel Iris Xe MAX 100,NA,679,2,"1,925",gpus
+377,mid_range,152,Quadro 5000,"1,757.46",680,475,"1,924",gpus
+750,mid_range,120,Radeon RX 570X,192.56*,681,1,"1,923",gpus
+318,mid_range,75,GeForce GTX 670MX,NA,682,444,"1,921",gpus
+517,mid_range,-1,Radeon HD 7560D + 7700 Dual,NA,683,1,"1,919",gpus
+422,mid_range,150,GeForce GTX 560 SE,89.99*,684,288,"1,914",gpus
+699,mid_range,-1,Matrox C680 PCIe x16,NA,685,8,"1,904",gpus
+452,mid_range,-1,Radeon Vega 11 Ryzen 5 PRO 3400G,NA,686,13,"1,902",gpus
+533,mid_range,-1,Radeon HD 7700-serie,NA,687,1,"1,899",gpus
+380,mid_range,-1,Radeon RX 540,NA,688,35,"1,897",gpus
+355,mid_range,-1,RadeonT Vega 8,NA,-1,1,"1,894",gpus
+445,mid_range,-1,Radeon HD 8670D + HD 7700 Dual,NA,689,1,"1,892",gpus
+90,midlow_range,-1,Radeon HD 7600G,NA,1643,186,309,gpus
+104,midlow_range,-1,Radeon HD 7420G,NA,1644,196,309,gpus
+176,midlow_range,-1,GeForce 605,136.83*,1645,124,308,gpus
+134,midlow_range,29,GeForce GT 520,304.00*,1646,2178,306,gpus
+308,midlow_range,45,Quadro FX 3500M,99.99*,1647,3,306,gpus
+127,midlow_range,29,GeForce GT 610,139.99*,1648,5189,304,gpus
+168,midlow_range,35,Radeon HD 8350G,NA,1649,25,304,gpus
+185,midlow_range,19.5,NVS 315,69.99*,1650,162,301,gpus
+178,midlow_range,-1,Radeon R1E,NA,1651,7,301,gpus
+94,midlow_range,-1,Radeon R3,NA,1652,714,300,gpus
+81,midlow_range,45,Radeon HD 6520G,NA,1653,1696,299,gpus
+81,midlow_range,-1,Intel HD 500,NA,1654,557,298,gpus
+102,midlow_range,-1,Radeon R5E,NA,1655,55,296,gpus
+97,midlow_range,-1,Radeon HD 7500G,NA,1656,191,294,gpus
+278,midlow_range,-1,GRID K120Q,NA,1657,4,293,gpus
+290,midlow_range,-1,GeForce 9600M GT / GeForce GT 220M,NA,1658,5,293,gpus
+19,midlow_range,-1,Radeon Vega 2 Athlon Silver 3050U,NA,-1,1,293,gpus
+109,midlow_range,-1,GeForce 610M,NA,1659,1413,292,gpus
+344,midlow_range,150,Radeon HD 2900 GT,NA,1660,5,292,gpus
+106,midlow_range,80,Quadro FX 3500,68.98*,1661,207,292,gpus
+17,midlow_range,-1,IncrediblE HD 3000,NA,-1,1,291,gpus
+195,midlow_range,86,GeForce 7800 GTX,71.60*,1662,99,291,gpus
+152,midlow_range,27,Radeon HD 7470,81.37*,1663,216,289,gpus
+385,midlow_range,-1,Radeon HD 7450A,NA,1664,2,288,gpus
+287,midlow_range,-1,GeForce 7950 Xtreme,NA,1665,1,288,gpus
+81,midlow_range,-1,Intel HD P3000,NA,1666,112,287,gpus
+98,midlow_range,-1,Radeon HD 8280,NA,1667,102,286,gpus
+221,midlow_range,12,GeForce GT 415M,NA,1668,22,286,gpus
+54,midlow_range,20,GeForce GT 520MX,NA,1669,476,285,gpus
+163,midlow_range,-1,Mobile Intel HD,479.98*,1670,459,285,gpus
+362,midlow_range,35,Mobility Radeon HD 5165,NA,1671,14,284,gpus
+370,midlow_range,45,Radeon HD 2600 XT,159.00*,1672,474,283,gpus
+120,midlow_range,65,Radeon HD 7480D,NA,1673,653,283,gpus
+71,midlow_range,12,GeForce GT 520M,29.95*,1674,996,282,gpus
+41,midlow_range,-1,GeForce 9600 GS,NA,1675,123,282,gpus
+41,midlow_range,60,GeForce 9700M GTS,NA,1676,48,278,gpus
+201,midlow_range,18,Radeon R5 235X,NA,1677,11,277,gpus
+401,midlow_range,11,Radeon HD 6370M,NA,1678,11,276,gpus
+93,midlow_range,-1,Qualcomm Adreno 630 GPU,NA,1679,17,274,gpus
+263,midlow_range,45,GeForce Go 7900 GTX,NA,1680,2,270,gpus
+328,midlow_range,29,GeForce 9650M GS,NA,1681,5,270,gpus
+129,midlow_range,-1,Radeon HD 8280G,NA,1682,5,270,gpus
+119,midlow_range,-1,Radeon HD 8400E,NA,1683,20,269,gpus
+297,midlow_range,-1,Radeon HD 5470,NA,1684,3,268,gpus
+109,midlow_range,-1,Radeon HD 7400G,NA,1685,64,267,gpus
+398,midlow_range,-1,Mobility Radeon HD 550v,NA,1686,43,266,gpus
+77,midlow_range,-1,NVS 4200M,399.00*,1687,1353,266,gpus
+283,midlow_range,45,GeForce Go 7950 GTX,NA,1688,50,264,gpus
+172,midlow_range,35,Radeon HD 8490,89.99*,1689,308,263,gpus
+78,midlow_range,-1,Radeon HD 8400,NA,1690,1491,261,gpus
+207,midlow_range,-1,Radeon HD 6450A,NA,1691,8,260,gpus
+191,midlow_range,25,GeForce 510,69.99*,1692,26,260,gpus
+80,midlow_range,45,Radeon HD 6480G,NA,1693,587,260,gpus
+160,midlow_range,-1,GeForce 7900 GT,199.00*,1694,2,258,gpus
+37,midlow_range,-1,Intel HD 3000,945.00*,1695,22322,256,gpus
+146,midlow_range,65,Radeon HD 6370D,NA,1696,38,254,gpus
+68,midlow_range,-1,GeForce 7900 GS,NA,1697,224,254,gpus
+317,midlow_range,45,Quadro NVS 510M,NA,1698,1,254,gpus
+167,midlow_range,35,Radeon HD 8470,NA,1699,43,252,gpus
+84,midlow_range,-1,Radeon HD 8330E,NA,1700,34,251,gpus
+248,midlow_range,-1,GeForce GT 415,NA,1701,3,251,gpus
+216,midlow_range,-1,Radeon HD 7640G + 8600M Dual,NA,1702,1,250,gpus
+67,midlow_range,-1,Radeon HD 8330,NA,1703,840,249,gpus
+125,midlow_range,12,GeForce 410M,NA,1704,443,249,gpus
+468,midlow_range,-1,GeForce 7900 GT/GTO,NA,1705,92,247,gpus
+68,midlow_range,-1,CARRIZO 9874,NA,-1,1,247,gpus
+81,midlow_range,-1,Radeon HD 8280E,NA,1706,19,245,gpus
+272,midlow_range,-1,GeForce 7800 GT,80.00*,1707,73,244,gpus
+172,midlow_range,19.5,NVS 310,62.06*,1708,378,243,gpus
+393,midlow_range,96,Quadro FX 5500,"1,999.00*",1709,19,242,gpus
+98,midlow_range,-1,Radeon HD4650,152.90*,1710,1,240,gpus
+68,midlow_range,-1,Radeon R2,NA,1711,1060,239,gpus
+62,midlow_range,-1,Radeon HD 8240,NA,1712,201,239,gpus
+74,midlow_range,-1,Radeon HD 7640G + R5 M230 Dual,NA,-1,1,239,gpus
+117,midlow_range,65,Radeon HD 6410D,NA,1713,379,238,gpus
+362,midlow_range,13,Mobility Radeon HD 5470,NA,1714,1120,236,gpus
+653,midlow_range,-1,Quadro FX 4500 X2,NA,1715,1,236,gpus
+429,midlow_range,20,Radeon HD 4550,156.00*,1716,482,236,gpus
+78,midlow_range,38,Quadro FX 570,115.00*,1717,251,233,gpus
+330,midlow_range,-1,Mobility Radeon HD 3670,NA,1718,114,232,gpus
+353,midlow_range,-1,Radeon E6465,NA,1719,2,231,gpus
+107,midlow_range,-1,Radeon HD 6470M,569.99*,1720,2014,228,gpus
+142,midlow_range,109,Quadro FX 4500,169.00*,1721,94,226,gpus
+145,midlow_range,18,Radeon HD 7450,49.99*,1722,317,224,gpus
+324,midlow_range,-1,GT 430,142.88*,1723,1,223,gpus
+45,midlow_range,-1,Intel G965 Express,NA,1724,186,223,gpus
+254,midlow_range,-1,Radeon R5 230,81.10*,1725,6,222,gpus
+160,midlow_range,-1,Radeon HD 7340M,NA,1726,40,221,gpus
+126,midlow_range,-1,A6 Micro-6500T Quad-Core APU with RadeonR4,NA,1727,7,220,gpus
+404,midlow_range,-1,Mobility FireGL V5725,NA,1728,9,219,gpus
+272,midlow_range,45,Quadro FX 2500M,17.50*,1729,24,218,gpus
+158,midlow_range,-1,Radeon HD 6320 Graphic,NA,1730,4,216,gpus
+26,midlow_range,-1,Intel Q45/Q43 Express Chipset,NA,1731,2449,216,gpus
+59,midlow_range,35,Quadro FX 880M,NA,1732,765,216,gpus
+398,midlow_range,13,Mobility Radeon. HD 5470,NA,1733,8,215,gpus
+319,midlow_range,11,Mobility Radeon HD 5450,NA,1734,49,214,gpus
+34,midlow_range,48,Radeon HD 4650,69.99*,1735,1529,214,gpus
+456,midlow_range,-1,Intel HD 2000,NA,1736,1,213,gpus
+46,midlow_range,58,GeForce GT 220,39.99*,1737,2181,213,gpus
+89,midlow_range,-1,Radeon R2E,NA,1738,13,212,gpus
+336,midlow_range,35,Radeon HD 2600 PRO,188.44*,1739,300,211,gpus
+125,midlow_range,-1,GeForce Go 7600 GT,NA,1740,8,210,gpus
+58,midlow_range,20,GeForce 320M,NA,1741,124,210,gpus
+239,midlow_range,65,GeForce Go 7800 GTX,NA,1742,8,210,gpus
+62,midlow_range,-1,Radeon HD 8250,NA,1743,257,209,gpus
+42,midlow_range,-1,Intel Q965/Q963 Express,NA,1744,672,209,gpus
+45,midlow_range,23,GeForce GT 330M,NA,1745,1276,209,gpus
+119,midlow_range,45,GeForce 9700M GT,NA,1746,64,209,gpus
+359,low_end,30,Quadro FX 560,150.25*,1908,25,114,gpus
+318,low_end,66,Radeon X1950 Pro,NA,1909,116,113,gpus
+430,low_end,-1,FirePro 2260,NA,1910,80,113,gpus
+258,low_end,-1,GeForce 6800,559.29*,1911,117,113,gpus
+273,low_end,-1,Sapphire RADEON X800 GT,NA,1912,2,113,gpus
+302,low_end,-1,Intel HD Modded,NA,1913,3,112,gpus
+371,low_end,-1,Radeon HD 4200,NA,1914,1302,112,gpus
+54,low_end,13,GeForce 9200M GS,NA,1915,197,111,gpus
+239,low_end,-1,Mobility Radeon HD 3400 Serisi,NA,1916,1,111,gpus
+23,low_end,14,GeForce 310M,NA,1917,1320,111,gpus
+343,low_end,-1,FireGL V7350,119.42*,1918,8,111,gpus
+137,low_end,-1,Radeon HD 2600 Pro AGP,NA,1919,12,110,gpus
+302,low_end,-1,Radeon HD 4270,NA,1920,25,110,gpus
+166,low_end,-1,GeForce 6800 LE,NA,1921,7,110,gpus
+160,low_end,-1,VIA/S3G Chrome 645/640 GPU,NA,1922,9,110,gpus
+98,low_end,-1,Intel B43 Express Chipset,NA,1923,38,109,gpus
+30,low_end,-1,Radeon HD 4330,NA,1924,536,109,gpus
+480,low_end,25,Quadro FX 370 LP,NA,1925,2,108,gpus
+30,low_end,20,Radeon HD 4350,102.24*,1926,2077,107,gpus
+474,low_end,-1,Radeon Infoshock 3000,NA,1927,2,107,gpus
+424,low_end,-1,Matrox G200e WDDM 2.0,NA,1928,2,106,gpus
+278,low_end,57,Radeon X1950 GT,NA,1929,31,106,gpus
+204,low_end,-1,GeForce Go 6800,NA,1930,21,106,gpus
+160,low_end,-1,GeForce9400M,NA,1931,2,106,gpus
+35,low_end,14,GeForce GT 320M,NA,1932,357,106,gpus
+40,low_end,-1,GeForce G105M,NA,1933,154,106,gpus
+32,low_end,45,Radeon HD 6290,NA,1934,431,105,gpus
+342,low_end,-1,GeForce 9450,NA,1935,1,105,gpus
+227,low_end,-1,Mobility Radeon X1700,NA,1936,22,105,gpus
+238,low_end,101,Quadro FX 3400/4400,NA,1937,31,104,gpus
+269,low_end,-1,M880G with Mobility Radeon HD 4250,NA,1938,454,104,gpus
+59,low_end,45,Quadro FX 570M,NA,1939,162,104,gpus
+42,low_end,50,GeForce 9400 GT,159.99*,1940,1381,104,gpus
+319,low_end,-1,GeForce 9500M,101.20*,1941,7,104,gpus
+352,low_end,-1,FireGL V3400,NA,1942,23,103,gpus
+492,low_end,-1,Quadro FX 370 Low Profile,NA,1943,1,103,gpus
+195,low_end,-1,GeForce 6800 GS/XT,NA,1944,12,103,gpus
+79,low_end,-1,GeForce 9300 GS,59.95*,1945,42,102,gpus
+65,low_end,20,GeForce 9500M GS,NA,1946,131,102,gpus
+246,low_end,-1,Mobility Radeon HD 2400 XT,NA,1947,60,102,gpus
+223,low_end,-1,Quadro FX Go1400,NA,1948,14,102,gpus
+167,low_end,-1,GeForce 8300,22.68*,1949,62,102,gpus
+77,low_end,142,Quadro FX 4000,NA,1950,1,101,gpus
+160,low_end,40,GeForce 8300 GS,NA,1951,44,101,gpus
+32,low_end,30.5,GeForce 210,54.15*,1952,6592,101,gpus
+36,low_end,-1,Intel Media Accelerator HD,NA,1953,523,101,gpus
+36,low_end,12,Quadro NVS 160M,NA,1954,403,100,gpus
+272,low_end,41,Radeon X1600 Pro,NA,1955,116,99,gpus
+71,low_end,-1,GeForce 9400,NA,1956,86,99,gpus
+35,low_end,-1,GeForce G210,122.12*,1957,294,98,gpus
+279,low_end,-1,Mobility Radeon HD 4250,NA,1958,400,98,gpus
+413,low_end,-1,Radeon 3000,319.00*,1959,1519,98,gpus
+259,low_end,-1,Mobility Radeon HD 3430,NA,1960,120,98,gpus
+47,low_end,11,GeForce 8400M GS,78.20*,1961,630,98,gpus
+95,low_end,-1,ION LE,NA,1962,19,98,gpus
+366,low_end,-1,GeForce 9300GE,97.20*,1963,2,98,gpus
+271,low_end,-1,RADEON X800 XT,NA,1964,9,98,gpus
+189,low_end,10,Quadro NVS 130M,NA,1965,20,97,gpus
+21,low_end,-1,Intel Q35 Express,NA,1966,1043,97,gpus
+226,low_end,-1,Mobility Radeon HD serie 4200,NA,1967,4,97,gpus
+264,low_end,-1,Radeon HD 3000,NA,1968,1,96,gpus
+242,low_end,-1,GeForce 6700 XL,NA,1969,33,95,gpus
+228,low_end,-1,MEDION RADEON X740XL,NA,1970,2,95,gpus
+315,low_end,-1,Matrox G200eW3 WDDM 2.0,NA,1971,4,94,gpus
+205,low_end,-1,Mobility Radeon HD 3470 Hybrid X2,NA,1972,8,94,gpus
+29,low_end,35,Radeon HD 6250,NA,1973,297,94,gpus
+249,low_end,-1,Mobility Radeon HD 3470,NA,1974,112,93,gpus
+333,low_end,20,Quadro FX 370M,NA,1975,18,93,gpus
+18,low_end,-1,Intel G41 Express Chipset,NA,1976,3188,93,gpus
+282,low_end,-1,Mobility Radeon HD 4270,NA,1977,9,93,gpus
+259,low_end,-1,M880G with Mobility Radeon HD 4200,NA,1978,221,93,gpus
+250,low_end,-1,FireGL V5100,114.96*,1979,6,93,gpus
+235,low_end,-1,Mobility Radeon X1600,NA,1980,149,92,gpus
+425,low_end,-1,nForce 780a SLI,NA,1981,2,92,gpus
+100,low_end,47,GeForce 8600 GS,NA,1982,93,92,gpus
+257,low_end,-1,RADEON X600XT,NA,1983,2,92,gpus
+293,low_end,-1,GeForce G205M,NA,1984,11,92,gpus
+246,low_end,-1,Mobility Radeon HD 3450,NA,1985,66,91,gpus
+260,low_end,-1,Mobility Radeon HD 4200,NA,1986,253,91,gpus
+30,low_end,13,GeForce 9300M GS,43.42*,1987,490,90,gpus
+29,low_end,20,GeForce 8600M GT,108.10*,1988,751,90,gpus
+212,low_end,-1,Mobility Radeon HD 2400,NA,1989,86,90,gpus
+68,low_end,-1,GeForce 7500 LE,NA,1990,75,90,gpus
+287,low_end,-1,GeForce 6610 XL,NA,1991,11,89,gpus
+24,low_end,24,Intel G45/G43 Express Chipset,NA,1992,975,87,gpus
+307,low_end,17,Quadro FX 360M,NA,1993,45,87,gpus
+377,low_end,21,Quadro FX 350,NA,1994,2,86,gpus
+61,low_end,-1,GeForce 6600,264.00*,1995,344,86,gpus
+235,low_end,-1,FireGL V3200,NA,1996,2,85,gpus
+240,low_end,44,Radeon X1650 Pro,160.89*,1997,52,85,gpus
+242,low_end,13,GeForce 9300M G,NA,1998,50,85,gpus
+186,low_end,-1,ALL-IN-WONDER X800 GT,NA,1999,3,84,gpus
+312,low_end,-1,Radeon X1300 PRO,NA,2000,54,84,gpus
+17,low_end,-1,ION,229.99*,2001,458,84,gpus
+423,low_end,-1,RADEON X800 GT,NA,2002,7,84,gpus
+137,low_end,-1,GeForce 999 GTX,NA,2003,2,84,gpus
+384,low_end,35,Quadro FX 370,125.00*,2004,55,84,gpus
+350,low_end,-1,nForce 750a SLI,NA,2005,17,83,gpus
+226,low_end,-1,Radeon HD 3200,NA,2006,1648,82,gpus
+344,low_end,-1,GeForce 9100,NA,2007,113,82,gpus
+261,low_end,-1,RADEON X850 XT Platinum Edition,NA,2008,9,82,gpus
+235,low_end,-1,Mobility Radeon X2500,NA,2009,4,82,gpus
+223,low_end,-1,MOBILITY FireGL V5000,NA,2010,2,82,gpus
+343,low_end,-1,GeForce 9300 SE,NA,2011,1,82,gpus
+366,low_end,-1,nForce 980a/780a SLI,NA,2012,11,82,gpus
+159,low_end,-1,GeForce 8400,589.99*,2013,50,81,gpus
+170,low_end,-1,RADEON X800 XT Platinum Edition,NA,2014,1,81,gpus
+264,low_end,-1,Mobility Radeon 4100,NA,2015,16,81,gpus
+326,low_end,-1,RADEON X850 XT,NA,2016,9,81,gpus
+193,mid_range,-1,Qualcomm Adreno 8cx Gen 3,NA,690,38,"1,886",gpus
+620,mid_range,-1,Ryzen 3 4300G with Radeon Graphics,NA,691,58,"1,879",gpus
+425,mid_range,64,GeForce GTX 645,NA,692,457,"1,878",gpus
+351,mid_range,50,Radeon Pro WX 4130,NA,693,18,"1,878",gpus
+556,mid_range,-1,Ryzen 5 4600U with Radeon Graphics,NA,694,58,"1,874",gpus
+351,mid_range,75,GeForce GTX 570M,NA,695,177,"1,874",gpus
+226,mid_range,25,Quadro M520,NA,696,72,"1,870",gpus
+561,mid_range,138,FirePro 3D V7800,599.99*,697,18,"1,867",gpus
+197,mid_range,-1,GeForce MX130,NA,698,1326,"1,866",gpus
+321,mid_range,50,Radeon RX 640,NA,699,104,"1,866",gpus
+585,mid_range,-1,Radeon Eng Sample: 100-000000287-40_Y,NA,700,2,"1,862",gpus
+294,mid_range,100,Quadro K4000M,254.00*,701,230,"1,860",gpus
+413,mid_range,-1,Radeon RX Vega 11 Ryzen 7 3750H,NA,-1,1,"1,856",gpus
+232,mid_range,70,Radeon R9 M385,NA,702,6,"1,853",gpus
+715,mid_range,-1,GeForce 945A,NA,703,1,"1,852",gpus
+600,mid_range,-1,Radeon Ryzen Embedded V2748,NA,704,2,"1,842",gpus
+866,mid_range,-1,FirePro M5100 FireGL V,NA,705,1,"1,839",gpus
+595,mid_range,-1,GRID M60-0B,NA,706,1,"1,838",gpus
+466,mid_range,-1,Radeon HD 8570D + HD 7700 Dual,NA,707,3,"1,835",gpus
+216,mid_range,-1,GeForce MX230,NA,708,532,"1,834",gpus
+315,mid_range,-1,Intel Iris Plus,NA,709,2325,"1,829",gpus
+333,mid_range,-1,Radeon R9 M375X,NA,710,45,"1,828",gpus
+478,mid_range,-1,MxGPU,NA,711,5,"1,826",gpus
+498,mid_range,-1,Radeon Vega 11,NA,712,397,"1,822",gpus
+775,mid_range,-1,FirePro M6000,325.99*,713,1,"1,820",gpus
+464,mid_range,-1,Radeon R9 M360,NA,714,98,"1,817",gpus
+607,mid_range,-1,Ryzen 3 PRO 4350GE with Radeon Graphics,NA,715,34,"1,814",gpus
+444,mid_range,-1,Intel UHD Graphics 770,NA,716,1677,"1,814",gpus
+760,mid_range,-1,Matrox C900 PCIe x16,NA,717,2,"1,812",gpus
+536,mid_range,-1,Ryzen 5 4500U with Radeon Graphics,NA,718,1326,"1,812",gpus
+589,mid_range,-1,Radeon Ryzen 5 PRO 5675U,NA,719,26,"1,801",gpus
+678,mid_range,-1,Radeon HD 8870M / R9 M270X / M370X,NA,720,88,"1,800",gpus
+459,mid_range,-1,Radeon RX Vega 11 Processor,NA,721,18,"1,799",gpus
+704,mid_range,-1,Ryzen 3 PRO 4200G with Radeon Graphics,NA,-1,1,"1,799",gpus
+367,mid_range,-1,Embedded Radeon E9173,NA,722,6,"1,798",gpus
+395,mid_range,35,Radeon Pro WX 2100,NA,723,128,"1,798",gpus
+612,mid_range,-1,Radeon Ryzen 5 4600GE with Radeon Graphics,NA,724,2,"1,793",gpus
+572,mid_range,-1,Radeon HD 8670D + 7700 Dual,NA,725,6,"1,789",gpus
+455,mid_range,-1,Radeon RX Vega 10 Ryzen 5 3500U,NA,726,1,"1,778",gpus
+538,mid_range,-1,Radeon Ryzen 3 PRO 5450U,NA,727,56,"1,773",gpus
+315,mid_range,100,Quadro 5010M,235.95*,728,37,"1,772",gpus
+386,mid_range,-1,Firepro W5170M,NA,729,80,"1,763",gpus
+356,mid_range,64,GeForce GTX 650,109.98*,730,6809,"1,756",gpus
+363,mid_range,-1,Intel Iris Plus 655,NA,731,936,"1,754",gpus
+327,mid_range,-1,FirePro M6000 Mobility Pro,NA,732,78,"1,750",gpus
+550,mid_range,-1,Radeon Ryzen 5 PRO 7645 6-Core,NA,-1,1,"1,749",gpus
+593,mid_range,-1,Ryzen 3 PRO 4200GE with Radeon Graphics,NA,733,4,"1,748",gpus
+343,mid_range,-1,Intel UHD Graphics 750,NA,734,870,"1,746",gpus
+364,mid_range,-1,Radeon Vega 8 Ryzen 5 3550H,NA,735,22,"1,743",gpus
+297,mid_range,75,GeForce GTX 670M,NA,736,642,"1,736",gpus
+388,mid_range,-1,Intel Iris Plus 645,NA,737,23,"1,727",gpus
+386,mid_range,175,Radeon HD 5830,258.99*,738,739,"1,727",gpus
+435,mid_range,-1,Intel UHD Graphics P750,NA,739,20,"1,726",gpus
+486,mid_range,-1,Radeon 550,96.79,740,2,"1,723",gpus
+518,mid_range,-1,Radeon Vega 8 Ryzen 3 3200GE,NA,-1,1,"1,722",gpus
+527,mid_range,-1,Ryzen 5 PRO 4650U with Radeon Graphics,NA,741,251,"1,714",gpus
+546,mid_range,-1,Radeon Ryzen 7 7700 8-Core,NA,742,19,"1,714",gpus
+403,mid_range,-1,Radeon Vega 8 Ryzen 3 PRO 3200G,NA,743,5,"1,710",gpus
+592,mid_range,-1,Radeon Ryzen 9 PRO 7945 12-Core,NA,744,4,"1,708",gpus
+356,mid_range,-1,Radeon HD 6900M,NA,745,468,"1,707",gpus
+542,mid_range,-1,Radeon Ryzen 7 7800X3D 8-Core,NA,746,8,"1,706",gpus
+544,mid_range,-1,Radeon Ryzen 5 7600X 6-Core,NA,747,35,"1,706",gpus
+416,mid_range,55,Radeon HD 7750,99.99*,748,5701,"1,701",gpus
+477,mid_range,-1,Radeon Vega 11 Ryzen 5 PRO 3400GE w/,NA,749,14,"1,700",gpus
+235,mid_range,55,GeForce GTX 760M,NA,750,439,"1,692",gpus
+436,mid_range,-1,Radeon E8860,NA,751,12,"1,686",gpus
+407,mid_range,-1,Radeon RX Vega 10 Ryzen 7 3750H,NA,752,35,"1,686",gpus
+708,mid_range,-1,Radeon Eng Sample: 100-000000263-30_Y,NA,-1,1,"1,684",gpus
+533,mid_range,-1,Radeon R7 M380,NA,753,2,"1,669",gpus
+312,mid_range,50,GeForce GT 755M,NA,754,765,"1,657",gpus
+686,mid_range,-1,Radeon HD HD7850M,NA,755,1,"1,652",gpus
+380,mid_range,-1,Radeon RX Vega 10,NA,756,1041,"1,652",gpus
+367,mid_range,-1,Intel UHD Graphics 730,NA,757,1412,"1,650",gpus
+602,mid_range,75,FirePro W600,414.99*,758,41,"1,642",gpus
+629,mid_range,-1,Radeon HD 8870M,NA,759,15,"1,638",gpus
+331,mid_range,75,Quadro K3000M,407.56*,760,341,"1,638",gpus
+466,mid_range,-1,FirePro M4000 Mobility Pro,NA,761,37,"1,630",gpus
+566,mid_range,-1,Ryzen 3 5400U with Radeon Graphics,NA,762,214,"1,626",gpus
+572,mid_range,-1,Intel Iris Pro P6300,NA,763,14,"1,626",gpus
+440,mid_range,-1,Radeon R7 M465X,NA,764,6,"1,624",gpus
+442,mid_range,-1,Ryzen 7 2700U with Radeon Vega,NA,765,8,"1,617",gpus
+458,mid_range,100,GeForce GTX 480M,NA,766,15,"1,617",gpus
+410,mid_range,-1,FirePro M4000,72.83*,767,183,"1,610",gpus
+361,mid_range,-1,Radeon Vega 10 Ryzen 7 PRO 3700U w/,NA,768,12,"1,606",gpus
+405,mid_range,-1,Radeon RX Vega11,NA,769,17,"1,605",gpus
+200,mid_range,-1,Seria Radeon HD 7700,NA,770,1,"1,604",gpus
+365,mid_range,150,Radeon HD 6790,294.00*,771,846,"1,602",gpus
+537,mid_range,-1,Ryzen 3 PRO 5450U with Radeon Graphics,NA,772,3,"1,601",gpus
+414,mid_range,30,Quadro P400,201.17*,773,446,"1,597",gpus
+415,mid_range,-1,Radeon Vega 8,126.86*,774,7991,"1,584",gpus
+408,mid_range,-1,Radeon Vega 9,NA,775,53,"1,582",gpus
+413,mid_range,51,Quadro K2000D,339.99*,776,160,"1,577",gpus
+379,mid_range,-1,Intel Iris Plus 650,NA,777,197,"1,576",gpus
+459,mid_range,150,GeForce GTX 555,NA,778,159,"1,575",gpus
+467,mid_range,50,Radeon R9 M275X / M375,NA,779,57,"1,575",gpus
+612,mid_range,-1,Radeon Athlon Gold PRO 4150GE,NA,780,2,"1,574",gpus
+445,mid_range,-1,Radeon RX Vega 11 Ryzen 5 3350G,NA,781,4,"1,572",gpus
+377,mid_range,-1,Radeon Vega 10,NA,782,207,"1,563",gpus
+375,mid_range,51,Quadro K2000,294.00*,783,1380,"1,562",gpus
+651,mid_range,-1,Radeon HD 7560D + HD 6670 Dual,NA,784,1,"1,555",gpus
+238,mid_range,-1,Quadro P500,NA,785,93,"1,555",gpus
+507,mid_range,-1,Ryzen 3 5300U with Radeon Graphics,NA,786,341,"1,549",gpus
+506,mid_range,50,FirePro W4100,184.00*,787,190,"1,549",gpus
+544,mid_range,-1,Radeon Ryzen 3 5425U,NA,788,19,"1,546",gpus
+465,mid_range,-1,Radeon HD 8470D + HD 7500 Dual,NA,789,2,"1,545",gpus
+539,mid_range,-1,Ryzen 3 PRO 4300U with Radeon Graphics,NA,790,7,"1,543",gpus
+550,mid_range,-1,Radeon Ryzen 9 7950X3D 16-Core,NA,791,11,"1,541",gpus
+526,mid_range,-1,FirePro V8700,157.88*,792,1,"1,539",gpus
+306,mid_range,-1,Radeon R9 M275X,NA,793,6,"1,537",gpus
+548,mid_range,-1,Ryzen 3 PRO 4450U with Radeon Graphics,NA,794,61,"1,536",gpus
+156,midlow_range,-1,Radeon HD 4650 AGP,NA,1747,3,208,gpus
+55,midlow_range,-1,Quadro NVS 290,59.00*,1748,366,207,gpus
+97,midlow_range,35,Radeon HD 6380G,399.99*,1749,110,207,gpus
+46,midlow_range,-1,Intel i gfx-driver-ci-master-9938,NA,-1,1,206,gpus
+90,midlow_range,-1,Radeon R3E,NA,1750,8,206,gpus
+520,midlow_range,-1,Barco MXRT 1450,NA,1751,1,206,gpus
+554,midlow_range,-1,Intel 2nd Generation SandyBridge HD 3000,NA,1752,2,205,gpus
+42,midlow_range,23,GeForce GT 230M,NA,1753,497,204,gpus
+50,midlow_range,23,GeForce GT 240M,NA,1754,381,203,gpus
+413,midlow_range,-1,GeForce 7950 GX2,54.99*,1755,36,202,gpus
+75,midlow_range,-1,GeForce 7600 GT,199.00*,1756,435,202,gpus
+270,midlow_range,-1,Mobility Radeon HD 545v,NA,1757,11,200,gpus
+214,midlow_range,-1,RADEON HD7450,22.25*,1758,1,199,gpus
+119,midlow_range,18,Radeon HD 6450,89.00*,1759,4692,199,gpus
+150,midlow_range,-1,Radeon HD 6320M,NA,1760,20,198,gpus
+87,midlow_range,65,Quadro FX 1500,115.01*,1761,151,197,gpus
+146,midlow_range,-1,Radeon HD 7340G,NA,1762,24,196,gpus
+393,midlow_range,-1,Intel Infoshock HD,NA,1763,2,194,gpus
+201,midlow_range,-1,Radeon HD 8210E,NA,1764,1,194,gpus
+106,midlow_range,-1,Radeon HD 6430M,NA,1765,9,193,gpus
+329,midlow_range,-1,Mobility Radeon HD 2600 XT,NA,1766,54,192,gpus
+289,midlow_range,-1,Mobility Radeon HD 4550,NA,1767,20,191,gpus
+70,midlow_range,35,NVS 5100M,NA,1768,262,189,gpus
+382,midlow_range,-1,Mobility Radeon HD 540v,NA,1769,24,188,gpus
+177,midlow_range,-1,Intel 2nd Generation SandyBridge HD,NA,1770,2,186,gpus
+48,midlow_range,-1,Radeon HD 8210,NA,1771,595,185,gpus
+92,midlow_range,-1,GeForce 6800 GS,NA,1772,51,183,gpus
+98,midlow_range,-1,Quadro FX 3450/4000 SDI,NA,1773,193,183,gpus
+329,midlow_range,7,Mobility Radeon HD 5430,NA,1774,41,181,gpus
+118,midlow_range,-1,Radeon HD 7310G,NA,1775,3,181,gpus
+659,midlow_range,-1,Barco MXRT 7100,NA,1776,1,180,gpus
+398,midlow_range,-1,FireGL V3600,160.99*,1777,25,180,gpus
+253,midlow_range,-1,Radeon HD 6230,NA,1778,4,179,gpus
+465,midlow_range,32,FirePro 3D V3700,84.99*,1779,41,179,gpus
+199,midlow_range,-1,GeForce 7800 GS,NA,1780,38,177,gpus
+253,midlow_range,20,GeForce Go 7900 GS,NA,1781,56,176,gpus
+353,midlow_range,-1,Mobility Radeon HD 530v,NA,1782,28,175,gpus
+120,midlow_range,-1,Radeon HD 7310 - Carte graphique,NA,1783,1,174,gpus
+135,midlow_range,50,Quadro FX 1700M,NA,1784,54,173,gpus
+38,midlow_range,-1,GeForce 9500 GS,NA,1785,216,171,gpus
+274,midlow_range,45,Quadro FX 1500M,NA,1786,26,171,gpus
+196,midlow_range,-1,Radeon HDG 4670,NA,1787,1,170,gpus
+352,midlow_range,17,FirePro 2460,83.99*,1788,17,170,gpus
+42,midlow_range,35,Quadro FX 770M,527.00*,1789,306,170,gpus
+49,midlow_range,23,GeForce GT 325M,NA,1790,78,170,gpus
+80,midlow_range,50,GeForce GT 120,29.99*,1791,148,169,gpus
+267,midlow_range,-1,Mobility Radeon HD 2600,NA,1792,278,168,gpus
+77,midlow_range,34,Quadro FX 380,72.50*,1793,146,167,gpus
+127,midlow_range,-1,Radeon HD 7310M,NA,1794,56,166,gpus
+119,midlow_range,-1,Intel HD manual-gen9_2015-133271,NA,1795,3,165,gpus
+28,midlow_range,-1,GeForce 9200,NA,1796,252,165,gpus
+186,midlow_range,19.1,Radeon HD 7350,NA,1797,60,165,gpus
+221,midlow_range,4.4,Radeon HD 8350,99.81*,1798,58,163,gpus
+14,midlow_range,-1,Intel 3rd Generation IvyBridge HD GT1,NA,-1,1,161,gpus
+71,midlow_range,-1,GeForce G102M,NA,1799,101,160,gpus
+293,low_end,35,Quadro FX 540,59.99*,2017,27,81,gpus
+47,low_end,-1,GeForce 7300 LE,32.00*,2018,398,80,gpus
+48,low_end,23,Quadro NVS 295,63.00*,2019,325,80,gpus
+263,low_end,-1,RADEON X800GT,NA,2020,12,80,gpus
+308,low_end,-1,GeForce 8100 / nForce 720a,NA,2021,16,79,gpus
+47,low_end,-1,GeForce 7300 GS,NA,2022,245,79,gpus
+262,low_end,20,Radeon HD 2350,NA,2023,17,77,gpus
+39,low_end,-1,GeForce 9300 GE,22.99*,2024,235,76,gpus
+302,low_end,-1,RADEON X700 PRO,NA,2025,16,76,gpus
+202,low_end,-1,M860G with Mobility Radeon 4100,NA,2026,26,76,gpus
+383,low_end,-1,Radeon X1650 GTO,NA,2027,2,75,gpus
+281,low_end,-1,GeForce 7350 LE,NA,2028,7,74,gpus
+610,low_end,-1,FireMV 2450,NA,2029,1,74,gpus
+228,low_end,-1,Radeon 3100,214.99*,2030,269,74,gpus
+180,low_end,-1,RADEON X800 PRO/GTO,NA,2031,14,73,gpus
+215,low_end,-1,Mobility Radeon HD 4300 Serisi,NA,2032,1,73,gpus
+156,low_end,-1,RADEON X850 PRO,NA,2033,3,73,gpus
+248,low_end,-1,RADEON X700,NA,2034,32,73,gpus
+223,low_end,-1,FireGL V7100,328.67*,2035,1,72,gpus
+187,low_end,-1,MEDION RADEON 9800 XXL,NA,2036,1,72,gpus
+183,low_end,-1,M880G with Mobility Radeon HD 4225,NA,2037,7,72,gpus
+348,low_end,-1,RADEON X700 SE,NA,2038,9,71,gpus
+357,low_end,-1,Radeon X1650 SE,NA,2039,2,71,gpus
+240,low_end,-1,Radeon X550XTX,NA,2040,5,71,gpus
+326,low_end,-1,FireGL V3300,NA,2041,11,71,gpus
+167,low_end,10,Quadro NVS 150M,NA,2042,32,70,gpus
+286,low_end,-1,Diamond X1300-PCIE 256MB,NA,2043,1,70,gpus
+40,low_end,20,GeForce 8600M GS,NA,2044,310,70,gpus
+186,low_end,-1,Quadro NVS 420,150.00*,2045,41,70,gpus
+690,low_end,-1,BASICDISPLAY,NA,2046,1,70,gpus
+208,low_end,-1,GeForce Go 6600,NA,2047,20,69,gpus
+270,low_end,-1,RADEON X800 XL,NA,2048,11,69,gpus
+285,low_end,-1,Radeon X1600 Pro / X1300XT,NA,2049,2,69,gpus
+52,low_end,10,Quadro NVS 140M,NA,2050,297,69,gpus
+178,low_end,-1,Quadro FX 3000,166.61*,2051,14,69,gpus
+336,low_end,-1,FireGL V3350,NA,2052,15,69,gpus
+290,low_end,-1,GeForce 8400 SE,NA,2053,6,68,gpus
+47,low_end,-1,GeForce 9100M G,NA,2054,82,68,gpus
+317,low_end,-1,Intel G45/G43/G41 Express Chipset,NA,2055,1,68,gpus
+456,low_end,-1,Matrox G200eR WDDM 2.0,NA,2056,4,68,gpus
+64,low_end,-1,GeForce 9400M,NA,2057,115,68,gpus
+61,low_end,12,GeForce 9400M G,NA,2058,113,68,gpus
+252,low_end,-1,RADEON X600 PRO,160.49*,2059,5,67,gpus
+200,low_end,-1,MOBILITY RADEON X700,NA,2060,60,67,gpus
+56,low_end,14,GeForce 8400M GT,NA,2061,103,67,gpus
+73,low_end,10,Quadro NVS 135M,NA,2062,156,67,gpus
+253,low_end,27,Radeon X1550,155.00*,2063,31,67,gpus
+174,low_end,-1,Mobility Radeon HD 4225,NA,2064,18,66,gpus
+112,low_end,-1,GeForce Go 7400,NA,2065,150,66,gpus
+55,low_end,19.2,GeForce 8200M G,NA,2066,363,65,gpus
+190,low_end,-1,RADEON X800 PRO,NA,2067,8,65,gpus
+24,low_end,14,GeForce G 105M,NA,2068,298,65,gpus
+324,low_end,25,Quadro FX 550,287.82*,2069,45,64,gpus
+35,low_end,14,GeForce G 103M,NA,2070,114,63,gpus
+130,low_end,-1,Mobility Radeon HD 3410,NA,2071,6,63,gpus
+72,low_end,-1,Intel HD manual-15.28-1861,NA,2072,1,63,gpus
+237,low_end,-1,MOBILITY FireGL V3200,NA,2073,11,62,gpus
+96,low_end,-1,Quadro NVS 450,159.00*,2074,78,62,gpus
+284,low_end,-1,SAPPHIRE Radeon X1550,NA,2075,5,61,gpus
+189,low_end,-1,MOBILITY RADEON X700 XL,NA,2076,1,60,gpus
+286,low_end,-1,Radeon 2100,190.99*,2077,126,60,gpus
+152,low_end,-1,RADEON 9800 PRO,NA,2078,32,59,gpus
+504,low_end,-1,Matrox G200e WDDM 1.2,NA,2079,17,59,gpus
+273,low_end,-1,GeForce FX 5950 Ultra,NA,2080,3,59,gpus
+167,low_end,-1,FireGL X1,NA,2081,4,59,gpus
+165,low_end,-1,GeForce 6800 XE,NA,2082,1,59,gpus
+241,low_end,10,GeForce 8400M G,NA,2083,96,59,gpus
+236,low_end,-1,Radeon X1300,95.78*,2084,18,58,gpus
+336,low_end,-1,Intel - Express Chipset Q45/Q43,NA,2085,8,58,gpus
+191,low_end,-1,RADEON 9800,325.00*,2086,1,58,gpus
+266,low_end,-1,Intel G41 Express-Chipsatz,NA,2087,8,57,gpus
+18,low_end,-1,Intel G33/G31 Express,NA,2088,2930,57,gpus
+351,low_end,-1,Intel Q45/Q43 Express-Chipsatz,NA,2089,11,57,gpus
+159,low_end,-1,RADEON 9800 XT,NA,2090,8,57,gpus
+325,low_end,-1,Intel - Express Chipset G41,NA,2091,8,57,gpus
+210,low_end,-1,RADEON X600 256MB HyperMemory,NA,2092,38,57,gpus
+223,low_end,-1,RADEON X550XT,NA,2093,6,56,gpus
+148,low_end,-1,RADEON 9700 PRO,NA,2094,10,54,gpus
+49,low_end,-1,GeForce 6200 TurboCache,NA,2095,254,53,gpus
+274,low_end,-1,FireGL V3100,NA,2096,49,53,gpus
+266,low_end,-1,Radeon Xpress 1300,NA,2097,1,52,gpus
+113,low_end,-1,GeForce Go 7300,NA,2098,245,52,gpus
+448,low_end,-1,Matrox G200eh WDDM 1.2,NA,2099,36,52,gpus
+132,low_end,-1,GeForce 7100 GS,NA,2100,113,52,gpus
+286,low_end,-1,RADEON E2400,NA,2101,1,52,gpus
+171,low_end,-1,GeForce FX Go5700,NA,2102,6,51,gpus
+234,low_end,-1,GeForce 6600 LE,NA,2103,45,51,gpus
+482,low_end,36,FirePro 2450,89.99*,2104,8,51,gpus
+265,low_end,-1,RADEON X550,NA,2105,14,51,gpus
+211,low_end,-1,Mobility Radeon HD 2300,NA,2106,31,51,gpus
+13,low_end,-1,Mobile Intel 965 Express,NA,2107,2640,50,gpus
+209,low_end,-1,MOBILITY RADEON X600,NA,2108,68,50,gpus
+396,low_end,-1,Matrox G200eW WDDM 1.2,NA,2109,11,50,gpus
+208,low_end,-1,Radeon X1600,NA,2110,5,49,gpus
+233,low_end,-1,MOBILITY RADEON X600 SE,NA,2111,5,49,gpus
+244,low_end,-1,Radeon X1050,NA,2112,49,49,gpus
+228,low_end,-1,RADEON X600 SE,56.18*,2113,6,49,gpus
+243,low_end,-1,Mobility Radeon X2300 HD,NA,2114,5,49,gpus
+263,low_end,-1,Mobility Radeon X2300,NA,2115,117,48,gpus
+34,low_end,-1,GeForce 7300 SE/7200 GS,NA,2116,426,48,gpus
+256,low_end,-1,Radeon X1550 64-bit,NA,2117,41,48,gpus
+235,low_end,10,Quadro NVS 110M,NA,2118,101,48,gpus
+148,low_end,-1,SAPPHIRE RADEON 9600 ATLANTIS,NA,2119,9,47,gpus
+273,low_end,10,Quadro NVS 120M,NA,2120,16,47,gpus
+105,low_end,-1,Matrox G200eh WDDM 2.0,NA,2121,6,46,gpus
+109,low_end,-1,MOBILITY RADEON 9800,NA,2122,2,46,gpus
+290,low_end,-1,FireMV 2250,104.00*,2123,17,46,gpus
+209,low_end,-1,Matrox G200eR WDDM 1.2,NA,2124,13,45,gpus
+368,mid_range,116,GeForce GTX 550 Ti,99.99*,795,7830,"1,535",gpus
+227,mid_range,-1,Radeon R7 FX-9830P RADEON,NA,796,91,"1,524",gpus
+83,mid_range,204,GeForce GTX 285,119.99*,797,812,"1,515",gpus
+87,mid_range,190,Radeon HD 4890,89.99*,798,1046,"1,512",gpus
+468,mid_range,-1,Radeon Ryzen 3 5300U,NA,799,102,"1,511",gpus
+170,mid_range,-1,GeForce 940MX,NA,800,5236,"1,509",gpus
+556,mid_range,45,Radeon HD 7870M,NA,801,15,"1,507",gpus
+217,mid_range,-1,GeForce 845M,NA,802,82,"1,507",gpus
+387,mid_range,-1,Ryzen 5 2500U with Radeon Vega,NA,803,5,"1,503",gpus
+346,mid_range,-1,Radeon Vega 6 Ryzen 3 3350U,NA,804,5,"1,502",gpus
+340,mid_range,64,GeForce GT 740,236.99*,805,2089,"1,494",gpus
+348,mid_range,50,Radeon R9 M370X,889.00*,806,323,"1,494",gpus
+483,mid_range,-1,Radeon HD 6670 + 7660D Dual,NA,807,1,"1,492",gpus
+614,mid_range,-1,Radeon Ryzen 5 PRO 4655G,NA,-1,1,"1,490",gpus
+485,mid_range,-1,Radeon Ryzen 7 PRO 7745 8-Core,NA,808,2,"1,487",gpus
+515,mid_range,-1,Radeon HD 7660D + HD 6670 Dual,NA,809,6,"1,485",gpus
+376,mid_range,142,Quadro 4000,"1,040.66",810,2135,"1,484",gpus
+446,mid_range,50,Radeon R9 M365X,NA,811,1,"1,482",gpus
+259,mid_range,-1,Intel UHD Graphics,NA,812,10846,"1,481",gpus
+393,mid_range,-1,Radeon RX Vega 8,NA,813,20,"1,474",gpus
+340,mid_range,-1,Radeon RX Vega 10 Ryzen 7 3700U,NA,814,79,"1,473",gpus
+341,mid_range,-1,Radeon Vega 10 Mobile,NA,815,426,"1,473",gpus
+257,mid_range,-1,Radeon 550X,NA,816,8,"1,467",gpus
+394,mid_range,-1,Radeon R9 255,344.16*,817,97,"1,457",gpus
+190,mid_range,-1,GeForce MX110,NA,818,627,"1,454",gpus
+562,mid_range,-1,Ryzen 5 PRO 4400GE with Radeon Graphics,NA,819,2,"1,442",gpus
+554,mid_range,-1,Radeon Eng Sample: 100-000000085-40_35/24_Y,NA,820,2,"1,441",gpus
+569,mid_range,-1,Intel Iris Pro Graphics 6200,NA,821,254,"1,439",gpus
+262,mid_range,50,GeForce GTX 660M,78.99*,822,1480,"1,438",gpus
+511,mid_range,-1,Radeon HD 8470D + HD 6670 Dual,NA,823,1,"1,436",gpus
+306,mid_range,-1,Radeon 540X,NA,824,46,"1,433",gpus
+643,mid_range,-1,Intel Iris 650,NA,825,2,"1,433",gpus
+522,mid_range,-1,Radeon Ryzen 3 PRO 4355GE,NA,826,5,"1,432",gpus
+337,mid_range,-1,Radeon Vega 9 Ryzen 5 Microsoft Surface Edition,NA,827,7,"1,429",gpus
+444,mid_range,-1,Radeon HD 7560D + 7670 Dual,NA,828,7,"1,426",gpus
+345,mid_range,-1,Radeon Vega 8 Mobile,NA,829,423,"1,426",gpus
+95,mid_range,219,GeForce GTX 275,431.72*,830,769,"1,418",gpus
+676,mid_range,-1,Radeon R7 M370,NA,831,15,"1,418",gpus
+427,mid_range,50,Radeon Pro WX 4170,NA,832,1,"1,409",gpus
+363,mid_range,-1,Radeon Ryzen 7 3700U,NA,833,5,"1,401",gpus
+50,mid_range,150,Radeon HD 4870,79.99*,834,2090,"1,397",gpus
+337,mid_range,-1,Radeon Vega 8 Ryzen 5 3500U,NA,835,214,"1,392",gpus
+308,mid_range,-1,Intel Iris 550,NA,836,225,"1,389",gpus
+463,mid_range,-1,Radeon HD 7560D + HD 7670 Dual,NA,837,1,"1,380",gpus
+301,mid_range,-1,FirePro W5130M,NA,838,40,"1,379",gpus
+565,mid_range,40,Radeon HD 7850M,NA,839,8,"1,373",gpus
+251,mid_range,-1,Radeon 540,NA,840,45,"1,371",gpus
+652,mid_range,-1,FirePro M40003,NA,841,44,"1,364",gpus
+567,mid_range,-1,Radeon HD 8670D + 6670 Dual,NA,842,12,"1,361",gpus
+280,mid_range,55,Quadro K2100M,415.99*,843,1369,"1,356",gpus
+337,mid_range,-1,Radeon Vega 8 Ryzen 5 PRO 3500U w/,NA,844,21,"1,351",gpus
+496,mid_range,-1,Radeon HD 7560D + HD 7700 Dual,NA,845,4,"1,347",gpus
+342,mid_range,-1,Intel Iris Plus 640,NA,846,679,"1,346",gpus
+329,mid_range,108,Radeon HD 5770,189.99*,847,7457,"1,343",gpus
+473,mid_range,160,FireStream 9270,NA,848,4,"1,341",gpus
+481,mid_range,-1,Ryzen 3 4300U with Radeon Graphics,NA,849,243,"1,337",gpus
+296,mid_range,-1,Radeon Vega 6 Ryzen 3 PRO 3300U w/,NA,850,4,"1,337",gpus
+467,mid_range,-1,Radeon Vega 3 Athlon Gold 3150G,NA,851,1,"1,334",gpus
+299,mid_range,106,GeForce GTS 450,79.99*,852,4019,"1,332",gpus
+471,mid_range,-1,Radeon HD 8670D + HD 7600 Dual,NA,853,1,"1,318",gpus
+265,mid_range,100,Quadro 4000M,232.06*,854,198,"1,317",gpus
+573,mid_range,-1,FirePro M5950,NA,855,2,"1,314",gpus
+441,mid_range,-1,Radeon R7 PRO A8-8670E,NA,856,1,"1,310",gpus
+435,mid_range,-1,Radeon Vega 8 Ryzen 3 PRO 3200GE w/,NA,-1,1,"1,310",gpus
+564,mid_range,286,Radeon HD 4870 X2,NA,857,209,"1,309",gpus
+344,mid_range,-1,Radeon Vega 6,"1,799.99*",858,364,"1,306",gpus
+443,mid_range,-1,Tesla M2070-Q,NA,859,1,"1,306",gpus
+751,mid_range,-1,Radeon HD 8790M,NA,860,70,"1,306",gpus
+234,mid_range,50,GeForce GT 750M,NA,861,3336,"1,302",gpus
+194,mid_range,17,GeForce 930MX,NA,862,916,"1,300",gpus
+872,mid_range,-1,TENSOR 1.0 Driver Intel HD 630,NA,863,1,"1,300",gpus
+289,mid_range,-1,"Radeon R7 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G",NA,-1,1,"1,293",gpus
+342,mid_range,-1,Radeon Vega 6 Ryzen 3 3300U,NA,864,6,"1,291",gpus
+369,mid_range,-1,Radeon Vega 9 Ryzen 5 3550H,NA,865,3,"1,287",gpus
+742,mid_range,-1,Radeon R7 A370,NA,866,2,"1,281",gpus
+270,mid_range,-1,Radeon RX Vega11 Ryzen 7 Microsoft Surface Edition,NA,867,9,"1,281",gpus
+542,mid_range,154,FirePro 3D V8750,"1,230.99*",868,4,"1,272",gpus
+315,mid_range,-1,Radeon RX Vega 10 Ryzen 7 PRO 3700U w/,NA,869,7,"1,271",gpus
+360,mid_range,75,FirePro V5900,86.00*,870,143,"1,270",gpus
+346,mid_range,-1,RadeonT 610M,NA,-1,1,"1,263",gpus
+536,mid_range,-1,Radeon HD 8570D + HD 6670 Dual,NA,871,4,"1,261",gpus
+75,mid_range,236,GeForce GTX 280,522.78*,872,449,"1,260",gpus
+456,mid_range,-1,Radeon HD 7560D + HD 7600 Dual,NA,873,1,"1,258",gpus
+301,mid_range,-1,Intel UHD Graphics 630,NA,874,12656,"1,258",gpus
+322,mid_range,-1,Intel Iris 540,NA,875,1178,"1,249",gpus
+222,mid_range,-1,Radeon 630,NA,876,9,"1,245",gpus
+307,mid_range,108,Radeon HD 6770,264.99*,877,2675,"1,241",gpus
+593,mid_range,-1,Quadro 2000 D,NA,878,10,"1,239",gpus
+459,mid_range,-1,Radeon HD 8570D + 6570 Dual,NA,879,2,"1,239",gpus
+524,mid_range,-1,Radeon HD 7660D + 6670 Dual,NA,880,18,"1,238",gpus
+528,mid_range,-1,Radeon HD 7560D + HD 6570 Dual,NA,881,1,"1,237",gpus
+471,mid_range,-1,Radeon R7 + R5 340 Dual,NA,882,1,"1,235",gpus
+576,mid_range,-1,Radeon R7 + R7 250 Dual,NA,883,1,"1,232",gpus
+338,mid_range,74,FirePro 3D V5800,204.00*,884,165,"1,232",gpus
+66,mid_range,202,GeForce GTX 260,79.99*,885,2957,"1,231",gpus
+252,mid_range,50,GeForce GTX 460M,NA,886,806,"1,231",gpus
+384,mid_range,-1,GeForce GTX 760A,NA,887,7,"1,226",gpus
+411,mid_range,47,Radeon HD 7730,232.70*,888,228,"1,225",gpus
+310,mid_range,-1,Radeon Vega 8 Ryzen 5 3450U,NA,889,20,"1,222",gpus
+540,mid_range,-1,Radeon HD 8670D + HD 6670 Dual,NA,890,5,"1,222",gpus
+253,mid_range,75,GeForce GTX 560M,NA,891,973,"1,218",gpus
+102,mid_range,189,Quadro FX 5800,274.00*,892,133,"1,217",gpus
+693,mid_range,-1,Radeon HD 8790M / R9 M290X,NA,893,8,"1,211",gpus
+234,mid_range,45,GeForce GT 650M,NA,894,3365,"1,209",gpus
+407,mid_range,-1,Intel Iris Pro 5200,NA,895,469,"1,207",gpus
+514,mid_range,151,FirePro 3D V8700,170.07*,896,35,"1,206",gpus
+803,mid_range,-1,N16P-GX,NA,897,1,"1,205",gpus
+546,mid_range,-1,Radeon HD 7660D + 7540D Dual,NA,898,1,"1,204",gpus
+198,low_end,-1,GeForce Go 7200,NA,2125,15,45,gpus
+248,low_end,-1,MOBILITY FireGL V5200,NA,2126,35,45,gpus
+222,low_end,-1,GeForce Go 6600 TE/6200 TE,NA,2127,7,45,gpus
+132,low_end,15,Quadro FX 350M,NA,2128,21,45,gpus
+232,low_end,-1,Mobile Intel serie 4 Express,NA,2129,4,45,gpus
+251,low_end,-1,Mobile Intel 4 Express-Chipsatzfamilie,NA,2130,9,45,gpus
+151,low_end,-1,Radeon 9700 TX w/TV-Out,NA,2131,2,44,gpus
+18,low_end,-1,Matrox M9188 ATX PCIe x16,NA,-1,1,44,gpus
+27,low_end,-1,Mobile Intel 45 Express,NA,2132,328,43,gpus
+226,low_end,-1,Mobility Radeon X1400,NA,2133,213,43,gpus
+162,low_end,-1,RADEON 9600 PRO,NA,2134,2,43,gpus
+196,low_end,-1,Radeon Xpress 1250,NA,2135,75,43,gpus
+160,low_end,-1,Matrox M9138 LP PCIe x16,NA,2136,5,42,gpus
+127,low_end,-1,Quadro NVS 285,169.86*,2137,145,42,gpus
+157,low_end,-1,RADEON 9500 PRO / 9700,NA,2138,10,42,gpus
+36,low_end,-1,GeForce 6200,99.99*,2139,452,42,gpus
+88,low_end,-1,GeForce 7050 / nForce 620i,NA,2140,71,42,gpus
+170,low_end,-1,GeForce FX 5900 Ultra,NA,2141,5,41,gpus
+173,low_end,-1,GeForce FX 5700,NA,2142,24,41,gpus
+171,low_end,-1,MOBILITY FIREGL T2,NA,2143,10,41,gpus
+449,low_end,-1,Matrox G200eh,NA,2144,23,41,gpus
+194,low_end,-1,Radeon Xpress 1300M,NA,2145,1,40,gpus
+98,low_end,-1,Matrox M9148 LP PCIe x16,NA,2146,5,40,gpus
+133,low_end,-1,GeForce FX 5900XT,NA,2147,10,40,gpus
+274,low_end,-1,Mobility Radeon X1350,NA,2148,32,40,gpus
+106,low_end,-1,Matrox G200eW,NA,2149,8,40,gpus
+221,low_end,-1,Mobility Radeon X1300,NA,2150,164,40,gpus
+309,low_end,-1,S3 Chrome 430 ULP,NA,2151,2,40,gpus
+165,low_end,-1,MOBILITY RADEON 9600/9700,NA,2152,11,39,gpus
+250,low_end,-1,GeForce 7300 SE,NA,2153,14,39,gpus
+264,low_end,-1,Mobile Intel - famiglia Express Chipset 45,NA,2154,4,39,gpus
+300,low_end,-1,GeForce 6500,NA,2155,26,38,gpus
+312,low_end,-1,Quadro NVS 285 128MB,55.00*,2156,5,38,gpus
+242,low_end,-1,RADEON X300SE,NA,2157,287,38,gpus
+144,low_end,-1,GeForce 7050 / nForce 630i,NA,2158,12,38,gpus
+192,low_end,-1,256MB DDR Radeon 9800 XT,NA,2159,1,38,gpus
+357,low_end,-1,Quadro NVS 440,228.87*,2160,21,38,gpus
+199,low_end,-1,Radeon X1250,NA,2161,108,37,gpus
+146,low_end,-1,GeForce 6200SE TurboCache,NA,2162,34,37,gpus
+400,low_end,-1,Matrox G200eR,NA,2163,5,37,gpus
+191,low_end,-1,CONNECT 3D RADEON X300,NA,2164,1,36,gpus
+173,low_end,-1,RADEON 9500,40.50*,2165,3,36,gpus
+259,low_end,-1,FireMV 2200 PCIe,89.99*,2166,2,36,gpus
+171,low_end,-1,MOBILITY RADEON 9600,NA,2167,1,36,gpus
+177,low_end,-1,Quadro FX 1100,212.99*,2168,7,36,gpus
+191,low_end,-1,Radeon Xpress 1200,NA,2169,10,36,gpus
+66,low_end,-1,GeForce 7100 / nForce 630i,NA,2170,235,35,gpus
+146,low_end,-1,RADEON 9600 XT,NA,2171,4,35,gpus
+310,low_end,-1,GeForce PCX 5750,NA,2172,8,35,gpus
+144,low_end,-1,RADEON 9550,291.74*,2173,180,35,gpus
+187,low_end,-1,GeForce FX 5900,NA,2174,8,35,gpus
+276,low_end,55,Quadro FX 1300,NA,2175,9,34,gpus
+265,low_end,-1,Quadro FX 1000,NA,2176,6,34,gpus
+126,low_end,-1,GeForce FX 5700 Ultra,NA,2177,5,34,gpus
+257,low_end,-1,GeForce PCX 5900,NA,2178,1,34,gpus
+187,low_end,-1,Radeon Xpress 1100,NA,2179,166,34,gpus
+203,low_end,-1,MOBILITY RADEON X300,NA,2180,111,34,gpus
+171,low_end,-1,MOBILITY FIREGL T2/T2e,NA,2181,3,34,gpus
+7,low_end,-1,S3 Chrome S27 DDR3,NA,2182,2,33,gpus
+29,low_end,-1,GeForce 6150 LE,NA,2183,377,33,gpus
+205,low_end,-1,Mobility Radeon X1450,NA,2184,4,33,gpus
+161,low_end,-1,GeForce FX 5700VE,NA,2185,7,33,gpus
+254,low_end,-1,GeForce 7150 / nForce 630i,NA,2186,6,33,gpus
+78,low_end,-1,Intel Media Accelerator,NA,2187,3,33,gpus
+129,low_end,-1,GeForce FX 5900ZT,NA,2188,1,33,gpus
+14,low_end,-1,GeForce 7025 / nForce 630a,NA,2189,892,33,gpus
+169,low_end,-1,Radeon X1200,NA,2190,77,33,gpus
+192,low_end,-1,GeForce 6200 A-LE,NA,2191,11,32,gpus
+37,low_end,-1,Matrox M9128 LP PCIe x16,NA,2192,3,32,gpus
+270,low_end,-1,Red Hat QXL controller,NA,2193,2,32,gpus
+82,low_end,-1,GeForce 7050 PV / nForce 630a,NA,2194,90,31,gpus
+16,low_end,-1,GeForce 6150SE nForce 430,NA,2195,1490,31,gpus
+169,low_end,-1,Radeon X1270,NA,2196,63,31,gpus
+178,low_end,-1,FireGL T2-128,NA,2197,3,31,gpus
+166,low_end,-1,MOBILITY RADEON 9550,NA,2198,1,30,gpus
+282,low_end,-1,All-in-Wonder X1800XL,NA,2199,1,30,gpus
+192,low_end,-1,Radeon Xpress 1150,NA,2200,193,30,gpus
+73,low_end,-1,GeForce 6100 nForce 405,NA,2201,195,30,gpus
+188,low_end,-1,RADEON XPRESS 200,NA,2202,14,30,gpus
+149,low_end,-1,Radeon 9550 / X1050,NA,2203,40,29,gpus
+77,low_end,-1,GeForce 6200 LE,41.24*,2204,133,28,gpus
+157,low_end,-1,MOBILITY RADEON 9700,NA,2205,29,27,gpus
+251,low_end,-1,MOBILITY FireGL V5250,NA,2206,28,27,gpus
+142,low_end,-1,RADEON 9600SE,NA,2207,10,27,gpus
+43,low_end,-1,GeForce 6100,NA,2208,136,27,gpus
+175,low_end,-1,MOBILITY RADEON XPRESS 200,NA,2209,26,27,gpus
+148,low_end,-1,RADEON 9600 PRO Family,NA,2210,30,27,gpus
+191,low_end,-1,Radeon Xpress 1270,NA,2211,2,27,gpus
+228,low_end,-1,GeForce 7100 / nForce 620i,NA,2212,1,26,gpus
+243,low_end,-1,PHDGD Sapphire GR for Mobile Intel 965,NA,2213,3,26,gpus
+27,low_end,-1,Matrox M9120 Plus LP PCIe x16,NA,2214,2,26,gpus
+138,low_end,-1,Matrox M9125 PCIe x16,NA,2215,1,26,gpus
+234,low_end,-1,GeForce 6100 nForce 420,NA,2216,4,25,gpus
+242,low_end,-1,GeForce 6100 nForce 400,NA,2217,12,25,gpus
+101,low_end,-1,GeForce 7050 / nForce 610i,NA,2218,109,25,gpus
+149,low_end,-1,RADEON 9600 Family,NA,2219,19,25,gpus
+137,low_end,-1,MOBILITY RADEON 9600 PRO TURBO,NA,2220,6,25,gpus
+265,low_end,-1,GeForce 6150SE,NA,2221,20,25,gpus
+146,low_end,-1,GeForce FX 5700LE,NA,2222,22,25,gpus
+211,low_end,-1,GeForce Go 6400,NA,2223,4,24,gpus
+203,low_end,-1,Mobile Intel 965 Express-Chipsatzfamilie,NA,2224,4,24,gpus
+264,low_end,-1,Quadro NVS 210S,NA,2225,13,24,gpus
+131,low_end,-1,RADEON 9800 SE,NA,2226,4,24,gpus
+390,low_end,-1,Matrox M9140 LP PCIe x16,NA,2227,6,23,gpus
+138,low_end,-1,ALL-IN-WONDER 9800,NA,2228,1,23,gpus
+98,low_end,-1,GeForce 7200 GS,NA,2229,1,23,gpus
+249,low_end,-1,GeForce 6100 nForce 430,NA,2230,8,23,gpus
+9,low_end,-1,S3 Chrome S25,NA,-1,1,23,gpus
+305,mid_range,-1,Radeon R9 M270X,NA,899,18,"1,204",gpus
+417,mid_range,-1,GeForce GT 745A,NA,900,11,"1,201",gpus
+161,mid_range,-1,GeForce GPU,NA,901,90,"1,198",gpus
+693,mid_range,28,Radeon HD 7750M,NA,902,3,"1,191",gpus
+459,mid_range,-1,Radeon R7 +8G,NA,903,1,"1,191",gpus
+132,mid_range,289,GeForce GTX 295,159.99*,904,454,"1,188",gpus
+290,mid_range,65,GeForce GT 640,109.99*,905,4547,"1,184",gpus
+279,mid_range,-1,FirePro V5800,53.00*,906,13,"1,184",gpus
+450,mid_range,-1,Radeon Ryzen 3 7330U,NA,907,3,"1,182",gpus
+265,mid_range,-1,GeForce 840A,NA,908,35,"1,180",gpus
+327,mid_range,-1,Radeon R7 Opteron X3421,NA,909,16,"1,169",gpus
+465,mid_range,150,FireStream 9250,NA,910,2,"1,165",gpus
+186,mid_range,-1,Firepro W4190M,NA,911,56,"1,164",gpus
+506,mid_range,-1,Radeon Ryzen Embedded V2516,NA,912,2,"1,164",gpus
+158,mid_range,-1,Quadro K620M,NA,913,132,"1,162",gpus
+335,mid_range,86,Radeon HD 5750,69.99*,914,2376,"1,162",gpus
+297,mid_range,-1,NVS 810,624.99*,915,19,"1,161",gpus
+456,mid_range,-1,Barco MXRT 5400,203.00*,916,3,"1,161",gpus
+188,mid_range,30,Quadro M500M,NA,917,80,"1,161",gpus
+332,mid_range,-1,Intel HD P630,NA,918,55,"1,160",gpus
+917,mid_range,-1,Intel Coffee Lake UHD,NA,919,9,"1,158",gpus
+271,mid_range,-1,Radeon R7 A10-7870K,NA,920,440,"1,158",gpus
+278,mid_range,-1,Intel HD P530,NA,921,191,"1,150",gpus
+240,mid_range,-1,Radeon R7 M465,NA,922,10,"1,150",gpus
+348,mid_range,-1,GeForce 940A,NA,923,5,"1,145",gpus
+335,mid_range,-1,Radeon R7 A8-7690K,NA,-1,1,"1,141",gpus
+318,mid_range,-1,GeForce 930A,NA,924,24,"1,140",gpus
+740,mid_range,-1,Radeon HD 8850M / R9 M265X,NA,925,3,"1,140",gpus
+486,mid_range,-1,GeForce 830A,NA,926,24,"1,138",gpus
+346,mid_range,-1,Radeon R7 A10-9700E RADEON,NA,927,8,"1,138",gpus
+541,mid_range,250,Radeon HD 4850 X2,NA,928,39,"1,132",gpus
+500,mid_range,-1,Radeon HD 7560D + 6670 Dual,NA,929,7,"1,131",gpus
+310,mid_range,-1,Radeon R7 + R7 200 Dual,NA,930,127,"1,129",gpus
+398,mid_range,-1,Radeon HD 8650G + 7700M Dual,NA,931,1,"1,126",gpus
+500,mid_range,-1,Radeon HD 7660D + 7500 Dual,NA,932,1,"1,121",gpus
+268,mid_range,-1,FirePro M4170,NA,933,17,"1,119",gpus
+294,mid_range,-1,Radeon R7 A12-9800 RADEON,NA,934,72,"1,118",gpus
+152,mid_range,33,GeForce 940M,NA,935,2660,"1,116",gpus
+569,mid_range,-1,Radeon R9 M275,699.99*,936,18,"1,115",gpus
+226,mid_range,-1,Radeon 625,NA,937,27,"1,114",gpus
+266,mid_range,-1,Intel HD 630,NA,938,6174,"1,114",gpus
+296,mid_range,-1,Intel UHD Graphics 710,NA,939,55,"1,101",gpus
+551,mid_range,-1,Radeon HD 7660D + 6570 Dual,NA,940,2,"1,100",gpus
+764,mid_range,-1,Quadro 2100M,NA,941,1,"1,100",gpus
+212,mid_range,-1,Radeon R7 M460,NA,942,59,"1,100",gpus
+326,mid_range,-1,GeForce GT 545,55.59*,943,346,"1,097",gpus
+402,mid_range,-1,Radeon R7 430,120.29,944,87,"1,096",gpus
+353,mid_range,-1,Radeon R5 PRO A6-9500 2C+6G,NA,945,9,"1,096",gpus
+177,mid_range,45,GeForce GT 745M,NA,946,569,"1,092",gpus
+818,mid_range,-1,GeForce GTX 850M - MODDED,NA,947,1,"1,092",gpus
+290,mid_range,75,Radeon R7 250,189.97*,948,2739,"1,089",gpus
+214,mid_range,50,Mobility Radeon HD 5870,NA,949,794,"1,089",gpus
+148,mid_range,-1,GeForce 920MX,NA,950,911,"1,085",gpus
+249,mid_range,45,Quadro K1100M,322.99*,951,1427,"1,084",gpus
+420,mid_range,-1,MIRRORV3,NA,952,1,"1,081",gpus
+148,mid_range,30,GeForce 840M,NA,953,4433,"1,080",gpus
+477,mid_range,-1,Barco MXRT 5450,199.99*,954,5,"1,079",gpus
+195,mid_range,-1,Radeon 535,NA,955,33,"1,072",gpus
+381,mid_range,-1,Radeon HD 8450G + 8600/8700M Dual,NA,956,1,"1,070",gpus
+493,mid_range,-1,Radeon HD 7660D + 7670 Dual,NA,957,4,"1,062",gpus
+331,mid_range,-1,Radeon HD 7520G + 7700M Dual,NA,958,3,"1,061",gpus
+332,mid_range,-1,Radeon Vega 3 Athlon 3000G,NA,959,27,"1,060",gpus
+622,mid_range,-1,Firepro M4100,NA,960,25,"1,059",gpus
+204,mid_range,-1,Radeon R9 M265X,NA,961,115,"1,057",gpus
+639,mid_range,-1,OPAL XT/GL,NA,962,1,"1,053",gpus
+702,mid_range,-1,Radeon HD 7670A,NA,963,5,"1,050",gpus
+551,mid_range,-1,GeForce GTX 850A,NA,964,6,"1,050",gpus
+283,mid_range,-1,Radeon R7 A12-9730P RADEON,NA,965,12,"1,047",gpus
+411,mid_range,-1,Radeon R7 340,NA,966,14,"1,046",gpus
+373,mid_range,-1,Radeon R7 + R7 240 Dual,NA,967,9,"1,045",gpus
+505,mid_range,-1,Radeon HD 8570D + 6670 Dual,NA,968,1,"1,040",gpus
+244,mid_range,-1,Intel UHD Graphics 620,NA,969,16938,"1,037",gpus
+519,mid_range,-1,Radeon HD 8570D + HD 8570 Dual,NA,970,3,"1,033",gpus
+553,mid_range,-1,Radeon HD 8600/8700M,NA,971,80,"1,030",gpus
+219,mid_range,-1,Radeon R7 M350,NA,972,20,"1,030",gpus
+530,mid_range,-1,Radeon R7 + R5 330 Dual,NA,973,4,"1,028",gpus
+221,mid_range,-1,FirePro W4170M,NA,974,238,"1,025",gpus
+316,mid_range,-1,Radeon Vega 3 Mobile,NA,975,43,"1,025",gpus
+265,mid_range,86,Radeon HD 6750,79.99*,976,718,"1,025",gpus
+231,mid_range,-1,Radeon R9 A375,NA,-1,1,"1,024",gpus
+525,mid_range,-1,Radeon HD 8670D + R7 240 Dual,NA,977,3,"1,020",gpus
+334,mid_range,-1,Radeon Vega 3 Athlon 300GE,NA,-1,1,"1,020",gpus
+255,mid_range,55,Quadro K2000M,144.04*,978,852,"1,018",gpus
+312,mid_range,75,Quadro 3000M,69.99*,979,580,"1,017",gpus
+522,mid_range,-1,Radeon HD 6700M,NA,980,1011,"1,017",gpus
+437,mid_range,-1,Radeon R5 A6-9500E 2C+4G,NA,981,1,"1,015",gpus
+319,mid_range,-1,Radeon RX Vega 6,NA,-1,1,"1,015",gpus
+150,mid_range,-1,GeForce 930M,NA,982,703,"1,013",gpus
+552,mid_range,25,Radeon HD 7690M XT,NA,983,4,"1,009",gpus
+172,mid_range,-1,Radeon R7 M260X,NA,984,41,"1,006",gpus
+137,mid_range,25,GeForce 830M,NA,985,312,"1,006",gpus
+576,mid_range,20,Radeon HD 7690M,NA,986,26,"1,003",gpus
+347,mid_range,-1,Radeon HD 7660G + HD 7500/7600 7500/7600 Dual,NA,987,1,"1,002",gpus
+401,mid_range,-1,Radeon HD 8570D + R7 200 Dual,NA,988,5,999,gpus
+322,mid_range,-1,Radeon HD 7660G + HD 7500M/7600M Dual,NA,989,2,999,gpus
+292,mid_range,-1,Radeon HD 7640G + HD 8750M Dual,NA,990,7,997,gpus
+251,mid_range,-1,Intel HD 530,NA,991,11331,995,gpus
+177,mid_range,-1,Radeon 530,NA,992,340,995,gpus
+467,mid_range,-1,Radeon R7 A265,NA,993,5,994,gpus
+76,mid_range,150,Quadro FX 4800,204.00*,994,473,992,gpus
+433,mid_range,-1,Radeon HD 7560D + 7570 Dual,NA,995,1,985,gpus
+239,mid_range,-1,"Radeon R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G",NA,996,9,985,gpus
+768,mid_range,-1,Radeon HD 8690M,NA,997,9,984,gpus
+360,mid_range,-1,Radeon R5 340,NA,998,16,984,gpus
+420,mid_range,-1,Radeon HD 7560D + 7560D Dual,NA,999,2,983,gpus
+287,mid_range,95,Radeon R7 A10-7850K,NA,1000,710,981,gpus
+270,mid_range,-1,Radeon R5 A10-9630P 4C+6G,NA,1001,13,977,gpus
+308,mid_range,75,FirePro V4900,149.99*,1002,234,977,gpus
+320,mid_range,-1,Quadro 2000D,140.00*,1003,164,975,gpus
+145,low_end,-1,RADEON A9800XT,NA,2231,1,23,gpus
+176,low_end,-1,RADEON XPRESS 200M,NA,2232,25,23,gpus
+250,low_end,-1,GeForce 6150,329.00*,2233,72,22,gpus
+272,low_end,-1,Quadro NVS 210S / GeForce 6150LE,NA,2234,9,21,gpus
+183,low_end,-1,PHDGD Solo 2 x64,NA,2235,2,20,gpus
+869,low_end,-1,Matrox M9120 PCIe x16,NA,2236,1,20,gpus
+92,low_end,-1,GeForce Go 6150,NA,2237,122,19,gpus
+202,low_end,-1,QXL KMDOD,NA,2238,1,19,gpus
+251,low_end,-1,S3 Chrome S25 DDR2,NA,2239,2,18,gpus
+138,low_end,-1,RADEON 9600 TX Family,NA,2240,2,18,gpus
+193,low_end,-1,GeForce 7150M / nForce 630M,NA,2241,149,18,gpus
+164,low_end,-1,RADEON XPRESS 200 CROSSFIRE,NA,2242,1,18,gpus
+145,low_end,-1,Quadro FX 2000,NA,2243,1,18,gpus
+181,low_end,-1,GeForce Go 6100,NA,2244,88,18,gpus
+186,low_end,-1,GeForce FX Go 5600,NA,2245,11,18,gpus
+263,low_end,-1,Mobile Intel965 Express,NA,2246,1,18,gpus
+121,low_end,-1,GeForce FX 5600 Ultra,NA,2247,2,17,gpus
+210,low_end,-1,GeForce FX Go5650,NA,2248,2,17,gpus
+148,low_end,-1,GRID V100-8Q,NA,2249,1,16,gpus
+250,low_end,-1,NV44,NA,2250,1,15,gpus
+204,low_end,-1,GeForce Go 6200,NA,2251,18,15,gpus
+203,low_end,-1,Quadro FX 500/600 PCI,NA,2252,6,14,gpus
+85,low_end,-1,Radeon HD 2400 PCI,NA,2253,3,14,gpus
+238,low_end,-1,GeForce 7000M,NA,2254,2,13,gpus
+187,low_end,-1,GeForce 7000M / nForce 610M,NA,2255,119,13,gpus
+167,low_end,-1,GeForce FX 5600,NA,2256,35,13,gpus
+159,low_end,-1,GeForce FX Go5300,NA,2257,2,13,gpus
+11,low_end,-1,Intel 82945G Express,NA,2258,1823,12,gpus
+138,low_end,-1,GeForce FX 5200 Ultra,NA,2259,2,12,gpus
+193,low_end,-1,GeForce FX 5200SE,NA,2260,2,12,gpus
+282,low_end,-1,FireMV 2400 PCIe,NA,2261,4,11,gpus
+312,low_end,-1,RGH Drivers v3,NA,2262,2,11,gpus
+168,low_end,-1,PHDGD Solo 1.2.0 x86,NA,2263,2,11,gpus
+78,low_end,-1,Master X3100 Driver,NA,2264,1,10,gpus
+125,low_end,-1,MOBILITY IGP 9000/9100,NA,2265,1,10,gpus
+140,low_end,-1,Matrox Parhelia 256MB,NA,2266,1,9,gpus
+39,low_end,-1,VIA Chrome9 HD IGP,NA,2267,22,9,gpus
+163,low_end,-1,ASUS A7000,NA,2268,1,9,gpus
+165,low_end,-1,GeForce FX 5600XT,NA,2269,10,9,gpus
+143,low_end,-1,GeCube RADEON 7000,NA,2270,1,9,gpus
+189,low_end,-1,GeForce FX Go 5200,NA,2271,29,8,gpus
+303,low_end,-1,Intel Q35 Embedded,NA,2272,1,8,gpus
+152,low_end,-1,GeForce FX 5500,153.97*,2273,178,8,gpus
+124,low_end,-1,Mobile Intel 965 Express - BR-0907-0461 v1839,NA,2274,1,8,gpus
+260,low_end,-1,Quadro NVS 280 PCI,130.00*,2275,1,8,gpus
+239,low_end,-1,Intel 82945G Express-Chipsatzfamilie,NA,2276,1,8,gpus
+143,low_end,-1,MOBILITY RADEON 9000 IGP,NA,2277,18,8,gpus
+247,low_end,-1,GeForce FX 5100,NA,2278,1,8,gpus
+207,low_end,-1,ASUS V9520-X V62.11,NA,2279,1,8,gpus
+150,low_end,-1,Quadro FX 500/FX 600,NA,2280,7,8,gpus
+154,low_end,-1,GeForce FX 5200,129.00*,2281,414,8,gpus
+66,low_end,-1,Intel US15 Embedded Media and Controller,NA,2282,2,7,gpus
+170,low_end,-1,GeForce4 Ti 4400,NA,2283,3,7,gpus
+170,low_end,-1,GeForce FX 5200LE,42.99*,2284,3,7,gpus
+58,low_end,-1,Intel Media Accelerator 600,NA,2285,2,7,gpus
+186,low_end,-1,GeForce4 Ti 4800 SE,NA,2286,5,7,gpus
+251,low_end,-1,Matrox Millennium P690 Plus LP PCIe x16,NA,2287,2,7,gpus
+225,low_end,-1,Quadro4 380 XGL,NA,2288,6,7,gpus
+145,low_end,-1,RADEON 8500 Family,NA,2289,1,7,gpus
+198,low_end,-1,GeForce4 MX Integrated GPU,NA,2290,13,7,gpus
+86,low_end,-1,V9560XT,NA,2291,1,6,gpus
+147,low_end,-1,GeForce2 Ultra,NA,2292,1,6,gpus
+151,low_end,-1,MOBILITY RADEON 7000 IGP,NA,2293,4,6,gpus
+197,low_end,-1,GeForce PCX 5300,NA,2294,3,6,gpus
+162,low_end,-1,RADEON 9100 Family,NA,2295,3,6,gpus
+116,low_end,-1,Quadro NVS 55/280 PCI,NA,2296,2,6,gpus
+136,low_end,-1,RADEON IGP 350M,NA,2297,2,6,gpus
+155,low_end,-1,GeForce4 440 Go 64M,NA,2298,6,6,gpus
+225,low_end,-1,VIA/S3G UniChromeII,NA,2299,2,6,gpus
+190,low_end,-1,GeForce4 Ti 4800,NA,2300,1,6,gpus
+223,low_end,-1,Mobile Intel 945GM Express,NA,2301,400,6,gpus
+184,low_end,-1,Quadro 280 NVS PCIe,NA,2302,3,6,gpus
+218,low_end,-1,NVIDIA GeForce3 Ti200,NA,2303,1,6,gpus
+206,low_end,-1,Intel 82915G Express,NA,2304,16,6,gpus
+118,low_end,-1,MOBILITY RADEON 9000/9100 IGP,NA,2305,6,6,gpus
+22,low_end,-1,Intel Q33 Express,NA,2306,172,6,gpus
+274,low_end,-1,Matrox Parhelia APVe,NA,2307,3,6,gpus
+128,low_end,-1,ALL-IN-WONDER RADEON 8500DV,NA,2308,4,6,gpus
+153,low_end,-1,GeForce4 Ti 4200,NA,2309,55,6,gpus
+199,low_end,-1,GeForce4 448 Go,NA,2310,2,6,gpus
+172,low_end,-1,GeForce4 Ti 4600,53.99*,2311,10,6,gpus
+127,low_end,-1,RADEON 9100 IGP,NA,2312,3,5,gpus
+168,low_end,-1,GeForce4 420 Go 32M,NA,2313,13,5,gpus
+286,low_end,-1,Matrox Millennium P650 PCIe 128,NA,2314,3,5,gpus
+223,low_end,-1,Mobile Intel 945GM/GU Express,NA,2315,10,5,gpus
+157,low_end,-1,SAPPHIRE RADEON 9000 ATLANTIS PRO,NA,2316,1,5,gpus
+28,low_end,-1,Xabre,NA,2317,2,5,gpus
+200,low_end,-1,GeForce 256,42.04*,2318,2,5,gpus
+180,low_end,-1,Quadro4 980 XGL,341.43*,2319,2,5,gpus
+192,low_end,-1,GeForce4 440,NA,2320,1,5,gpus
+194,low_end,-1,Quadro4 900 XGL,NA,2321,1,5,gpus
+102,low_end,-1,ALL-IN-WONDER 9000,NA,2322,4,5,gpus
+120,low_end,-1,GeForce3,NA,2323,4,5,gpus
+156,low_end,-1,GeForce4 MX 440 with AGP8X,NA,2324,128,5,gpus
+197,low_end,-1,WinFast A250 LE,NA,2325,1,5,gpus
+186,low_end,-1,GeForce2 MX with DVI-D and TV-out,NA,2326,1,5,gpus
+168,low_end,-1,GeForce4 MX 420,NA,2327,41,5,gpus
+86,low_end,-1,MOBILITY FIREGL 7800,NA,2328,1,5,gpus
+124,low_end,-1,RADEON 7500 Family,NA,2329,3,5,gpus
+164,low_end,-1,VIA/S3G UniChrome Pro IGP,NA,2330,213,5,gpus
+194,low_end,-1,Intel 82865G Controller,NA,2331,396,5,gpus
+41,low_end,-1,Intel 915G/915GV/910GL Embedded Controller Functio,NA,2332,1,5,gpus
+125,low_end,-1,RADEON 9000,NA,2333,1,5,gpus
+148,low_end,-1,GeForce2 Ti,NA,2334,5,5,gpus
+34,low_end,-1,XGI Volari Family v1.13.23.D_V,NA,2335,1,5,gpus
+158,low_end,-1,GeForce4 MX 440SE,NA,2336,4,5,gpus
+139,low_end,-1,GeForce4 MX 440,NA,2337,54,5,gpus
+142,low_end,-1,Quadro2 MXR/EX,NA,2338,1,5,gpus
+251,low_end,-1,Intel 945G Embedded Chipset Function 0,NA,2339,1,5,gpus
+419,mid_range,-1,Radeon HD 8670D + 8570 Dual,NA,1004,1,974,gpus
+502,mid_range,-1,Radeon HD 8850M,NA,1005,14,973,gpus
+336,mid_range,-1,Radeon R6 A10-9600P 4C+6G,NA,1006,1,970,gpus
+247,mid_range,-1,Radeon R7 PRO A12-8870E,NA,1007,23,967,gpus
+350,mid_range,-1,Radeon HD 7660G N HD 7660G + HD 7700M N HD 7700M D,NA,1008,2,967,gpus
+572,mid_range,-1,Radeon HD 6770M,NA,1009,10,964,gpus
+226,mid_range,-1,Radeon R7 PRO A10-9700E,529.00*,1010,37,964,gpus
+489,mid_range,-1,Radeon HD 8570D + R7 240 Dual,NA,1011,5,964,gpus
+288,mid_range,66,Radeon HD 8570,98.68*,1012,345,963,gpus
+92,mid_range,-1,Qualcomm Adreno 690 GPU,NA,1013,12,963,gpus
+283,mid_range,-1,Radeon R7 PRO A8-9600,NA,1014,17,963,gpus
+233,mid_range,-1,Radeon R7 M270DX,NA,-1,1,962,gpus
+202,mid_range,-1,TENSOR 1.0 Driver Intel HD 530,NA,-1,1,958,gpus
+398,mid_range,-1,Radeon R6 Opteron X3418,NA,1015,3,955,gpus
+178,mid_range,-1,Radeon R7 M445,744.00*,1016,82,955,gpus
+313,mid_range,-1,Radeon R5 430,59.00*,1017,145,951,gpus
+505,mid_range,-1,Radeon HD 8670D + R7 200 Dual,NA,1018,10,950,gpus
+467,mid_range,-1,Radeon HD 8570 + HD 7660D Dual,NA,1019,1,949,gpus
+209,mid_range,-1,Radeon HD 8750M,NA,1020,392,949,gpus
+454,mid_range,-1,Quadro CX,149.95*,1021,3,947,gpus
+320,mid_range,-1,Radeon HD 6670/7670,NA,1022,1,946,gpus
+325,mid_range,-1,Radeon HD 7640G + 7690M Dual,NA,1023,1,946,gpus
+552,mid_range,-1,Radeon R7 PRO A10-8850B,NA,1024,23,945,gpus
+208,mid_range,-1,zxcvIntel HD 620,NA,-1,1,944,gpus
+299,mid_range,62,Quadro 2000,213.23*,1025,2126,944,gpus
+452,mid_range,-1,Radeon HD 7660D + R7 240 Dual,NA,1026,2,942,gpus
+257,mid_range,-1,Radeon R7 A12-9800E RADEON,139.19*,1027,17,941,gpus
+486,mid_range,-1,Radeon HD 6750M,NA,1028,12,937,gpus
+93,mid_range,110,Radeon HD 4850,378.00*,1029,2780,937,gpus
+243,mid_range,-1,Radeon R7 PRO A12-9800E,NA,1030,26,937,gpus
+424,mid_range,-1,Radeon HD 7560D + HD 8570 Dual,NA,1031,1,936,gpus
+270,mid_range,-1,Radeon R7 PRO A12-9800,NA,1032,18,933,gpus
+163,mid_range,-1,Radeon R9 M375,NA,1033,72,932,gpus
+391,mid_range,-1,Radeon HD 7660G + 7730M Dual,NA,1034,2,931,gpus
+470,mid_range,-1,Radeon R7 240 + HD 8670D Dual,NA,1035,4,930,gpus
+178,mid_range,-1,FirePro M4150,NA,1036,42,929,gpus
+228,mid_range,-1,Radeon R7 A10-9700 RADEON,NA,1037,156,929,gpus
+219,mid_range,-1,Intel HD Graphics 620,NA,1038,11844,927,gpus
+547,mid_range,-1,Intel Iris Pro 6100,NA,1039,1,925,gpus
+432,mid_range,-1,Radeon Vega 3 Athlon Gold PRO 3150GE,NA,-1,1,920,gpus
+162,mid_range,32,GeForce GT 645M,NA,1040,234,919,gpus
+352,mid_range,-1,Radeon R7 240 + HD 8570D Dual,NA,1041,3,918,gpus
+362,mid_range,-1,Radeon R7 A10 PRO-7850B,NA,1042,13,915,gpus
+613,mid_range,-1,GRID M10-0Q,NA,1043,1,914,gpus
+498,mid_range,-1,Radeon R7 A8-8650,NA,1044,52,913,gpus
+538,mid_range,-1,GRID K220Q,NA,1045,16,912,gpus
+764,mid_range,-1,GRID M6-0B,NA,1046,1,912,gpus
+569,mid_range,-1,Radeon 6750M,NA,1047,1,911,gpus
+317,mid_range,-1,Intel Iris 6100,NA,1048,546,911,gpus
+186,mid_range,32,GeForce GT 640M,NA,1049,950,910,gpus
+316,mid_range,-1,Radeon R7 A8-7500,NA,1050,5,908,gpus
+221,mid_range,-1,Radeon R7 A10-7860K,NA,1051,271,907,gpus
+32,mid_range,-1,GRID P40-6Q,NA,-1,1,905,gpus
+248,mid_range,-1,Intel UHD Graphics 617,NA,1052,12,902,gpus
+206,mid_range,-1,"Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G",NA,1053,17,901,gpus
+394,mid_range,-1,Radeon HD 8550G + 7600M Dual,NA,1054,1,901,gpus
+682,mid_range,-1,Barco MXRT 7400,99.00*,1055,1,901,gpus
+649,mid_range,-1,Barco MXRT 2600,199.00*,1056,1,900,gpus
+496,mid_range,-1,Radeon R7 + R5 Dual,NA,1057,1,898,gpus
+204,mid_range,-1,Radeon 620,NA,1058,12,897,gpus
+536,mid_range,-1,7900 MOD - Radeon HD 6550D,NA,1059,1,893,gpus
+287,mid_range,-1,Radeon Ryzen 5 3450U,NA,1060,5,893,gpus
+262,mid_range,-1,Qualcomm Adreno 685 GPU,NA,1061,3,893,gpus
+230,mid_range,-1,Radeon R7 A10-8750,NA,1062,50,892,gpus
+322,mid_range,26,FirePro W2100,59.00*,1063,184,892,gpus
+307,mid_range,-1,Radeon Vega 3,"2,677.99*",1064,2442,888,gpus
+141,mid_range,80,Radeon HD 4770,59.99*,1065,407,888,gpus
+173,mid_range,-1,Radeon R7 M440,NA,1066,208,886,gpus
+267,mid_range,30,Radeon R7 240,109.99*,1067,3371,886,gpus
+479,mid_range,-1,Radeon R7 + R5 435 Dual A10-9700 RADEON,NA,1068,5,886,gpus
+231,mid_range,-1,Radeon R7 PRO A10-8770,NA,1069,20,886,gpus
+378,mid_range,-1,Radeon HD 8650G + 7670M Dual,NA,1070,6,884,gpus
+328,mid_range,-1,Radeon HD 7660G + HD 7730M Dual,NA,1071,3,882,gpus
+485,mid_range,-1,Radeon E6760,239.99*,1072,13,877,gpus
+211,mid_range,-1,Intel HD 520,NA,1073,14606,871,gpus
+532,mid_range,-1,Radeon R7 G,NA,1074,1,870,gpus
+506,mid_range,-1,Radeon HD 8570D + HD 6570 Dual,NA,1075,2,868,gpus
+472,mid_range,-1,Mobility Radeon HD 4850,NA,1076,83,866,gpus
+589,mid_range,-1,Radeon HD 8470D + HD 6450 Dual,NA,1077,1,863,gpus
+277,mid_range,-1,Intel HD 6000,NA,1078,411,858,gpus
+251,mid_range,-1,Radeon R7 PRO A12-8870,NA,1079,20,857,gpus
+211,mid_range,-1,Radeon 520,89.99*,1080,212,857,gpus
+173,mid_range,-1,GeForce 920A,NA,1081,17,856,gpus
+350,mid_range,-1,Radeon HD 8550G + HD 7600M Dual,NA,1082,2,855,gpus
+323,mid_range,69,FirePro 3D V4800,159.99*,1083,438,854,gpus
+248,mid_range,-1,Radeon R5 A6-9500 2C+6G,NA,1084,24,853,gpus
+389,mid_range,-1,Radeon R7 A8-7500 4C+6G,NA,1085,3,853,gpus
+502,mid_range,-1,Radeon HD 8500M/8700M,NA,1086,24,853,gpus
+276,mid_range,-1,Radeon Vega 3 Ryzen 3 3200U,NA,1087,43,850,gpus
+296,mid_range,-1,Radeon R7 A8-7670K,NA,1088,68,849,gpus
+292,mid_range,-1,Radeon R5 PRO A6-8570 2C+6G,NA,1089,5,847,gpus
+68,mid_range,95,Radeon HD 4830,59.99*,1090,388,845,gpus
+250,mid_range,-1,Radeon Vega 3 Athlon 300U,NA,1091,8,845,gpus
+227,mid_range,-1,Radeon Vega 3 Athlon Silver 3050U,NA,1092,4,845,gpus
+202,mid_range,35,GeForce GT 445M,NA,1093,79,843,gpus
+234,mid_range,-1,Radeon R5 435,NA,1094,2,841,gpus
+250,mid_range,-1,Radeon Ryzen 3 3250U,NA,1095,31,839,gpus
+405,mid_range,-1,FireGL V8600,NA,1096,1,839,gpus
+314,mid_range,66,Radeon HD 7670,NA,1097,122,839,gpus
+198,mid_range,-1,Radeon R7 A8-9600 RADEON,NA,1098,166,838,gpus
+454,mid_range,-1,Radeon HD 8470D + 6570 Dual,NA,1099,1,838,gpus
+517,mid_range,-1,Radeon HD 8670D + R5 235 Dual,NA,1100,5,837,gpus
+231,mid_range,-1,GeForce GT 635,66.94*,1101,389,836,gpus
+418,mid_range,-1,Radeon HD 6650A,NA,1102,1,836,gpus
+475,mid_range,-1,Radeon HD 7560D + 6570 Dual,NA,1103,6,833,gpus
+179,mid_range,-1,"Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G",NA,1104,7,833,gpus
+354,mid_range,-1,Radeon HD 7520G + HD 7500/7600 Dual,NA,1105,1,832,gpus
+250,mid_range,-1,Radeon Vega 3 Ryzen 3 3250U,NA,1106,18,832,gpus
+374,mid_range,-1,Radeon HD 8650G + 8600/8700M Dual,NA,1107,26,832,gpus
+131,low_end,-1,GeForce4 MX 4000,NA,2340,70,5,gpus
+148,low_end,-1,ASUS AGP-V3800PRO v31.40H,NA,2341,1,5,gpus
+170,low_end,-1,GeForce2 Integrated GPU,NA,2342,3,4,gpus
+204,low_end,-1,Dell 8200,NA,2343,1,4,gpus
+167,low_end,-1,VIA Chrome9 HC IGP,NA,2344,57,4,gpus
+163,low_end,-1,VIA/S3G UniChrome IGP,NA,2345,33,4,gpus
+176,low_end,-1,GeForce4 MX 460,NA,2346,3,4,gpus
+95,low_end,-1,GeForce2 Go,NA,2347,1,4,gpus
+153,low_end,-1,MOBILITY/RADEON 9000,NA,2348,2,4,gpus
+140,low_end,-1,GeForce3 Ti 200,NA,2349,20,4,gpus
+124,low_end,-1,VIA/S3G KM400/KN400,NA,2350,4,4,gpus
+165,low_end,-1,"Intel 915G,910G Express",NA,2351,1,4,gpus
+135,low_end,-1,GeForce2 GTS/GeForce2 Pro,NA,2352,11,4,gpus
+173,low_end,-1,GeForce4 4200 Go,NA,2353,8,4,gpus
+129,low_end,-1,GeForce2 MX/MX 400,NA,2354,99,4,gpus
+151,low_end,-1,ABIT Siluro T400,NA,2355,2,4,gpus
+177,low_end,-1,VIA Chrome9 HC IGP Family,NA,2356,64,4,gpus
+107,low_end,-1,RADEON 7000 / RADEON VE Family,NA,2357,13,4,gpus
+107,low_end,-1,RIVA TNT2 Model 64/Model 64 Pro,NA,2358,24,4,gpus
+44,low_end,-1,RADEON IGP 320,NA,2359,1,4,gpus
+139,low_end,-1,GeForce4 440 Go,NA,2360,3,4,gpus
+94,low_end,-1,Intel 82915G/915GV/910GL,NA,2361,1,4,gpus
+20,low_end,-1,Intel 865 Embedded Controller,NA,2362,2,4,gpus
+116,low_end,-1,GeForce 6200A,54.99*,2363,1,4,gpus
+135,low_end,-1,RADEON 9200,153.63*,2364,10,4,gpus
+103,low_end,-1,MOBILITY RADEON 7500,NA,2365,6,4,gpus
+101,low_end,-1,Radeon IGP 320M,NA,2366,11,4,gpus
+123,low_end,-1,RADEON 9000 Family,NA,2367,9,4,gpus
+165,low_end,-1,VIA Chrome9 HC IGP Family WDDM,NA,2368,35,4,gpus
+70,low_end,-1,Intel Media Accelerator 500,NA,2369,17,3,gpus
+70,low_end,-1,RIVA TNT2/TNT2 Pro,NA,2370,2,3,gpus
+107,low_end,-1,Matrox Parhelia 128MB,393.99*,2371,1,3,gpus
+75,low_end,-1,VIA Chrome9 HC IGP WDDM 1.1,NA,2372,39,3,gpus
+146,low_end,-1,GeForce4 420 Go,NA,2373,8,3,gpus
+124,low_end,-1,VIA/S3G DeltaChrome IGP,NA,2374,7,3,gpus
+110,low_end,-1,MOBILITY RADEON 9000,NA,2375,12,3,gpus
+119,low_end,-1,GeForce2 MX 100/200,NA,2376,18,3,gpus
+66,low_end,-1,Intel 946GZ Embedded Chipset,NA,2377,4,3,gpus
+34,low_end,-1,RADEON 7500,177.25*,2378,2,3,gpus
+20,low_end,-1,S3 Inc. Savage4,NA,2379,1,3,gpus
+109,low_end,-1,AMIGAMERLIN 3.1-R1 For Voodoo 4 4500 PCI,NA,2380,1,3,gpus
+52,low_end,-1,Rage Fury Pro/Xpert 2000 Pro,NA,2381,2,3,gpus
+141,low_end,-1,Intel 82915G/GV/910GL Express,NA,2382,8,3,gpus
+91,low_end,-1,Vanta/Vanta LT,NA,2383,7,3,gpus
+144,low_end,-1,MOBILITY RADEON 9200,NA,2384,16,3,gpus
+38,low_end,-1,Intel 946GZ Express,NA,2385,163,3,gpus
+128,low_end,-1,MOBILITY RADEON 9100 IGP,NA,2386,2,3,gpus
+85,low_end,-1,Intel Media Accelerator 3150,NA,2387,456,3,gpus
+158,low_end,-1,Intel 82845G/GL/GE/PE/GV Controller,NA,2388,169,3,gpus
+94,low_end,-1,RADEON 7200,599.99*,2389,1,3,gpus
+134,low_end,-1,RADEON 9200 PRO Family,NA,2390,41,3,gpus
+143,low_end,-1,VIA Chrome9 HC IGP WDDM,NA,2391,10,3,gpus
+143,low_end,-1,GeForce2 MX,NA,2392,3,3,gpus
+82,low_end,-1,RADEON IGP 345M,NA,2393,21,3,gpus
+98,low_end,-1,Radeon 7000 / Radeon VE,NA,2394,1,3,gpus
+156,low_end,-1,VIA Chrome9 HC3 IGP,NA,2395,1,3,gpus
+93,low_end,-1,Intel 82915G/GV/910GL Advanced v3.5,NA,2396,1,3,gpus
+176,low_end,-1,Intel 82845G/GL Controller,NA,2397,2,3,gpus
+127,low_end,-1,RADEON 9200 LE Family,NA,2398,13,3,gpus
+127,low_end,-1,RADEON 9250,194.00*,2399,123,3,gpus
+98,low_end,-1,GeForce2 MX with TV Out,NA,2400,1,3,gpus
+128,low_end,-1,RADEON 9200 SE,NA,2401,78,3,gpus
+115,low_end,-1,GeForce3 Ti 500,NA,2402,2,3,gpus
+66,low_end,-1,Intel GMA 3150 Express,NA,2403,1,3,gpus
+102,low_end,-1,Radeon IGP 340M,NA,2404,4,3,gpus
+118,low_end,-1,Quadro NVS 280 SD,NA,2405,2,2,gpus
+58,low_end,-1,Dell 8100,999.11*,2406,1,2,gpus
+99,low_end,-1,VIA Chrome9 HC IGP Prerelease WDDM 1.1,NA,2407,3,2,gpus
+131,low_end,-1,Intel 82845G Controller,NA,2408,4,2,gpus
+36,low_end,-1,Radeon VE,NA,2409,1,2,gpus
+135,low_end,-1,Intel Extreme Controller,NA,2410,1,2,gpus
+146,low_end,-1,S3 SuperSavage/IXC 1014,NA,2411,1,2,gpus
+117,low_end,-1,VisionTek Radeon 7000,NA,2412,1,2,gpus
+36,low_end,-1,Mobile Intel 915GM/GMS/910GML Express,NA,2413,480,2,gpus
+8,low_end,-1,Mobile Intel 945 Express,NA,2414,1642,2,gpus
+94,low_end,-1,VIA Chrome9 HCM IGP,NA,2415,2,2,gpus
+88,low_end,-1,RADEON IGP 34xM,NA,2416,1,2,gpus
+41,low_end,-1,S3 ProSavageDDR,NA,2417,9,1,gpus
+40,low_end,-1,Rage 128 Pro,NA,2418,1,1,gpus
+1,low_end,-1,VIA Chrome9 HC3 IGP WDDM 1.1,NA,-1,1,1,gpus
+107,low_end,-1,Intel 82852/82855 GM/GME Controller,NA,2419,1,1,gpus
+142,low_end,-1,RAGE 128 PRO AGP 4X TMDS,NA,2420,2,1,gpus
+143,low_end,-1,Quadro2 Pro,NA,2421,3,1,gpus
+152,low_end,-1,FireMV 2200 PCI,NA,2422,1,1,gpus
+340,mid_range,-1,Radeon HD 7660G + 7600M Dual,NA,1108,55,832,gpus
+653,mid_range,-1,Intel HD 5200,NA,1109,4,830,gpus
+516,mid_range,-1,GRID M60-0Q,NA,1110,1,827,gpus
+243,mid_range,49,GeForce GT 730,109.99*,1111,8441,826,gpus
+189,mid_range,-1,"Radeon R5 A10-9630P RADEON R5, 10 COMPUTE CORES 4C",NA,1112,2,825,gpus
+261,mid_range,-1,Radeon HD 7640G N HD 7640G + HD 7600M N HD 7600M D,NA,1113,8,824,gpus
+422,mid_range,349,Radeon HD 3850 X2,NA,1114,9,822,gpus
+471,mid_range,-1,Radeon HD 7540D + 7500 Dual,NA,1115,1,822,gpus
+188,mid_range,-1,Radeon R7 A8-7680,NA,1116,32,821,gpus
+171,mid_range,33,GeForce GT 730M,NA,1117,958,820,gpus
+346,mid_range,-1,Radeon HD 8650G + HD 7600M Dual,NA,1118,4,820,gpus
+335,mid_range,-1,Radeon HD 8550G + HD 8750M Dual,NA,1119,21,819,gpus
+195,mid_range,-1,Radeon R7 M260DX,NA,1120,11,817,gpus
+189,mid_range,-1,Radeon R7 FX-8800P,NA,1121,123,816,gpus
+285,mid_range,-1,Radeon R7 A10 Extreme Edition,NA,1122,14,816,gpus
+247,mid_range,75,Radeon R9 M280X,NA,1123,5,814,gpus
+487,mid_range,-1,Radeon HD 8670D + 7000 Dual,NA,1124,1,812,gpus
+229,mid_range,-1,Radeon HD 6800M,NA,1125,201,808,gpus
+195,mid_range,-1,Radeon R7 PRO A10-9700,NA,1126,24,808,gpus
+208,mid_range,-1,Radeon R7 PRO A10-8770E,NA,1127,55,805,gpus
+336,mid_range,-1,Radeon HD 8550G + 8600/8700M Dual,NA,1128,17,803,gpus
+181,mid_range,-1,Radeon R5 M435,NA,1129,28,802,gpus
+63,mid_range,108,Quadro FX 3800,259.13*,1130,739,801,gpus
+214,mid_range,-1,"Radeon R5 PRO A6-8570E R5, 6 COMPUTE CORES 2C+4G",NA,1131,4,800,gpus
+404,mid_range,-1,Radeon HD 8650G + HD 8790M Dual,NA,1132,1,800,gpus
+184,mid_range,-1,Radeon 535DX,NA,1133,29,799,gpus
+518,mid_range,197,GeForce 9800 GX2,195.00*,1134,49,798,gpus
+322,mid_range,-1,Radeon HD 8650G N HD 8650G + HD 8600/8700M Dual,NA,1135,1,796,gpus
+321,mid_range,-1,Radeon HD 8550G + 8750M Dual,NA,1136,29,796,gpus
+178,mid_range,-1,Radeon R8 M445DX,NA,1137,29,796,gpus
+255,mid_range,-1,Radeon R7 A10 PRO-7800B,NA,1138,28,795,gpus
+282,mid_range,64,Radeon HD 5670,67.00*,1139,3224,793,gpus
+250,mid_range,45,Quadro K1000M,69.95*,1140,966,791,gpus
+144,mid_range,-1,GeForce GT 740M,NA,1141,4214,789,gpus
+235,mid_range,-1,Radeon R7 A10-7700K,NA,1142,288,788,gpus
+19,mid_range,-1,A40-6Q,NA,-1,1,787,gpus
+380,mid_range,-1,Radeon HD 8650G + 8750M Dual,NA,1143,55,787,gpus
+261,mid_range,33,GeForce 825M,NA,1144,37,784,gpus
+222,mid_range,55,Quadro 2000M,229.74*,1145,608,782,gpus
+438,mid_range,-1,Radeon R7 PRO A6-9500 2C+6G,NA,1146,6,781,gpus
+762,mid_range,-1,Radeon R7 A365,NA,1147,1,781,gpus
+233,mid_range,65,GeForce GT 440,225.00*,1148,1772,779,gpus
+344,mid_range,-1,Radeon HD 8650G + HD 8750M Dual,NA,1149,59,779,gpus
+215,mid_range,-1,Radeon R7 A10-7890K,NA,1150,145,777,gpus
+168,mid_range,-1,Radeon HD 7660G + HD 7700M Dual,NA,1151,12,777,gpus
+316,mid_range,-1,Radeon HD 7640G + 7500M/7600M Dual,NA,1152,1,776,gpus
+209,mid_range,-1,Radeon R7 A8-7600,NA,1153,949,775,gpus
+316,mid_range,-1,Radeon HD 7600M + 7600M Dual,NA,1154,9,773,gpus
+367,mid_range,-1,Radeon HD 8650G N HD 8650G + HD 8570M Dual,NA,1155,4,773,gpus
+429,mid_range,-1,Mobility Radeon HD 5000,NA,1156,17,773,gpus
+277,mid_range,-1,Radeon R7 A10-8850,NA,1157,5,773,gpus
+204,mid_range,-1,GeForce 730A,NA,1158,44,772,gpus
+287,mid_range,-1,Radeon R5 PRO A6-9500E 2C+4G,NA,1159,8,771,gpus
+425,mid_range,95,Radeon HD 4810,NA,1160,38,769,gpus
+366,mid_range,140,GeForce 9800 GTX,74.99*,1161,3,769,gpus
+176,mid_range,-1,Radeon R7 M365X,NA,1162,20,768,gpus
+278,mid_range,41,Quadro K420,269.00*,1163,286,766,gpus
+355,mid_range,-1,Radeon HD 8650G + HD 8600/8700M Dual,NA,1164,32,764,gpus
+403,mid_range,31,Mobility Radeon HD 5850,NA,1165,101,763,gpus
+485,mid_range,-1,Radeon HD 6450 + 8470D Dual,NA,1166,1,763,gpus
+190,mid_range,-1,Intel UHD Graphics 615,NA,1167,299,762,gpus
+368,mid_range,-1,Radeon HD 7660G + HD 7500/7600 Dual,NA,1168,1,760,gpus
+267,mid_range,-1,Radeon Vega 3 Ryzen Embedded R1505G,NA,1169,4,760,gpus
+354,mid_range,-1,Radeon HD 7660G + HD 8500M Dual,NA,1170,1,758,gpus
+412,mid_range,-1,Radeon HD 8650G + HD 8600M N HD 8600M Dual,NA,1171,1,758,gpus
+310,mid_range,-1,Radeon HD 7660G + 7700M Dual,NA,1172,5,757,gpus
+223,mid_range,-1,Radeon HD 6650M,NA,1173,107,756,gpus
+733,mid_range,-1,Quadro 1100M,NA,1174,2,755,gpus
+268,mid_range,41,Quadro K600,60.24*,1175,951,755,gpus
+353,mid_range,-1,Radeon HD 7640G + 7450M Dual,NA,1176,1,754,gpus
+464,mid_range,-1,Radeon HD 8570D + HD 7000 Dual,NA,1177,2,753,gpus
+151,mid_range,-1,Radeon R7 M270,NA,1178,33,750,gpus
+734,mid_range,-1,IncrediblE HD 4600,NA,1179,1,750,gpus
+274,mid_range,-1,Intel Iris 5100,NA,1180,410,750,gpus
+288,mid_range,-1,Radeon M535DX,NA,1181,1,750,gpus
+187,mid_range,-1,Radeon HD 7640G + 7650M Dual,NA,1182,1,747,gpus
+364,mid_range,-1,Radeon HD 7660G + HD 8600/8700M Dual,NA,1183,1,747,gpus
+182,mid_range,-1,Radeon R7 A12-9720P RADEON,365.48*,1184,347,747,gpus
+494,mid_range,-1,Radeon HD 8670D + R5 330 Dual,NA,1185,1,746,gpus

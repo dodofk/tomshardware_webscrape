@@ -1,0 +1,6103 @@
+name,frequency,bench_type,num_cores,score
+"","
+3.2 GHz ",single_core,"
+3.2 GHz ",3085
+Intel Core i9-13900KF,"
+3.0 GHz ",single_core,"
+3.0 GHz ",2961
+Intel Core i9-13900K,"
+3.0 GHz ",single_core,"
+3.0 GHz ",2948
+AMD Ryzen 9 7950X,"
+4.5 GHz ",single_core,"
+4.5 GHz ",2890
+AMD Ryzen 9 7950X3D,"
+4.2 GHz ",single_core,"
+4.2 GHz ",2872
+AMD Ryzen 7 7700X,"
+4.5 GHz ",single_core,"
+4.5 GHz ",2867
+AMD Ryzen 9 7900X,"
+4.7 GHz ",single_core,"
+4.7 GHz ",2866
+AMD Ryzen 5 7600X,"
+4.7 GHz ",single_core,"
+4.7 GHz ",2813
+Intel Core i7-13700K,"
+3.4 GHz ",single_core,"
+3.4 GHz ",2810
+Intel Core i7-13700KF,"
+3.4 GHz ",single_core,"
+3.4 GHz ",2809
+AMD Ryzen 9 7900,"
+3.7 GHz ",single_core,"
+3.7 GHz ",2795
+AMD Ryzen 9 7900X3D,"
+4.4 GHz ",single_core,"
+4.4 GHz ",2791
+AMD Ryzen 7 7700,"
+3.8 GHz ",single_core,"
+3.8 GHz ",2778
+Intel Core i9-13900,"
+2.0 GHz ",single_core,"
+2.0 GHz ",2695
+AMD Ryzen 7 7800X3D,"
+4.2 GHz ",single_core,"
+4.2 GHz ",2689
+AMD Ryzen 9 7945HX,"
+2.5 GHz ",single_core,"
+2.5 GHz ",2687
+AMD Ryzen 5 7600,"
+3.8 GHz ",single_core,"
+3.8 GHz ",2677
+AMD Ryzen 9 7845HX,"
+3.0 GHz ",single_core,"
+3.0 GHz ",2662
+Intel Core i9-12900KS,"
+3.4 GHz ",single_core,"
+3.4 GHz ",2659
+Intel Core i5-13600K,"
+3.5 GHz ",single_core,"
+3.5 GHz ",2647
+Intel Core i5-13600KF,"
+3.5 GHz ",single_core,"
+3.5 GHz ",2635
+Intel Core i7-13700,"
+2.1 GHz ",single_core,"
+2.1 GHz ",2577
+Intel Core i9-12900K,"
+3.2 GHz ",single_core,"
+3.2 GHz ",2560
+Intel Core i9-12900KF,"
+3.2 GHz ",single_core,"
+3.2 GHz ",2509
+Intel Core i7-12700K,"
+3.6 GHz ",single_core,"
+3.6 GHz ",2481
+Intel Core i7-12700KF,"
+3.6 GHz ",single_core,"
+3.6 GHz ",2461
+Intel Core i5-12600KF,"
+3.7 GHz ",single_core,"
+3.7 GHz ",2434
+Intel Core i5-12600K,"
+3.7 GHz ",single_core,"
+3.7 GHz ",2398
+Intel Core i5-13500,"
+2.5 GHz ",single_core,"
+2.5 GHz ",2382
+Intel Core i5-12600,"
+3.3 GHz ",single_core,"
+3.3 GHz ",2377
+Intel Core i9-12900,"
+2.4 GHz ",single_core,"
+2.4 GHz ",2370
+Intel Core i5-13600,"
+2.7 GHz ",single_core,"
+2.7 GHz ",2369
+Intel Core i7-12700F,"
+2.1 GHz ",single_core,"
+2.1 GHz ",2332
+Intel Core i9-11900KF,"
+3.5 GHz ",single_core,"
+3.5 GHz ",2286
+Intel Core i9-11900K,"
+3.5 GHz ",single_core,"
+3.5 GHz ",2284
+Intel Core i9-11900F,"
+2.5 GHz ",single_core,"
+2.5 GHz ",2231
+Intel Core i5-12500,"
+3.0 GHz ",single_core,"
+3.0 GHz ",2218
+Intel Core i3-13100,"
+3.4 GHz ",single_core,"
+3.4 GHz ",2204
+Intel Core i7-11700K,"
+3.6 GHz ",single_core,"
+3.6 GHz ",2183
+Intel Core i5-12400F,"
+2.5 GHz ",single_core,"
+2.5 GHz ",2159
+AMD Ryzen 9 5950X,"
+3.4 GHz ",single_core,"
+3.4 GHz ",2154
+AMD Ryzen 9 5900X,"
+3.7 GHz ",single_core,"
+3.7 GHz ",2153
+AMD Ryzen 7 5800X,"
+3.8 GHz ",single_core,"
+3.8 GHz ",2148
+Intel Core i5-12400,"
+2.5 GHz ",single_core,"
+2.5 GHz ",2144
+Intel Core i5-11600KF,"
+3.9 GHz ",single_core,"
+3.9 GHz ",2140
+Intel Core i3-12100F,"
+3.3 GHz ",single_core,"
+3.3 GHz ",2140
+Intel Core i5-11600K,"
+3.9 GHz ",single_core,"
+3.9 GHz ",2133
+Intel Core i7-11700KF,"
+3.6 GHz ",single_core,"
+3.6 GHz ",2126
+Intel Core i3-12100,"
+3.3 GHz ",single_core,"
+3.3 GHz ",2118
+Intel Core i5-11600,"
+2.8 GHz ",single_core,"
+2.8 GHz ",2105
+AMD Ryzen 7 5700X,"
+3.4 GHz ",single_core,"
+3.4 GHz ",2091
+Intel Core i7-12700,"
+2.1 GHz ",single_core,"
+2.1 GHz ",2083
+Intel Core i9-11900,"
+2.5 GHz ",single_core,"
+2.5 GHz ",2081
+AMD Ryzen 7 5800X3D,"
+3.4 GHz ",single_core,"
+3.4 GHz ",2065
+AMD Ryzen 5 5600X,"
+3.7 GHz ",single_core,"
+3.7 GHz ",2063
+Intel Core i7-11700F,"
+2.5 GHz ",single_core,"
+2.5 GHz ",2057
+AMD Ryzen 9 5900,"
+3.0 GHz ",single_core,"
+3.0 GHz ",2053
+Intel Core i7-11700,"
+2.5 GHz ",single_core,"
+2.5 GHz ",2047
+AMD Ryzen Threadripper PRO 5945WX,"
+4.1 GHz ",single_core,"
+4.1 GHz ",2042
+AMD Ryzen Threadripper PRO 5965WX,"
+3.8 GHz ",single_core,"
+3.8 GHz ",2037
+AMD Ryzen 7 5800,"
+3.4 GHz ",single_core,"
+3.4 GHz ",2024
+Intel Core i9-11900T,"
+1.5 GHz ",single_core,"
+1.5 GHz ",2023
+AMD Ryzen Threadripper PRO 5995WX,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1995
+AMD Ryzen Threadripper PRO 5975WX,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1994
+AMD Ryzen 5 5600,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1993
+Intel Core i5-11500,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1976
+AMD Ryzen 9 6900HX,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1964
+AMD Ryzen 7 5700G,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1962
+AMD Ryzen Threadripper PRO 5955WX,"
+4.0 GHz ",single_core,"
+4.0 GHz ",1951
+Intel Core i5-11400F,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1925
+AMD Ryzen 7 PRO 5750G,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1918
+Intel Core i7-11800H,"
+2.3 GHz ",single_core,"
+2.3 GHz ",1907
+Intel Core i5-11400,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1891
+AMD Ryzen 5 5600G,"
+3.9 GHz ",single_core,"
+3.9 GHz ",1891
+Intel Core i7-1265U,"
+1.8 GHz ",single_core,"
+1.8 GHz ",1878
+Intel Core i7-1195G7,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1871
+Intel Core i5-1235U,"
+1.3 GHz ",single_core,"
+1.3 GHz ",1855
+AMD Ryzen 5 PRO 5650G,"
+3.9 GHz ",single_core,"
+3.9 GHz ",1853
+Intel Core i3-1215U,"
+1.2 GHz ",single_core,"
+1.2 GHz ",1843
+AMD Ryzen 9 6900HS,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1833
+AMD Ryzen 5 5500,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1831
+AMD Ryzen 7 6800H,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1830
+AMD Ryzen 9 5900HX,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1828
+Intel Core i5-11320H,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1823
+AMD Ryzen 7 6800HS,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1815
+Intel Core i5-11400H,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1798
+Intel Core i9-10900KF,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1759
+AMD Ryzen 7 3800XT,"
+3.9 GHz ",single_core,"
+3.9 GHz ",1757
+AMD Ryzen 7 6800U,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1752
+Intel Core i7-1165G7,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1735
+Intel Core i7-11370H,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1732
+Intel Core i7-11375H,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1731
+Intel Core i9-10900K,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1729
+AMD Ryzen 7 5800H,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1729
+Intel Core i5-11260H,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1728
+Intel Core i9-9900KS,"
+4.0 GHz ",single_core,"
+4.0 GHz ",1714
+Intel Core i5-11300H,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1708
+Intel Core i7-11700T,"
+1.4 GHz ",single_core,"
+1.4 GHz ",1707
+AMD Ryzen 7 3800X,"
+3.9 GHz ",single_core,"
+3.9 GHz ",1699
+Intel Core i9-10850K,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1699
+Intel Core i7-1185G7,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1699
+Intel Xeon W-1290P,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1697
+AMD Ryzen 9 3900XT,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1691
+AMD Ryzen 7 PRO 5850U,"
+1.9 GHz ",single_core,"
+1.9 GHz ",1691
+AMD Ryzen 5 3600XT,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1685
+Intel Core i9-10900,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1682
+AMD Ryzen 9 3950X,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1679
+Intel Core i7-10700K,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1678
+Intel Core i5-1145G7,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1676
+AMD Ryzen 9 3900X,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1672
+Intel Core i5-11500T,"
+1.5 GHz ",single_core,"
+1.5 GHz ",1669
+Intel Core i9-10900F,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1665
+AMD Ryzen Threadripper PRO 3975WX,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1662
+Intel Core i7-8086K,"
+4.0 GHz ",single_core,"
+4.0 GHz ",1660
+Intel Core i9-9900KF,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1651
+AMD Ryzen Threadripper 3960X,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1648
+AMD Ryzen Threadripper PRO 3945WX,"
+4.0 GHz ",single_core,"
+4.0 GHz ",1638
+Intel Core i9-9900K,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1636
+Intel Core i7-10700KF,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1635
+AMD Ryzen 3 5300G,"
+4.0 GHz ",single_core,"
+4.0 GHz ",1632
+AMD Ryzen 7 3700X,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1631
+Intel Core i7-9700KF,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1630
+AMD Ryzen 5 5600U,"
+2.3 GHz ",single_core,"
+2.3 GHz ",1630
+Intel Core i5-1230U,"
+1.0 GHz ",single_core,"
+1.0 GHz ",1630
+Intel Core i5-10600KF,"
+4.1 GHz ",single_core,"
+4.1 GHz ",1627
+Intel Core i7-9700K,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1626
+AMD Ryzen 3 3300X,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1626
+AMD Ryzen 5 5600H,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1626
+Intel Core i5-10600K,"
+4.1 GHz ",single_core,"
+4.1 GHz ",1625
+AMD Ryzen Threadripper PRO 3955WX,"
+3.9 GHz ",single_core,"
+3.9 GHz ",1625
+Intel Core i9-10910,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1614
+AMD Ryzen 7 5800U,"
+1.9 GHz ",single_core,"
+1.9 GHz ",1609
+AMD Ryzen 5 3600X,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1608
+AMD Ryzen Threadripper 3970X,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1606
+AMD Ryzen 7 PRO 4750G,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1605
+AMD Ryzen 9 3900,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1604
+Intel Core i9-9900,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1599
+Intel Core i5-1135G7,"
+2.4 GHz ",single_core,"
+2.4 GHz ",1594
+Intel Core i7-1250U,"
+1.1 GHz ",single_core,"
+1.1 GHz ",1594
+AMD Ryzen Threadripper PRO 3995WX,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1584
+Intel Core i7-10700F,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1576
+Intel Core i5-9600K,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1567
+AMD Ryzen 5 3600,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1567
+Intel Core i9-10900X,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1566
+Intel Core i5-9600KF,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1563
+Intel Core i9-10920X,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1557
+Intel Core i5-10600,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1557
+Intel Xeon E-2136,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1557
+Intel Core i9-10980XE,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1555
+Intel Core i9-10885H,"
+2.4 GHz ",single_core,"
+2.4 GHz ",1549
+Intel Core i7-8700K,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1548
+Intel Core i9-10940X,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1548
+Intel Core i7-8700B,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1546
+Intel Core i7-7700K,"
+4.2 GHz ",single_core,"
+4.2 GHz ",1542
+Intel Core i9-7980XE,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1540
+AMD Ryzen 9 4900H,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1539
+Intel Core i3-1115G4,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1536
+Intel Core i7-7740X,"
+4.3 GHz ",single_core,"
+4.3 GHz ",1536
+AMD Ryzen 5 3500X,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1533
+AMD Ryzen 5 PRO 4650G,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1533
+Intel Core i7-9700,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1528
+AMD Ryzen Threadripper 3990X,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1511
+Intel Core i7-9700F,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1510
+Intel Core i7-10700,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1509
+Intel Core i7-1068NG7,"
+2.3 GHz ",single_core,"
+2.3 GHz ",1507
+Intel Core i7-8700,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1501
+Intel Core i5-10500,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1491
+Intel Core i5-8600K,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1485
+Intel Core i5-9600,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1485
+AMD Ryzen 5 3500,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1472
+Intel Core i7-10875H,"
+2.3 GHz ",single_core,"
+2.3 GHz ",1471
+Intel Core i5-7600K,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1470
+Intel Xeon W-2295,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1469
+Intel Core i5-9500,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1462
+Intel Core i3-8350K,"
+4.0 GHz ",single_core,"
+4.0 GHz ",1461
+Intel Core i9-9920X,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1452
+Intel Core i7-8569U,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1449
+AMD Ryzen 7 4800HS,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1448
+AMD Ryzen 3 3100,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1446
+Intel Core i7-6700K,"
+4.0 GHz ",single_core,"
+4.0 GHz ",1445
+Intel Core i7-10870H,"
+2.2 GHz ",single_core,"
+2.2 GHz ",1438
+Intel Xeon E-2146G,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1438
+AMD Ryzen 7 4800H,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1437
+AMD Ryzen 9 4900HS,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1437
+Intel Core i9-9900X,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1431
+Intel Core i7-10750H,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1422
+Intel Xeon W-3235,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1418
+Intel Core i9-7900X,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1417
+Intel Xeon W-3175X,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1417
+Intel Core i5-10400F,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1417
+Intel Xeon E-2276M,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1415
+Intel Core i3-10100F,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1415
+Intel Core i9-7960X,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1409
+Intel Core i3-1125G4,"
+2.0 GHz ",single_core,"
+2.0 GHz ",1404
+Intel Core i3-10100,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1402
+Intel Core i7-10850H,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1402
+Intel Core i9-9980HK,"
+2.4 GHz ",single_core,"
+2.4 GHz ",1401
+Intel Core i5-8600,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1398
+Intel Core i5-10400,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1398
+AMD Ryzen 7 4800U,"
+1.8 GHz ",single_core,"
+1.8 GHz ",1397
+Intel Xeon W-3245,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1396
+Intel Xeon W-2145,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1394
+Intel Core i9-9980XE,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1392
+Intel Core i5-1038NG7,"
+2.0 GHz ",single_core,"
+2.0 GHz ",1389
+Intel Core i9-9940X,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1387
+Intel Core i9-9960X,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1387
+Intel Core i5-6600K,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1386
+Intel Core i7-9800X,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1385
+Intel Xeon E-2176M,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1383
+Intel Xeon W-2135,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1381
+Intel Core i7-9850H,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1380
+Intel Xeon W-3223,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1380
+Intel Xeon W-2155,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1376
+Intel Core i7-7820X,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1372
+Intel Core i5-8500,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1364
+Intel Core i7-7700,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1363
+AMD Ryzen 7 4700U,"
+2.0 GHz ",single_core,"
+2.0 GHz ",1363
+AMD Ryzen 7 5700U,"
+1.8 GHz ",single_core,"
+1.8 GHz ",1363
+Intel Core i7-4790K,"
+4.0 GHz ",single_core,"
+4.0 GHz ",1362
+AMD Ryzen 7 PRO 4750U,"
+1.7 GHz ",single_core,"
+1.7 GHz ",1358
+Intel Core i7-1260U,"
+1.1 GHz ",single_core,"
+1.1 GHz ",1353
+Intel Core i5-8500B,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1350
+Intel Core i7-5775C,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1349
+Intel Core i3-9100F,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1349
+AMD Ryzen 5 4600H,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1349
+Intel Core i5-9400F,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1348
+Intel Core i5-9400,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1348
+Intel Core i7-9700T,"
+2.0 GHz ",single_core,"
+2.0 GHz ",1346
+Intel Core i5-10300H,"
+2.5 GHz ",single_core,"
+2.5 GHz ",1345
+Intel Core i7-8809G,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1341
+Intel Core i5-7600,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1338
+AMD Ryzen 5 4600U,"
+2.1 GHz ",single_core,"
+2.1 GHz ",1337
+Intel Core i9-8950HK,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1336
+Intel Core i9-7920X,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1331
+Intel Core i7-9750H,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1331
+Intel Core i9-9880H,"
+2.3 GHz ",single_core,"
+2.3 GHz ",1329
+Intel Core i9-7940X,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1326
+Intel Core i7-1060NG7,"
+1.2 GHz ",single_core,"
+1.2 GHz ",1325
+Intel Core i5-8400,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1324
+Intel Xeon W-2125,"
+4.0 GHz ",single_core,"
+4.0 GHz ",1322
+Intel Core i7-7820HK,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1318
+AMD Ryzen 5 PRO 4650U,"
+2.1 GHz ",single_core,"
+2.1 GHz ",1318
+Intel Core i7-7800X,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1312
+Intel Core i3-9100,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1312
+Intel Core i7-8559U,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1311
+AMD Ryzen 5 4600HS,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1310
+Intel Core i5-9300HF,"
+2.4 GHz ",single_core,"
+2.4 GHz ",1309
+Intel Core i7-8700T,"
+2.4 GHz ",single_core,"
+2.4 GHz ",1304
+Intel Xeon W-2150B,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1300
+Intel Xeon E3-1230 v6,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1299
+Intel Xeon W-2140B,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1295
+Intel Core i7-8850H,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1295
+AMD Ryzen 5 5500U,"
+2.1 GHz ",single_core,"
+2.1 GHz ",1295
+Intel Core i7-7567U,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1294
+Intel Xeon E3-1245 v5,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1293
+Intel Xeon E3-1535M v6,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1284
+Intel Core i7-8750H,"
+2.2 GHz ",single_core,"
+2.2 GHz ",1281
+Intel Xeon E3-1240 v5,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1280
+Intel Xeon E3-1270 v5,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1279
+Intel Xeon E3-1285L v4,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1277
+Intel Xeon E5-1660 v3,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1276
+Intel Core i7-5960X,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1272
+Intel Core i3-1005G1,"
+1.2 GHz ",single_core,"
+1.2 GHz ",1270
+Intel Core i5-6600,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1269
+Intel Xeon E3-1545M v5,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1269
+Intel Core i7-6700,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1261
+Intel Core i7-6950X,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1261
+Intel Core i5-4690K,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1258
+Intel Core i3-10100T,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1257
+Intel Core i5-7500,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1256
+Intel Core i7-10510U,"
+1.8 GHz ",single_core,"
+1.8 GHz ",1255
+AMD Ryzen Threadripper 2920X,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1254
+Intel Core i7-7920HQ,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1250
+Intel Core i5-8257U,"
+1.4 GHz ",single_core,"
+1.4 GHz ",1250
+AMD Ryzen 3 4300U,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1246
+Intel Core i5-8300H,"
+2.3 GHz ",single_core,"
+2.3 GHz ",1244
+Intel Core i7-6900K,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1243
+AMD Ryzen Threadripper 2950X,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1243
+Intel Xeon E3-1505M v6,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1241
+Intel Core i5-8400H,"
+2.5 GHz ",single_core,"
+2.5 GHz ",1241
+Intel Core i5-4670K,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1240
+Intel Core i7-4770K,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1239
+Intel Core i5-9300H,"
+2.4 GHz ",single_core,"
+2.4 GHz ",1239
+AMD Ryzen 7 2700X,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1233
+Intel Core i7-6850K,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1227
+Intel Core i5-9500T,"
+2.2 GHz ",single_core,"
+2.2 GHz ",1227
+Intel Core i3-6320,"
+3.9 GHz ",single_core,"
+3.9 GHz ",1226
+AMD Ryzen 3 5300U,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1224
+Intel Core i3-4370,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1223
+Intel Xeon W-2133,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1218
+Intel Core i3-8100B,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1218
+Intel Xeon W-3275M,"
+2.5 GHz ",single_core,"
+2.5 GHz ",1217
+Intel Core i3-8100,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1213
+AMD Ryzen 5 2600X,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1213
+Intel Core i7-8705G,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1212
+Intel Core i5-8259U,"
+2.3 GHz ",single_core,"
+2.3 GHz ",1211
+Intel Xeon E3-1240 v6,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1208
+Intel Xeon Gold 6154,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1207
+Intel Xeon E3-1271 v3,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1206
+Intel Xeon E3-1276 v3,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1206
+Intel Core i3-7100,"
+3.9 GHz ",single_core,"
+3.9 GHz ",1205
+AMD Ryzen Threadripper 2970WX,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1204
+Intel Core i7-6800K,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1198
+Intel Xeon E3-1230 v5,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1197
+Intel Xeon E3-1225 v6,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1197
+Intel Xeon Gold 6128,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1194
+Intel Core i7-4940MX,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1192
+Intel Core i3-9100T,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1191
+Intel Core i7-4790,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1190
+Intel Core i5-8279U,"
+2.4 GHz ",single_core,"
+2.4 GHz ",1189
+Intel Xeon E3-1220 v5,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1187
+Intel Core i5-5675R,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1187
+AMD Ryzen Threadripper 2990WX,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1183
+Intel Xeon E3-1246 v3,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1182
+AMD Ryzen Threadripper 1950X,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1176
+Intel Xeon W-2123,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1176
+Intel Core i5-7600T,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1175
+Intel Core i3-6100,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1171
+Intel Core i5-7440HQ,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1171
+Intel Core i7-6700T,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1170
+Intel Core i7-4771,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1169
+Intel Xeon E3-1535M v5,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1169
+Intel Xeon E3-1245 v3,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1168
+Intel Xeon E5-1630 v4,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1168
+Intel Core i7-4790S,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1167
+Intel Xeon E3-1225 v5,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1167
+Intel Xeon E3-1270 v3,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1166
+AMD Ryzen 3 2300X,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1165
+Intel Xeon E5-1650 v3,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1164
+Intel Xeon E3-1275 v3,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1163
+Intel Xeon E3-1231 v3,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1162
+Intel Xeon E3-1241 v3,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1162
+Intel Core i7-7820HQ,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1161
+Intel Xeon E3-1505M v5,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1161
+Intel Core i5-6600T,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1159
+Intel Core i7-4980HQ,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1156
+AMD Ryzen Threadripper 1900X,"
+3.8 GHz ",single_core,"
+3.8 GHz ",1154
+Intel Core i5-4690,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1152
+Intel Core i7-4770,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1151
+Intel Core i7-7660U,"
+2.5 GHz ",single_core,"
+2.5 GHz ",1151
+Intel Core i5-8500T,"
+2.1 GHz ",single_core,"
+2.1 GHz ",1150
+Intel Core i5-1030NG7,"
+1.1 GHz ",single_core,"
+1.1 GHz ",1150
+Intel Core i5-6500,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1149
+Intel Xeon E5-1650 v4,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1149
+Intel Core i7-7700T,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1146
+AMD Ryzen Threadripper 1920X,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1146
+Intel Core i5-7400,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1145
+Intel Core i3-4360,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1145
+Intel Xeon E3-1275L v3,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1144
+Intel Core i5-4670,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1142
+AMD Ryzen 7 1800X,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1141
+Intel Xeon E3-1226 v3,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1140
+Intel Core i5-7360U,"
+2.3 GHz ",single_core,"
+2.3 GHz ",1140
+Intel Core i3-8109U,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1138
+Intel Core i7-7560U,"
+2.4 GHz ",single_core,"
+2.4 GHz ",1137
+Intel Xeon E3-1240 v3,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1135
+AMD Ryzen 5 2600,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1133
+Intel Xeon E3-1280 v3,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1131
+Intel Xeon E5-2637 v3,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1131
+Intel Xeon E5-1660 v4,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1131
+Intel Core i7-5820K,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1129
+Intel Core i7-7700HQ,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1128
+Intel Xeon E5-2667 v4,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1127
+Intel Core i7-6770HQ,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1122
+Intel Core i3-6098P,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1122
+Intel Core i7-5930K,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1120
+Intel Core i3-10110U,"
+2.1 GHz ",single_core,"
+2.1 GHz ",1120
+AMD Ryzen 5 3400G,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1119
+Intel Core i5-4670S,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1119
+Intel Core i7-4790T,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1119
+AMD Ryzen 5 1600X,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1118
+Intel Core i7-4770S,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1116
+Intel Core i7-6920HQ,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1115
+Intel Core i5-4690S,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1114
+Intel Xeon E3-1230 v3,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1109
+Intel Core i3-1000NG4,"
+1.1 GHz ",single_core,"
+1.1 GHz ",1108
+Intel Core i3-6300T,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1106
+Intel Core i7-4930MX,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1105
+Intel Xeon E5-2696 v3,"
+2.3 GHz ",single_core,"
+2.3 GHz ",1103
+Intel Core i5-7500T,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1103
+Intel Core i5-10210U,"
+1.6 GHz ",single_core,"
+1.6 GHz ",1101
+Intel Core i5-4590,"
+3.3 GHz ",single_core,"
+3.3 GHz ",1100
+Intel Core i3-7100T,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1100
+Intel Core i5-7260U,"
+2.2 GHz ",single_core,"
+2.2 GHz ",1096
+Intel Xeon E3-1265L v3,"
+2.5 GHz ",single_core,"
+2.5 GHz ",1095
+Intel Core i7-4960HQ,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1095
+AMD Ryzen 7 2700,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1093
+AMD Ryzen 7 PRO 1700X,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1091
+Intel Core i5-6400,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1090
+Intel Core i3-8121U,"
+2.2 GHz ",single_core,"
+2.2 GHz ",1088
+Intel Core i5-5575R,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1088
+Intel Core i7-4770T,"
+2.5 GHz ",single_core,"
+2.5 GHz ",1088
+AMD Ryzen 5 1500X,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1086
+Intel Xeon E5-1630 v3,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1083
+Intel Xeon E3-1220 v6,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1083
+Intel Core i5-8400T,"
+1.7 GHz ",single_core,"
+1.7 GHz ",1080
+Intel Core i5-6402P,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1080
+Intel Xeon E3-1225 v3,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1076
+Intel Core i7-5700HQ,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1076
+Intel Core i5-4590S,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1075
+Intel Core i7-6820HK,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1072
+AMD Ryzen 3 PRO 1300,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1072
+Intel Xeon E3-1220 v3,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1071
+AMD Ryzen 3 1300X,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1070
+Intel Xeon Gold 6148,"
+2.4 GHz ",single_core,"
+2.4 GHz ",1068
+Intel Xeon E5-2697 v3,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1067
+AMD EPYC 7302P,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1067
+Intel Core i7-6820HQ,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1066
+Intel Core i7-6700HQ,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1065
+AMD Ryzen 7 1700X,"
+3.4 GHz ",single_core,"
+3.4 GHz ",1065
+Intel Core i5-5287U,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1057
+Intel Core i3-4170,"
+3.7 GHz ",single_core,"
+3.7 GHz ",1056
+Intel Core i3-8100T,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1055
+Intel Core i7-5557U,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1054
+Intel Core i5-4570,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1053
+Intel Xeon E5-1620 v3,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1053
+Intel Core i5-7300HQ,"
+2.5 GHz ",single_core,"
+2.5 GHz ",1053
+Intel Core i3-4330,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1051
+Intel Xeon W-2191B,"
+2.3 GHz ",single_core,"
+2.3 GHz ",1051
+Intel Xeon E5-2697 v4,"
+2.3 GHz ",single_core,"
+2.3 GHz ",1050
+AMD Ryzen 5 1600,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1050
+Intel Core i7-4910MQ,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1047
+AMD Ryzen 5 2400G,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1047
+Intel Core i7-4870HQ,"
+2.5 GHz ",single_core,"
+2.5 GHz ",1046
+Intel Core i7-4810MQ,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1038
+Intel Core i5-4570S,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1036
+Intel Xeon E5-2690 v3,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1034
+Intel Core i5-6440HQ,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1032
+Intel Xeon E5-2690 v4,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1032
+Intel Core i5-4460,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1030
+Intel Core i5-4570T,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1027
+Intel Core i7-4610M,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1024
+AMD Ryzen 3 3200G,"
+3.6 GHz ",single_core,"
+3.6 GHz ",1022
+Intel Core i5-4308U,"
+2.8 GHz ",single_core,"
+2.8 GHz ",1021
+Intel Core i3-6100T,"
+3.2 GHz ",single_core,"
+3.2 GHz ",1021
+AMD Ryzen 7 PRO 1700,"
+3.0 GHz ",single_core,"
+3.0 GHz ",1021
+Intel Core i3-4150,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1016
+Intel Xeon E5-2640 v3,"
+2.6 GHz ",single_core,"
+2.6 GHz ",1014
+Intel Core i5-6500T,"
+2.5 GHz ",single_core,"
+2.5 GHz ",1011
+Intel Xeon E5-1620 v4,"
+3.5 GHz ",single_core,"
+3.5 GHz ",1010
+Intel Core i5-4440,"
+3.1 GHz ",single_core,"
+3.1 GHz ",1008
+Intel Core i4-4690T,"
+2.5 GHz ",single_core,"
+2.5 GHz ",1008
+Intel Core i5-4670T,"
+2.3 GHz ",single_core,"
+2.3 GHz ",1007
+Intel Core i5-7400T,"
+2.4 GHz ",single_core,"
+2.4 GHz ",1003
+Intel Core i5-6267U,"
+2.9 GHz ",single_core,"
+2.9 GHz ",1002
+Intel Core i5-4310M,"
+2.7 GHz ",single_core,"
+2.7 GHz ",1001
+Intel Xeon E5-2640 v4,"
+2.4 GHz ",single_core,"
+2.4 GHz ",999
+Intel Xeon E5-2680 v4,"
+2.4 GHz ",single_core,"
+2.4 GHz ",999
+Intel Xeon E5-1607 v4,"
+3.1 GHz ",single_core,"
+3.1 GHz ",999
+Intel Core i7-4600M,"
+2.9 GHz ",single_core,"
+2.9 GHz ",998
+Intel Core i7-4710MQ,"
+2.5 GHz ",single_core,"
+2.5 GHz ",996
+Intel Core i3-4160,"
+3.6 GHz ",single_core,"
+3.6 GHz ",994
+Intel Core i7-6650U,"
+2.2 GHz ",single_core,"
+2.2 GHz ",994
+Intel Core i7-4850HQ,"
+2.3 GHz ",single_core,"
+2.3 GHz ",993
+Intel Xeon E5-2696 v4,"
+2.2 GHz ",single_core,"
+2.2 GHz ",991
+Intel Xeon E5-2698 v3,"
+2.3 GHz ",single_core,"
+2.3 GHz ",991
+Intel Xeon E5-2687W v3,"
+3.1 GHz ",single_core,"
+3.1 GHz ",990
+AMD Ryzen 7 3750H,"
+2.3 GHz ",single_core,"
+2.3 GHz ",988
+Intel Core i7-4900MQ,"
+2.8 GHz ",single_core,"
+2.8 GHz ",988
+AMD Ryzen 3 2200G,"
+3.5 GHz ",single_core,"
+3.5 GHz ",987
+Intel Xeon E5-2697A v4,"
+2.6 GHz ",single_core,"
+2.6 GHz ",987
+AMD Ryzen 7 1700,"
+3.0 GHz ",single_core,"
+3.0 GHz ",986
+Intel Core i3-8130U,"
+2.2 GHz ",single_core,"
+2.2 GHz ",981
+Intel Core i7-4700HQ,"
+2.4 GHz ",single_core,"
+2.4 GHz ",977
+Intel Core i7-4750HQ,"
+2.0 GHz ",single_core,"
+2.0 GHz ",976
+Intel Core i7-4720HQ,"
+2.6 GHz ",single_core,"
+2.6 GHz ",974
+Intel Core i7-4800MQ,"
+2.7 GHz ",single_core,"
+2.7 GHz ",973
+Intel Core i5-4460S,"
+2.9 GHz ",single_core,"
+2.9 GHz ",971
+Intel Core i7-4700MQ,"
+2.4 GHz ",single_core,"
+2.4 GHz ",969
+Intel Core i5-6300HQ,"
+2.3 GHz ",single_core,"
+2.3 GHz ",969
+Intel Core i5-4430,"
+3.0 GHz ",single_core,"
+3.0 GHz ",966
+Intel Core i3-4170T,"
+3.2 GHz ",single_core,"
+3.2 GHz ",966
+Intel Xeon E5-2678 v3,"
+2.5 GHz ",single_core,"
+2.5 GHz ",965
+Intel Xeon E5-2660 v3,"
+2.6 GHz ",single_core,"
+2.6 GHz ",965
+Intel Core i7-4770HQ,"
+2.2 GHz ",single_core,"
+2.2 GHz ",964
+AMD Ryzen 3 1200,"
+3.1 GHz ",single_core,"
+3.1 GHz ",963
+Intel Xeon E5-2699 v4,"
+2.2 GHz ",single_core,"
+2.2 GHz ",963
+Intel Xeon E5-2680 v3,"
+2.5 GHz ",single_core,"
+2.5 GHz ",956
+Intel Xeon W-3265M,"
+2.7 GHz ",single_core,"
+2.7 GHz ",954
+Intel Core i7-4712MQ,"
+2.3 GHz ",single_core,"
+2.3 GHz ",952
+Intel Core i7-4710HQ,"
+2.5 GHz ",single_core,"
+2.5 GHz ",947
+Intel Core i5-4210H,"
+2.9 GHz ",single_core,"
+2.9 GHz ",946
+Intel Core i3-4130,"
+3.4 GHz ",single_core,"
+3.4 GHz ",945
+AMD Ryzen 5 1400,"
+3.2 GHz ",single_core,"
+3.2 GHz ",945
+Intel Core i5-8210Y,"
+1.6 GHz ",single_core,"
+1.6 GHz ",943
+AMD Ryzen 5 3550H,"
+2.1 GHz ",single_core,"
+2.1 GHz ",943
+AMD Athlon 3000G,"
+3.5 GHz ",single_core,"
+3.5 GHz ",943
+Intel Core i7-5650U,"
+2.2 GHz ",single_core,"
+2.2 GHz ",941
+Intel Core i5-4430S,"
+2.7 GHz ",single_core,"
+2.7 GHz ",941
+AMD Ryzen 5 PRO 3500U,"
+2.1 GHz ",single_core,"
+2.1 GHz ",938
+Intel Core i5-6260U,"
+1.8 GHz ",single_core,"
+1.8 GHz ",933
+Intel Xeon E5-2660 v4,"
+2.0 GHz ",single_core,"
+2.0 GHz ",930
+Intel Xeon E5-2630 v4,"
+2.2 GHz ",single_core,"
+2.2 GHz ",927
+AMD Ryzen 5 PRO 2500U,"
+2.0 GHz ",single_core,"
+2.0 GHz ",925
+Intel Core i5-6400T,"
+2.2 GHz ",single_core,"
+2.2 GHz ",923
+AMD Ryzen 5 3580U Microsoft Surface Edition,"
+2.1 GHz ",single_core,"
+2.1 GHz ",923
+Intel Core i5-6360U,"
+2.0 GHz ",single_core,"
+2.0 GHz ",923
+Intel Core i5-5257U,"
+2.7 GHz ",single_core,"
+2.7 GHz ",922
+Intel Core i7-4785T,"
+2.2 GHz ",single_core,"
+2.2 GHz ",920
+Intel Core i5-5350U,"
+1.8 GHz ",single_core,"
+1.8 GHz ",917
+Intel Core i3-4160T,"
+3.1 GHz ",single_core,"
+3.1 GHz ",916
+Intel Core i5-4300M,"
+2.6 GHz ",single_core,"
+2.6 GHz ",912
+Intel Core i7-4702MQ,"
+2.2 GHz ",single_core,"
+2.2 GHz ",908
+Intel Core i7-5600U,"
+2.6 GHz ",single_core,"
+2.6 GHz ",904
+Intel Xeon Silver 4108,"
+1.8 GHz ",single_core,"
+1.8 GHz ",903
+Intel Core i7-6560U,"
+2.2 GHz ",single_core,"
+2.2 GHz ",900
+Intel Xeon E5-2630 v3,"
+2.4 GHz ",single_core,"
+2.4 GHz ",900
+Intel Xeon E5-2670 v3,"
+2.3 GHz ",single_core,"
+2.3 GHz ",900
+Intel Core i7-4765T,"
+2.0 GHz ",single_core,"
+2.0 GHz ",899
+Intel Xeon E5-2667 v3,"
+3.2 GHz ",single_core,"
+3.2 GHz ",897
+Intel Core i7-4702HQ,"
+2.2 GHz ",single_core,"
+2.2 GHz ",896
+Intel Xeon E5-2620 v3,"
+2.4 GHz ",single_core,"
+2.4 GHz ",895
+Intel Xeon Silver 4214,"
+2.2 GHz ",single_core,"
+2.2 GHz ",893
+Intel Core i3-4130T,"
+2.9 GHz ",single_core,"
+2.9 GHz ",892
+Intel Core i5-4210M,"
+2.6 GHz ",single_core,"
+2.6 GHz ",885
+Intel Core i5-4590T,"
+2.0 GHz ",single_core,"
+2.0 GHz ",884
+AMD EPYC 7551P,"
+2.0 GHz ",single_core,"
+2.0 GHz ",884
+AMD Ryzen 7 3700U,"
+2.3 GHz ",single_core,"
+2.3 GHz ",882
+Intel Xeon E5-2650 v3,"
+2.3 GHz ",single_core,"
+2.3 GHz ",881
+Intel Xeon Silver 4110,"
+2.1 GHz ",single_core,"
+2.1 GHz ",874
+AMD Ryzen 7 PRO 3700U,"
+2.3 GHz ",single_core,"
+2.3 GHz ",869
+Intel Core i7-5500U,"
+2.4 GHz ",single_core,"
+2.4 GHz ",868
+Intel Xeon E5-2683 v4,"
+2.1 GHz ",single_core,"
+2.1 GHz ",860
+AMD Athlon 200GE,"
+3.2 GHz ",single_core,"
+3.2 GHz ",859
+AMD Ryzen 5 3500U,"
+2.1 GHz ",single_core,"
+2.1 GHz ",857
+Intel Core i7-4510U,"
+2.0 GHz ",single_core,"
+2.0 GHz ",855
+Intel Core i5-4200H,"
+2.8 GHz ",single_core,"
+2.8 GHz ",855
+Intel Core i3-4150T,"
+3.0 GHz ",single_core,"
+3.0 GHz ",855
+Intel Core i5-4278U,"
+2.6 GHz ",single_core,"
+2.6 GHz ",853
+Intel Core i5-4200M,"
+2.5 GHz ",single_core,"
+2.5 GHz ",848
+Intel Xeon E5-2630L v3,"
+1.8 GHz ",single_core,"
+1.8 GHz ",848
+Intel Xeon E5-2683 v3,"
+2.0 GHz ",single_core,"
+2.0 GHz ",840
+Intel Core i5-4288U,"
+2.6 GHz ",single_core,"
+2.6 GHz ",839
+Intel Xeon D-1541,"
+2.1 GHz ",single_core,"
+2.1 GHz ",837
+Intel Core i7-4600U,"
+2.1 GHz ",single_core,"
+2.1 GHz ",829
+Intel Core i3-7130U,"
+2.7 GHz ",single_core,"
+2.7 GHz ",828
+Intel Core i5-4570R,"
+2.7 GHz ",single_core,"
+2.7 GHz ",823
+Intel Xeon Silver 4114,"
+2.2 GHz ",single_core,"
+2.2 GHz ",823
+AMD Ryzen 5 2500U,"
+2.0 GHz ",single_core,"
+2.0 GHz ",815
+Intel Core i5-5300U,"
+2.3 GHz ",single_core,"
+2.3 GHz ",811
+Intel Core i7-4650U,"
+1.7 GHz ",single_core,"
+1.7 GHz ",810
+AMD Ryzen 7 2700U,"
+2.2 GHz ",single_core,"
+2.2 GHz ",807
+AMD Ryzen 7 3780U Microsoft Surface Edition,"
+2.3 GHz ",single_core,"
+2.3 GHz ",802
+AMD Ryzen 7 PRO 2700U,"
+2.2 GHz ",single_core,"
+2.2 GHz ",802
+Intel Core i5-5250U,"
+1.6 GHz ",single_core,"
+1.6 GHz ",801
+Intel Core i7-4712HQ,"
+2.3 GHz ",single_core,"
+2.3 GHz ",798
+Intel Xeon E5-2620 v4,"
+2.1 GHz ",single_core,"
+2.1 GHz ",794
+AMD Ryzen 3 3200U,"
+2.6 GHz ",single_core,"
+2.6 GHz ",788
+Intel Core i3-4100M,"
+2.5 GHz ",single_core,"
+2.5 GHz ",783
+Intel Xeon E5-2623 v4,"
+2.6 GHz ",single_core,"
+2.6 GHz ",782
+Intel Core i5-4300U,"
+1.9 GHz ",single_core,"
+1.9 GHz ",781
+Intel Core i5-4258U,"
+2.4 GHz ",single_core,"
+2.4 GHz ",781
+Intel Core i5-4310U,"
+2.0 GHz ",single_core,"
+2.0 GHz ",775
+Intel Core i3-6157U,"
+2.4 GHz ",single_core,"
+2.4 GHz ",773
+Intel Core i5-5200U,"
+2.2 GHz ",single_core,"
+2.2 GHz ",770
+AMD Ryzen 3 2300U,"
+2.0 GHz ",single_core,"
+2.0 GHz ",767
+AMD Ryzen 3 2200U,"
+2.5 GHz ",single_core,"
+2.5 GHz ",763
+Intel Core i5-4250U,"
+1.3 GHz ",single_core,"
+1.3 GHz ",762
+Intel Core i3-7100U,"
+2.4 GHz ",single_core,"
+2.4 GHz ",762
+Intel Core i5-4460T,"
+1.9 GHz ",single_core,"
+1.9 GHz ",758
+Intel Core i7-4500U,"
+1.8 GHz ",single_core,"
+1.8 GHz ",750
+Intel Pentium Gold G5400,"
+3.7 GHz ",single_core,"
+3.7 GHz ",750
+Intel Core i5-4260U,"
+1.4 GHz ",single_core,"
+1.4 GHz ",739
+Intel Core i7-4578U,"
+3.0 GHz ",single_core,"
+3.0 GHz ",736
+Intel Core i3-6100U,"
+2.3 GHz ",single_core,"
+2.3 GHz ",736
+AMD Ryzen 3 3250U,"
+2.6 GHz ",single_core,"
+2.6 GHz ",730
+Intel Pentium G4600,"
+3.6 GHz ",single_core,"
+3.6 GHz ",727
+Intel Core i5-4210U,"
+1.7 GHz ",single_core,"
+1.7 GHz ",722
+Intel Core i3-7020U,"
+2.3 GHz ",single_core,"
+2.3 GHz ",716
+Intel Xeon E5-2673 v3,"
+2.4 GHz ",single_core,"
+2.4 GHz ",712
+Intel Core i5-7267U,"
+3.1 GHz ",single_core,"
+3.1 GHz ",705
+Intel Core i7-3770K,"
+3.5 GHz ",single_core,"
+3.5 GHz ",698
+Intel Pentium G4560,"
+3.5 GHz ",single_core,"
+3.5 GHz ",697
+Intel Xeon E5-2650L v4,"
+1.7 GHz ",single_core,"
+1.7 GHz ",696
+Intel Core i5-4200U,"
+1.6 GHz ",single_core,"
+1.6 GHz ",694
+Intel Pentium G4400,"
+3.3 GHz ",single_core,"
+3.3 GHz ",692
+Intel Xeon E3-1280 V2,"
+3.6 GHz ",single_core,"
+3.6 GHz ",692
+Intel Core i3-4000M,"
+2.4 GHz ",single_core,"
+2.4 GHz ",687
+Intel Core i5-3570K,"
+3.4 GHz ",single_core,"
+3.4 GHz ",685
+Intel Xeon E3-1270 V2,"
+3.5 GHz ",single_core,"
+3.5 GHz ",681
+Intel Core i3-5015U,"
+2.1 GHz ",single_core,"
+2.1 GHz ",680
+Intel Xeon E3-1245 V2,"
+3.4 GHz ",single_core,"
+3.4 GHz ",673
+Intel Core i7-3770S,"
+3.1 GHz ",single_core,"
+3.1 GHz ",672
+Intel Core i3-5020U,"
+2.2 GHz ",single_core,"
+2.2 GHz ",672
+AMD A12-9800,"
+3.8 GHz ",single_core,"
+3.8 GHz ",671
+Intel Core i7-3770,"
+3.4 GHz ",single_core,"
+3.4 GHz ",669
+Intel Core i7-3960X,"
+3.3 GHz ",single_core,"
+3.3 GHz ",668
+Intel Xeon E3-1240 v2,"
+3.4 GHz ",single_core,"
+3.4 GHz ",666
+Intel Core i7-2700K,"
+3.5 GHz ",single_core,"
+3.5 GHz ",665
+Intel Core i7-2600K,"
+3.4 GHz ",single_core,"
+3.4 GHz ",662
+Intel Core i3-5010U,"
+2.1 GHz ",single_core,"
+2.1 GHz ",661
+Intel Core i5-3570S,"
+3.1 GHz ",single_core,"
+3.1 GHz ",659
+Intel Core i7-4930K,"
+3.4 GHz ",single_core,"
+3.4 GHz ",657
+Intel Core i5-3570,"
+3.4 GHz ",single_core,"
+3.4 GHz ",654
+Intel Xeon E5-1650 v2,"
+3.5 GHz ",single_core,"
+3.5 GHz ",654
+Intel Core i7-4960X,"
+3.6 GHz ",single_core,"
+3.6 GHz ",650
+Intel Core i5-L16G7,"
+1.4 GHz ",single_core,"
+1.4 GHz ",648
+Intel Xeon E5-1660 v2,"
+3.7 GHz ",single_core,"
+3.7 GHz ",646
+Intel Xeon E3-1275 v2,"
+3.5 GHz ",single_core,"
+3.5 GHz ",644
+Intel Core i5-3550,"
+3.3 GHz ",single_core,"
+3.3 GHz ",643
+Intel Xeon E5-1620 v2,"
+3.7 GHz ",single_core,"
+3.7 GHz ",641
+Intel Xeon E5-1660,"
+3.3 GHz ",single_core,"
+3.3 GHz ",641
+Intel Core i3-6006U,"
+2.0 GHz ",single_core,"
+2.0 GHz ",638
+Intel Core i5-2500K,"
+3.3 GHz ",single_core,"
+3.3 GHz ",637
+Intel Core i7-4820K,"
+3.7 GHz ",single_core,"
+3.7 GHz ",637
+Intel Core i7-3840QM,"
+2.8 GHz ",single_core,"
+2.8 GHz ",635
+Intel Xeon E5-1680 v2,"
+3.0 GHz ",single_core,"
+3.0 GHz ",634
+Intel Xeon E5-2667 v2,"
+3.3 GHz ",single_core,"
+3.3 GHz ",633
+AMD A6-9500,"
+3.5 GHz ",single_core,"
+3.5 GHz ",624
+Intel Core i5-3380M,"
+2.9 GHz ",single_core,"
+2.9 GHz ",622
+AMD FX-9830P,"
+3.0 GHz ",single_core,"
+3.0 GHz ",621
+Intel Core i5-3470,"
+3.2 GHz ",single_core,"
+3.2 GHz ",620
+Intel Celeron G4900,"
+3.1 GHz ",single_core,"
+3.1 GHz ",620
+Intel Pentium G3258,"
+3.2 GHz ",single_core,"
+3.2 GHz ",617
+Intel Pentium G4400T,"
+2.9 GHz ",single_core,"
+2.9 GHz ",615
+Intel Xeon E3-1270,"
+3.4 GHz ",single_core,"
+3.4 GHz ",614
+Intel Core i7-3820,"
+3.6 GHz ",single_core,"
+3.6 GHz ",613
+Intel Core i5-3450,"
+3.1 GHz ",single_core,"
+3.1 GHz ",613
+AMD A10-9700,"
+3.5 GHz ",single_core,"
+3.5 GHz ",613
+Intel Celeron G3930,"
+2.9 GHz ",single_core,"
+2.9 GHz ",611
+Intel Core i5-3470S,"
+2.9 GHz ",single_core,"
+2.9 GHz ",610
+Intel Core i7-3970X,"
+3.5 GHz ",single_core,"
+3.5 GHz ",610
+Intel Core i7-2600,"
+3.4 GHz ",single_core,"
+3.4 GHz ",609
+Intel Core i7-3820QM,"
+2.7 GHz ",single_core,"
+2.7 GHz ",607
+Intel Core i5-2500S,"
+2.7 GHz ",single_core,"
+2.7 GHz ",605
+Intel Xeon E3-1230V2,"
+3.3 GHz ",single_core,"
+3.3 GHz ",605
+Intel Core i7-3930K,"
+3.2 GHz ",single_core,"
+3.2 GHz ",604
+Intel Xeon E5-1650,"
+3.2 GHz ",single_core,"
+3.2 GHz ",603
+Intel Xeon E5-2687W,"
+3.1 GHz ",single_core,"
+3.1 GHz ",603
+Intel Xeon E3-1225 V2,"
+3.2 GHz ",single_core,"
+3.2 GHz ",602
+Intel Core i5-2550K,"
+3.4 GHz ",single_core,"
+3.4 GHz ",599
+Intel Core i7-2600S,"
+2.8 GHz ",single_core,"
+2.8 GHz ",599
+Intel Xeon E5-1620,"
+3.6 GHz ",single_core,"
+3.6 GHz ",597
+Intel Core i3-5005U,"
+2.0 GHz ",single_core,"
+2.0 GHz ",596
+Intel Xeon E3-1220 v2,"
+3.1 GHz ",single_core,"
+3.1 GHz ",592
+Intel Xeon E3-1240,"
+3.3 GHz ",single_core,"
+3.3 GHz ",592
+Intel Core i7-3740QM,"
+2.7 GHz ",single_core,"
+2.7 GHz ",589
+Intel Core i5-3450S,"
+2.8 GHz ",single_core,"
+2.8 GHz ",589
+Intel Core i7-3720QM,"
+2.6 GHz ",single_core,"
+2.6 GHz ",588
+Intel Core i5-3475S,"
+2.9 GHz ",single_core,"
+2.9 GHz ",588
+Intel Pentium G3260,"
+3.3 GHz ",single_core,"
+3.3 GHz ",587
+Intel Celeron G3900,"
+2.8 GHz ",single_core,"
+2.8 GHz ",586
+Intel Core i5-2500,"
+3.3 GHz ",single_core,"
+3.3 GHz ",585
+Intel Xeon E3-1230,"
+3.2 GHz ",single_core,"
+3.2 GHz ",584
+Intel Core i5-3340S,"
+2.8 GHz ",single_core,"
+2.8 GHz ",583
+AMD A8-9600,"
+3.1 GHz ",single_core,"
+3.1 GHz ",580
+Intel Core i5-3470T,"
+2.9 GHz ",single_core,"
+2.9 GHz ",579
+Intel Xeon E5-2643,"
+3.3 GHz ",single_core,"
+3.3 GHz ",577
+Intel Core M-5Y10c,"
+800 MHz ",single_core,"
+800 MHz ",576
+Intel Xeon E3-1265L v2,"
+2.5 GHz ",single_core,"
+2.5 GHz ",575
+Intel Pentium G3250,"
+3.2 GHz ",single_core,"
+3.2 GHz ",570
+Intel Xeon E3-1225,"
+3.1 GHz ",single_core,"
+3.1 GHz ",568
+Intel Xeon E3-1220,"
+3.1 GHz ",single_core,"
+3.1 GHz ",567
+Intel Xeon W3690,"
+3.5 GHz ",single_core,"
+3.5 GHz ",566
+Intel Core i5-4202Y,"
+1.6 GHz ",single_core,"
+1.6 GHz ",564
+Intel Core i7-990X,"
+3.5 GHz ",single_core,"
+3.5 GHz ",563
+Intel Xeon W3680,"
+3.3 GHz ",single_core,"
+3.3 GHz ",563
+Intel Core i5-3350P,"
+3.1 GHz ",single_core,"
+3.1 GHz ",562
+Intel Core i5-3340,"
+3.1 GHz ",single_core,"
+3.1 GHz ",562
+Intel Core i3-4030U,"
+1.9 GHz ",single_core,"
+1.9 GHz ",562
+Intel Xeon E5-2690 v2,"
+3.0 GHz ",single_core,"
+3.0 GHz ",561
+Intel Core i5-2400,"
+3.1 GHz ",single_core,"
+3.1 GHz ",558
+Intel Core i7-2860QM,"
+2.5 GHz ",single_core,"
+2.5 GHz ",557
+Intel Core i7-3520M,"
+2.9 GHz ",single_core,"
+2.9 GHz ",556
+Intel Xeon E5-2690,"
+2.9 GHz ",single_core,"
+2.9 GHz ",555
+Intel Core i5-3330,"
+3.0 GHz ",single_core,"
+3.0 GHz ",552
+Intel Core i5-3330S,"
+2.7 GHz ",single_core,"
+2.7 GHz ",550
+Intel Xeon E5-2680,"
+2.7 GHz ",single_core,"
+2.7 GHz ",549
+Intel Xeon E5-2697 v2,"
+2.7 GHz ",single_core,"
+2.7 GHz ",549
+AMD PRO A10-8770E,"
+2.8 GHz ",single_core,"
+2.8 GHz ",549
+AMD FX-9590,"
+4.7 GHz ",single_core,"
+4.7 GHz ",549
+Intel Core i7-3615QM,"
+2.3 GHz ",single_core,"
+2.3 GHz ",548
+Intel Core i7-3630QM,"
+2.4 GHz ",single_core,"
+2.4 GHz ",548
+Intel Pentium G3240,"
+3.1 GHz ",single_core,"
+3.1 GHz ",546
+Intel Core i3-3240,"
+3.4 GHz ",single_core,"
+3.4 GHz ",545
+Intel Core i5-3340M,"
+2.7 GHz ",single_core,"
+2.7 GHz ",545
+Intel Xeon X5690,"
+3.5 GHz ",single_core,"
+3.5 GHz ",544
+Intel Core i7-2760QM,"
+2.4 GHz ",single_core,"
+2.4 GHz ",542
+Intel Xeon E5-2680 v2,"
+2.8 GHz ",single_core,"
+2.8 GHz ",541
+Intel Celeron G3900T,"
+2.6 GHz ",single_core,"
+2.6 GHz ",539
+Intel Core i7-980X,"
+3.3 GHz ",single_core,"
+3.3 GHz ",538
+AMD PRO A10-8730B,"
+2.4 GHz ",single_core,"
+2.4 GHz ",536
+Intel Pentium G3220,"
+3.0 GHz ",single_core,"
+3.0 GHz ",532
+Intel Xeon X5680,"
+3.3 GHz ",single_core,"
+3.3 GHz ",530
+Intel Core i3-2130,"
+3.4 GHz ",single_core,"
+3.4 GHz ",529
+Intel Core i7-2820QM,"
+2.3 GHz ",single_core,"
+2.3 GHz ",528
+Intel Core i7-3635QM,"
+2.4 GHz ",single_core,"
+2.4 GHz ",528
+Intel Core i3-3220,"
+3.3 GHz ",single_core,"
+3.3 GHz ",526
+Intel Core i3-3225,"
+3.3 GHz ",single_core,"
+3.3 GHz ",525
+Intel Core i5-2320,"
+3.0 GHz ",single_core,"
+3.0 GHz ",524
+Intel Pentium G3250T,"
+2.8 GHz ",single_core,"
+2.8 GHz ",521
+Intel Core i3-3210,"
+3.2 GHz ",single_core,"
+3.2 GHz ",519
+AMD FX-9370,"
+4.4 GHz ",single_core,"
+4.4 GHz ",519
+Intel Core i5-2405S,"
+2.5 GHz ",single_core,"
+2.5 GHz ",518
+Intel Core i5-2310,"
+2.9 GHz ",single_core,"
+2.9 GHz ",517
+Intel Core i5-3360M,"
+2.8 GHz ",single_core,"
+2.8 GHz ",516
+Intel Core i7-3610QE,"
+2.3 GHz ",single_core,"
+2.3 GHz ",516
+Intel Core i3-4010U,"
+1.7 GHz ",single_core,"
+1.7 GHz ",515
+Intel Core i7-3612QM,"
+2.1 GHz ",single_core,"
+2.1 GHz ",515
+Intel Xeon E5-2650 v2,"
+2.6 GHz ",single_core,"
+2.6 GHz ",514
+Intel Core i7-2960XM,"
+2.7 GHz ",single_core,"
+2.7 GHz ",514
+Intel Core i5-2300,"
+2.8 GHz ",single_core,"
+2.8 GHz ",513
+Intel Core i7-970,"
+3.2 GHz ",single_core,"
+3.2 GHz ",512
+Intel Core i5-3320M,"
+2.6 GHz ",single_core,"
+2.6 GHz ",512
+Intel Xeon E5-2696 v2,"
+2.5 GHz ",single_core,"
+2.5 GHz ",512
+Intel Core i5-4210Y,"
+1.5 GHz ",single_core,"
+1.5 GHz ",511
+Intel Core i7-3610QM,"
+2.3 GHz ",single_core,"
+2.3 GHz ",510
+Intel Core i7-3540M,"
+3.0 GHz ",single_core,"
+3.0 GHz ",510
+Intel Core i7-2620M,"
+2.7 GHz ",single_core,"
+2.7 GHz ",509
+Intel Core i5-3230M,"
+2.6 GHz ",single_core,"
+2.6 GHz ",509
+AMD A10-9620P,"
+2.5 GHz ",single_core,"
+2.5 GHz ",505
+Intel Core i7-875K,"
+2.9 GHz ",single_core,"
+2.9 GHz ",505
+Intel Xeon E5-2670,"
+2.6 GHz ",single_core,"
+2.6 GHz ",504
+Intel Core i3-2120,"
+3.3 GHz ",single_core,"
+3.3 GHz ",503
+Intel Core i7-3632QM,"
+2.2 GHz ",single_core,"
+2.2 GHz ",502
+Intel Core i5-2400S,"
+2.5 GHz ",single_core,"
+2.5 GHz ",501
+Intel Celeron G1840,"
+2.8 GHz ",single_core,"
+2.8 GHz ",501
+Intel Core i7-2640M,"
+2.8 GHz ",single_core,"
+2.8 GHz ",499
+Intel Xeon E5-2665,"
+2.4 GHz ",single_core,"
+2.4 GHz ",497
+Intel Core i3-4005U,"
+1.7 GHz ",single_core,"
+1.7 GHz ",496
+AMD FX-8350,"
+4.0 GHz ",single_core,"
+4.0 GHz ",494
+AMD FX-8370,"
+4.0 GHz ",single_core,"
+4.0 GHz ",493
+Intel Xeon X5675,"
+3.1 GHz ",single_core,"
+3.1 GHz ",493
+AMD A10-6800K,"
+4.1 GHz ",single_core,"
+4.1 GHz ",493
+AMD FX-4350,"
+4.2 GHz ",single_core,"
+4.2 GHz ",492
+Intel Core i3-2105,"
+3.1 GHz ",single_core,"
+3.1 GHz ",491
+Intel Core i5-2540M,"
+2.6 GHz ",single_core,"
+2.6 GHz ",491
+Intel Core i7-960,"
+3.2 GHz ",single_core,"
+3.2 GHz ",490
+Intel Xeon E5-2630 v2,"
+2.6 GHz ",single_core,"
+2.6 GHz ",490
+Intel Pentium G2020,"
+2.9 GHz ",single_core,"
+2.9 GHz ",489
+Intel Xeon E5-2670 v2,"
+2.5 GHz ",single_core,"
+2.5 GHz ",488
+AMD FX-9800P,"
+2.7 GHz ",single_core,"
+2.7 GHz ",488
+Intel Xeon E5-1607 v2,"
+3.0 GHz ",single_core,"
+3.0 GHz ",487
+Intel Core i5-3210M,"
+2.5 GHz ",single_core,"
+2.5 GHz ",486
+Intel Xeon W3565,"
+3.2 GHz ",single_core,"
+3.2 GHz ",486
+Intel Pentium G860,"
+3.0 GHz ",single_core,"
+3.0 GHz ",484
+Intel Celeron G1820,"
+2.7 GHz ",single_core,"
+2.7 GHz ",484
+Intel Core i7-870,"
+2.9 GHz ",single_core,"
+2.9 GHz ",483
+AMD FX-6350,"
+3.9 GHz ",single_core,"
+3.9 GHz ",481
+Intel Xeon W3550,"
+3.1 GHz ",single_core,"
+3.1 GHz ",479
+AMD A10-7860K,"
+3.6 GHz ",single_core,"
+3.6 GHz ",478
+Intel Core i3-2100,"
+3.1 GHz ",single_core,"
+3.1 GHz ",477
+AMD A10-6700,"
+3.7 GHz ",single_core,"
+3.7 GHz ",477
+AMD A12-9720P,"
+2.7 GHz ",single_core,"
+2.7 GHz ",476
+AMD A10-8700P,"
+1.8 GHz ",single_core,"
+1.8 GHz ",476
+Intel Core i5-2435M,"
+2.4 GHz ",single_core,"
+2.4 GHz ",476
+Intel Pentium G3220T,"
+2.6 GHz ",single_core,"
+2.6 GHz ",473
+Intel Core i7-3687U,"
+2.1 GHz ",single_core,"
+2.1 GHz ",473
+Intel Xeon E3-1260L,"
+2.4 GHz ",single_core,"
+2.4 GHz ",472
+AMD FX-6300,"
+3.5 GHz ",single_core,"
+3.5 GHz ",472
+Intel Xeon E5-1603,"
+2.8 GHz ",single_core,"
+2.8 GHz ",472
+Intel Core i5-660,"
+3.3 GHz ",single_core,"
+3.3 GHz ",471
+Intel Core i5-2520M,"
+2.5 GHz ",single_core,"
+2.5 GHz ",470
+Intel Xeon X5660,"
+2.8 GHz ",single_core,"
+2.8 GHz ",468
+Intel Core i5-3427U,"
+1.8 GHz ",single_core,"
+1.8 GHz ",467
+AMD Athlon X4 840,"
+3.1 GHz ",single_core,"
+3.1 GHz ",466
+Intel Core i7-2720QM,"
+2.2 GHz ",single_core,"
+2.2 GHz ",465
+Intel Xeon X5670,"
+2.9 GHz ",single_core,"
+2.9 GHz ",465
+Intel Core i5-2430M,"
+2.4 GHz ",single_core,"
+2.4 GHz ",464
+Intel Core i5-2450M,"
+2.5 GHz ",single_core,"
+2.5 GHz ",464
+AMD Athlon X4 860K,"
+3.7 GHz ",single_core,"
+3.7 GHz ",464
+Intel Core i3-3250,"
+3.5 GHz ",single_core,"
+3.5 GHz ",463
+Intel Core i5-760,"
+2.8 GHz ",single_core,"
+2.8 GHz ",462
+AMD FX-8320,"
+3.5 GHz ",single_core,"
+3.5 GHz ",461
+AMD FX-8300,"
+3.3 GHz ",single_core,"
+3.3 GHz ",461
+AMD A8-6600K,"
+3.9 GHz ",single_core,"
+3.9 GHz ",460
+Intel Core i7-950,"
+3.1 GHz ",single_core,"
+3.1 GHz ",458
+AMD A10-7850K,"
+3.7 GHz ",single_core,"
+3.7 GHz ",457
+AMD PRO A8-8600B,"
+1.6 GHz ",single_core,"
+1.6 GHz ",456
+Intel Core i5-2415M,"
+2.3 GHz ",single_core,"
+2.3 GHz ",456
+Intel Core i7-2670QM,"
+2.2 GHz ",single_core,"
+2.2 GHz ",455
+Intel Core i5-650,"
+3.2 GHz ",single_core,"
+3.2 GHz ",454
+Intel Pentium G645,"
+2.9 GHz ",single_core,"
+2.9 GHz ",453
+Intel Xeon X5650,"
+2.7 GHz ",single_core,"
+2.7 GHz ",452
+Intel Core i7-2675QM,"
+2.2 GHz ",single_core,"
+2.2 GHz ",452
+Intel Core i7-620M,"
+2.7 GHz ",single_core,"
+2.7 GHz ",450
+Intel Core i7-3537U,"
+2.0 GHz ",single_core,"
+2.0 GHz ",450
+AMD A10-9600P,"
+2.4 GHz ",single_core,"
+2.4 GHz ",450
+Intel Xeon E5-2420 v2,"
+2.2 GHz ",single_core,"
+2.2 GHz ",450
+Intel Core i7-860,"
+2.8 GHz ",single_core,"
+2.8 GHz ",449
+Intel Core i7-3517U,"
+1.9 GHz ",single_core,"
+1.9 GHz ",449
+Intel Pentium G2030,"
+3.0 GHz ",single_core,"
+3.0 GHz ",449
+AMD FX-8320E,"
+3.2 GHz ",single_core,"
+3.2 GHz ",447
+AMD PRO A10-8700B,"
+1.8 GHz ",single_core,"
+1.8 GHz ",447
+AMD A8-5600K,"
+3.6 GHz ",single_core,"
+3.6 GHz ",446
+Intel Core i3-3220T,"
+2.8 GHz ",single_core,"
+2.8 GHz ",446
+AMD Athlon X4 760K,"
+3.8 GHz ",single_core,"
+3.8 GHz ",445
+AMD FX-8150,"
+3.6 GHz ",single_core,"
+3.6 GHz ",445
+Intel Core i3-4020Y,"
+1.5 GHz ",single_core,"
+1.5 GHz ",444
+Intel Pentium G840,"
+2.8 GHz ",single_core,"
+2.8 GHz ",444
+AMD A10-5800K,"
+3.8 GHz ",single_core,"
+3.8 GHz ",442
+AMD Phenom II X6 1100T Black Edition,"
+3.7 GHz ",single_core,"
+3.7 GHz ",442
+AMD FX-6200,"
+3.8 GHz ",single_core,"
+3.8 GHz ",441
+Intel Core i7-3667U,"
+2.0 GHz ",single_core,"
+2.0 GHz ",440
+Intel Pentium G850,"
+2.9 GHz ",single_core,"
+2.9 GHz ",440
+Intel Pentium Gold 4417U,"
+2.3 GHz ",single_core,"
+2.3 GHz ",439
+AMD A8 PRO-7600B,"
+3.1 GHz ",single_core,"
+3.1 GHz ",439
+Intel Core i5-2410M,"
+2.3 GHz ",single_core,"
+2.3 GHz ",438
+Intel Xeon E5-2470 v2,"
+2.4 GHz ",single_core,"
+2.4 GHz ",438
+AMD A8-7600,"
+3.1 GHz ",single_core,"
+3.1 GHz ",437
+AMD A10 PRO-7800B,"
+3.5 GHz ",single_core,"
+3.5 GHz ",437
+AMD FX-4300,"
+3.8 GHz ",single_core,"
+3.8 GHz ",436
+Intel Core i5-580M,"
+2.7 GHz ",single_core,"
+2.7 GHz ",436
+Intel Core i5-750,"
+2.7 GHz ",single_core,"
+2.7 GHz ",435
+Intel Xeon W3530,"
+2.8 GHz ",single_core,"
+2.8 GHz ",432
+Intel Core i5-3437U,"
+1.9 GHz ",single_core,"
+1.9 GHz ",432
+Intel Xeon E5-2620 v2,"
+2.1 GHz ",single_core,"
+2.1 GHz ",431
+Intel Xeon E5-2660,"
+2.2 GHz ",single_core,"
+2.2 GHz ",431
+AMD A10-7800,"
+3.5 GHz ",single_core,"
+3.5 GHz ",430
+AMD FX-8120,"
+3.1 GHz ",single_core,"
+3.1 GHz ",430
+AMD A6-7400K,"
+3.5 GHz ",single_core,"
+3.5 GHz ",430
+Intel Celeron 3955U,"
+2.0 GHz ",single_core,"
+2.0 GHz ",426
+Intel Core i7-920XM,"
+2.0 GHz ",single_core,"
+2.0 GHz ",425
+Intel Xeon X3450,"
+2.7 GHz ",single_core,"
+2.7 GHz ",424
+Intel Core i7-2630QM,"
+2.0 GHz ",single_core,"
+2.0 GHz ",423
+Intel Core i7-930,"
+2.8 GHz ",single_core,"
+2.8 GHz ",423
+Intel Xeon X5460,"
+3.2 GHz ",single_core,"
+3.2 GHz ",421
+AMD PRO A8-8650B,"
+3.2 GHz ",single_core,"
+3.2 GHz ",420
+Intel Core i7-920,"
+2.7 GHz ",single_core,"
+2.7 GHz ",419
+Intel Xeon E5-2430,"
+2.2 GHz ",single_core,"
+2.2 GHz ",419
+Intel Core i3-550,"
+3.2 GHz ",single_core,"
+3.2 GHz ",419
+Intel Pentium 4415U,"
+2.3 GHz ",single_core,"
+2.3 GHz ",416
+Intel Celeron G1620,"
+2.7 GHz ",single_core,"
+2.7 GHz ",416
+AMD A8-6500,"
+3.5 GHz ",single_core,"
+3.5 GHz ",416
+AMD FX-4100,"
+3.6 GHz ",single_core,"
+3.6 GHz ",414
+AMD A10-5700,"
+3.4 GHz ",single_core,"
+3.4 GHz ",414
+Intel Xeon W3520,"
+2.7 GHz ",single_core,"
+2.7 GHz ",414
+Intel Xeon E5-2660 v2,"
+2.2 GHz ",single_core,"
+2.2 GHz ",413
+Intel Core i5-3337U,"
+1.8 GHz ",single_core,"
+1.8 GHz ",412
+AMD Phenom II X4 975 Black Edition,"
+3.6 GHz ",single_core,"
+3.6 GHz ",409
+Intel Core i3-540,"
+3.1 GHz ",single_core,"
+3.1 GHz ",408
+Intel Pentium 2020M,"
+2.4 GHz ",single_core,"
+2.4 GHz ",407
+Intel Core i5-560M,"
+2.7 GHz ",single_core,"
+2.7 GHz ",405
+Intel Core 2 Duo E8600,"
+3.3 GHz ",single_core,"
+3.3 GHz ",404
+AMD A10-5800B,"
+3.8 GHz ",single_core,"
+3.8 GHz ",403
+Intel Xeon X3440,"
+2.5 GHz ",single_core,"
+2.5 GHz ",402
+Intel Xeon E5-2640,"
+2.5 GHz ",single_core,"
+2.5 GHz ",401
+Intel Core i5-3317U,"
+1.7 GHz ",single_core,"
+1.7 GHz ",399
+Intel Xeon E5-2640 v2,"
+2.0 GHz ",single_core,"
+2.0 GHz ",398
+AMD Phenom II X6 1090T Black Edition,"
+3.2 GHz ",single_core,"
+3.2 GHz ",396
+Intel Core 2 Quad Q9650,"
+3.0 GHz ",single_core,"
+3.0 GHz ",395
+AMD A8-7650K,"
+3.3 GHz ",single_core,"
+3.3 GHz ",395
+Intel Pentium G630,"
+2.7 GHz ",single_core,"
+2.7 GHz ",394
+Intel Pentium 4405U,"
+2.1 GHz ",single_core,"
+2.1 GHz ",392
+Intel Core 2 Duo E8500,"
+3.2 GHz ",single_core,"
+3.2 GHz ",390
+Intel Pentium G620,"
+2.6 GHz ",single_core,"
+2.6 GHz ",390
+Intel Xeon E5-2620,"
+2.0 GHz ",single_core,"
+2.0 GHz ",390
+Intel Core i7-840QM,"
+1.9 GHz ",single_core,"
+1.9 GHz ",388
+Intel Core i3-3110M,"
+2.4 GHz ",single_core,"
+2.4 GHz ",388
+Intel Xeon E3110,"
+3.0 GHz ",single_core,"
+3.0 GHz ",388
+Intel Core i3-530,"
+2.9 GHz ",single_core,"
+2.9 GHz ",385
+AMD A8-5500,"
+3.2 GHz ",single_core,"
+3.2 GHz ",385
+AMD FX-6100,"
+3.3 GHz ",single_core,"
+3.3 GHz ",383
+Intel Core i3-3120M,"
+2.5 GHz ",single_core,"
+2.5 GHz ",382
+Intel Xeon E5620,"
+2.4 GHz ",single_core,"
+2.4 GHz ",381
+Intel Xeon E5450,"
+3.0 GHz ",single_core,"
+3.0 GHz ",381
+Intel Core i5-480M,"
+2.7 GHz ",single_core,"
+2.7 GHz ",380
+Intel Xeon E5-2420,"
+1.9 GHz ",single_core,"
+1.9 GHz ",380
+AMD A8-5500B,"
+3.2 GHz ",single_core,"
+3.2 GHz ",379
+Intel Celeron 3865U,"
+1.8 GHz ",single_core,"
+1.8 GHz ",374
+Intel Core i5-520M,"
+2.4 GHz ",single_core,"
+2.4 GHz ",368
+AMD Phenom II X4 965 Black Edition,"
+3.4 GHz ",single_core,"
+3.4 GHz ",368
+Intel Core 2 Quad Q9500,"
+2.8 GHz ",single_core,"
+2.8 GHz ",367
+Intel Celeron G530,"
+2.4 GHz ",single_core,"
+2.4 GHz ",366
+Intel Core 2 Quad Q9550,"
+2.8 GHz ",single_core,"
+2.8 GHz ",365
+Intel Pentium Silver J5005,"
+1.5 GHz ",single_core,"
+1.5 GHz ",365
+AMD R-Series RX-427BB,"
+2.7 GHz ",single_core,"
+2.7 GHz ",365
+Intel Pentium E5800,"
+3.2 GHz ",single_core,"
+3.2 GHz ",365
+Intel Core 2 Duo E7600,"
+3.1 GHz ",single_core,"
+3.1 GHz ",364
+AMD A4-6300,"
+3.7 GHz ",single_core,"
+3.7 GHz ",364
+Intel Core 2 Duo E8400,"
+3.0 GHz ",single_core,"
+3.0 GHz ",364
+AMD Phenom II X4 955 Black Edition,"
+3.2 GHz ",single_core,"
+3.2 GHz ",361
+Intel Core 2 Quad Q9505,"
+2.8 GHz ",single_core,"
+2.8 GHz ",361
+Intel Core i7-740QM,"
+1.7 GHz ",single_core,"
+1.7 GHz ",358
+Intel Xeon E5440,"
+2.8 GHz ",single_core,"
+2.8 GHz ",358
+Intel Pentium Silver N5000,"
+1.1 GHz ",single_core,"
+1.1 GHz ",357
+Intel Core i5-540M,"
+2.5 GHz ",single_core,"
+2.5 GHz ",357
+Intel Pentium B980,"
+2.4 GHz ",single_core,"
+2.4 GHz ",355
+Intel Core 2 Duo T9600,"
+2.8 GHz ",single_core,"
+2.8 GHz ",354
+Intel Core i7-720QM,"
+1.6 GHz ",single_core,"
+1.6 GHz ",351
+Intel Core i3-2370M,"
+2.4 GHz ",single_core,"
+2.4 GHz ",349
+Intel Core i5-460M,"
+2.5 GHz ",single_core,"
+2.5 GHz ",347
+Intel Core i3-2348M,"
+2.3 GHz ",single_core,"
+2.3 GHz ",347
+AMD A10-4600M,"
+2.3 GHz ",single_core,"
+2.3 GHz ",345
+Intel Core i3-2350M,"
+2.3 GHz ",single_core,"
+2.3 GHz ",345
+Intel Core i7-640M,"
+2.8 GHz ",single_core,"
+2.8 GHz ",344
+Intel Pentium E5700,"
+3.0 GHz ",single_core,"
+3.0 GHz ",343
+Intel Core 2 Duo E7500,"
+2.9 GHz ",single_core,"
+2.9 GHz ",342
+Intel Celeron J4125,"
+2.0 GHz ",single_core,"
+2.0 GHz ",342
+Intel Core i5-2467M,"
+1.6 GHz ",single_core,"
+1.6 GHz ",342
+AMD A8-3870,"
+3.0 GHz ",single_core,"
+3.0 GHz ",342
+Intel Celeron N4020,"
+1.1 GHz ",single_core,"
+1.1 GHz ",341
+Intel Core 2 Quad Q9400,"
+2.7 GHz ",single_core,"
+2.7 GHz ",340
+Intel Core i5-450M,"
+2.4 GHz ",single_core,"
+2.4 GHz ",340
+AMD FX-7500,"
+2.1 GHz ",single_core,"
+2.1 GHz ",340
+Intel Core i3-2330M,"
+2.2 GHz ",single_core,"
+2.2 GHz ",339
+AMD Phenom II X4 945,"
+3.0 GHz ",single_core,"
+3.0 GHz ",339
+Intel Core 2 Duo T9500,"
+2.6 GHz ",single_core,"
+2.6 GHz ",338
+Intel Core 2 Quad Q8400,"
+2.7 GHz ",single_core,"
+2.7 GHz ",337
+Intel Celeron J4005,"
+2.0 GHz ",single_core,"
+2.0 GHz ",335
+Intel Core 2 Quad Q9450,"
+2.7 GHz ",single_core,"
+2.7 GHz ",334
+AMD Athlon II X4 651,"
+3.0 GHz ",single_core,"
+3.0 GHz ",332
+Intel Core 2 Duo T9300,"
+2.5 GHz ",single_core,"
+2.5 GHz ",330
+Intel Core i3-2310M,"
+2.1 GHz ",single_core,"
+2.1 GHz ",327
+Intel Core i3-380M,"
+2.5 GHz ",single_core,"
+2.5 GHz ",324
+Intel Celeron J4105,"
+1.5 GHz ",single_core,"
+1.5 GHz ",324
+AMD Athlon II X2 260,"
+3.2 GHz ",single_core,"
+3.2 GHz ",324
+Intel Pentium B960,"
+2.2 GHz ",single_core,"
+2.2 GHz ",323
+Intel Celeron N4000,"
+1.1 GHz ",single_core,"
+1.1 GHz ",323
+Intel Core 2 Duo E7400,"
+2.8 GHz ",single_core,"
+2.8 GHz ",322
+AMD A4-4000,"
+3.0 GHz ",single_core,"
+3.0 GHz ",321
+Intel Celeron 1005M,"
+1.9 GHz ",single_core,"
+1.9 GHz ",320
+AMD A4-5300,"
+3.4 GHz ",single_core,"
+3.4 GHz ",320
+Intel Celeron N4100,"
+1.1 GHz ",single_core,"
+1.1 GHz ",318
+AMD A4-4300M,"
+2.5 GHz ",single_core,"
+2.5 GHz ",316
+Intel Core i3-370M,"
+2.4 GHz ",single_core,"
+2.4 GHz ",315
+Intel Core 2 Quad Q8300,"
+2.5 GHz ",single_core,"
+2.5 GHz ",314
+Intel Core i5-430M,"
+2.3 GHz ",single_core,"
+2.3 GHz ",314
+Intel Pentium 3805U,"
+1.9 GHz ",single_core,"
+1.9 GHz ",313
+Intel Core i3-2328M,"
+2.2 GHz ",single_core,"
+2.2 GHz ",312
+Intel Pentium 4415Y,"
+1.6 GHz ",single_core,"
+1.6 GHz ",310
+Intel Core i5-2537M,"
+1.4 GHz ",single_core,"
+1.4 GHz ",310
+AMD Athlon II X4 640,"
+3.0 GHz ",single_core,"
+3.0 GHz ",307
+Intel Core 2 Duo T9400,"
+2.5 GHz ",single_core,"
+2.5 GHz ",304
+Intel Pentium 2117U,"
+1.8 GHz ",single_core,"
+1.8 GHz ",302
+Intel Core 2 Duo P8700,"
+2.5 GHz ",single_core,"
+2.5 GHz ",296
+AMD Athlon II X2 240,"
+2.8 GHz ",single_core,"
+2.8 GHz ",296
+Intel Pentium B940,"
+2.0 GHz ",single_core,"
+2.0 GHz ",295
+Intel Core 2 Quad Q8200,"
+2.3 GHz ",single_core,"
+2.3 GHz ",294
+Intel Core 2 Duo T8300,"
+2.4 GHz ",single_core,"
+2.4 GHz ",294
+Intel Pentium E5300,"
+2.6 GHz ",single_core,"
+2.6 GHz ",293
+AMD Athlon II X2 250,"
+3.0 GHz ",single_core,"
+3.0 GHz ",292
+Intel Core 2 Quad Q6700,"
+2.7 GHz ",single_core,"
+2.7 GHz ",291
+Intel Core i3-3227U,"
+1.9 GHz ",single_core,"
+1.9 GHz ",290
+Intel Core i3-3217U,"
+1.8 GHz ",single_core,"
+1.8 GHz ",289
+AMD A8-5550M,"
+2.1 GHz ",single_core,"
+2.1 GHz ",288
+AMD Athlon II X4 635,"
+2.9 GHz ",single_core,"
+2.9 GHz ",287
+AMD A8-4500M,"
+1.9 GHz ",single_core,"
+1.9 GHz ",286
+Intel Core i3-350M,"
+2.3 GHz ",single_core,"
+2.3 GHz ",283
+Intel Pentium E5500,"
+2.8 GHz ",single_core,"
+2.8 GHz ",283
+Intel Pentium B950,"
+2.1 GHz ",single_core,"
+2.1 GHz ",281
+AMD A10-5745M,"
+2.1 GHz ",single_core,"
+2.1 GHz ",278
+AMD A10-7300,"
+1.9 GHz ",single_core,"
+1.9 GHz ",278
+Intel Celeron J3355,"
+2.0 GHz ",single_core,"
+2.0 GHz ",277
+Intel Core i3-330M,"
+2.1 GHz ",single_core,"
+2.1 GHz ",276
+Intel Celeron 3205U,"
+1.5 GHz ",single_core,"
+1.5 GHz ",276
+Intel Core 2 Duo P8600,"
+2.4 GHz ",single_core,"
+2.4 GHz ",274
+Intel Pentium 3825U,"
+1.9 GHz ",single_core,"
+1.9 GHz ",274
+Intel Pentium P6200,"
+2.1 GHz ",single_core,"
+2.1 GHz ",274
+Intel Pentium E5200,"
+2.5 GHz ",single_core,"
+2.5 GHz ",272
+Intel Core 2 Quad Q6600,"
+2.4 GHz ",single_core,"
+2.4 GHz ",271
+Intel Celeron B820,"
+1.7 GHz ",single_core,"
+1.7 GHz ",270
+Intel Pentium N4200,"
+1.1 GHz ",single_core,"
+1.1 GHz ",268
+Intel Core 2 Duo P7450,"
+2.1 GHz ",single_core,"
+2.1 GHz ",265
+Intel Core 2 Duo P8400,"
+2.3 GHz ",single_core,"
+2.3 GHz ",264
+Intel Core 2 Duo E6550,"
+2.3 GHz ",single_core,"
+2.3 GHz ",261
+Intel Core 2 Duo T6570,"
+2.1 GHz ",single_core,"
+2.1 GHz ",257
+Intel Pentium E5400,"
+2.7 GHz ",single_core,"
+2.7 GHz ",252
+Intel Pentium T4500,"
+2.3 GHz ",single_core,"
+2.3 GHz ",249
+Intel Pentium T4400,"
+2.2 GHz ",single_core,"
+2.2 GHz ",247
+AMD A8-5545M,"
+1.7 GHz ",single_core,"
+1.7 GHz ",246
+Intel Core 2 Duo T7500,"
+2.2 GHz ",single_core,"
+2.2 GHz ",245
+Intel Celeron J3455,"
+1.5 GHz ",single_core,"
+1.5 GHz ",242
+Intel Celeron N3350,"
+1.1 GHz ",single_core,"
+1.1 GHz ",242
+Intel Pentium J4205,"
+1.5 GHz ",single_core,"
+1.5 GHz ",242
+Intel Core 2 Duo T6600,"
+2.2 GHz ",single_core,"
+2.2 GHz ",241
+Intel Celeron B815,"
+1.6 GHz ",single_core,"
+1.6 GHz ",238
+Intel Atom x7-E3950,"
+1.6 GHz ",single_core,"
+1.6 GHz ",237
+Intel Celeron 1007U,"
+1.5 GHz ",single_core,"
+1.5 GHz ",236
+AMD A8-7410,"
+2.2 GHz ",single_core,"
+2.2 GHz ",235
+AMD Phenom X4 9550,"
+2.2 GHz ",single_core,"
+2.2 GHz ",233
+Intel Celeron N3450,"
+1.1 GHz ",single_core,"
+1.1 GHz ",230
+AMD A4-3300M,"
+1.9 GHz ",single_core,"
+1.9 GHz ",227
+AMD A8-6410,"
+2.0 GHz ",single_core,"
+2.0 GHz ",226
+AMD A6-7310,"
+2.0 GHz ",single_core,"
+2.0 GHz ",224
+AMD A6-6310,"
+1.8 GHz ",single_core,"
+1.8 GHz ",223
+AMD A4-7210,"
+1.8 GHz ",single_core,"
+1.8 GHz ",221
+AMD A4-3330MX,"
+2.2 GHz ",single_core,"
+2.2 GHz ",221
+Intel Core 2 Duo T6500,"
+2.1 GHz ",single_core,"
+2.1 GHz ",219
+AMD Athlon 5350,"
+2.0 GHz ",single_core,"
+2.0 GHz ",218
+Intel Pentium T4200,"
+2.0 GHz ",single_core,"
+2.0 GHz ",218
+AMD A6-4455M,"
+2.1 GHz ",single_core,"
+2.1 GHz ",218
+AMD A6-5200,"
+2.0 GHz ",single_core,"
+2.0 GHz ",210
+Intel Celeron T3100,"
+1.9 GHz ",single_core,"
+1.9 GHz ",209
+Intel Pentium T4300,"
+2.1 GHz ",single_core,"
+2.1 GHz ",202
+Intel Core 2 Duo E6300,"
+1.9 GHz ",single_core,"
+1.9 GHz ",198
+Intel Pentium J3710,"
+1.6 GHz ",single_core,"
+1.6 GHz ",197
+Intel Pentium N3540,"
+2.2 GHz ",single_core,"
+2.2 GHz ",193
+Intel Core i3-2365M,"
+1.4 GHz ",single_core,"
+1.4 GHz ",192
+Intel Pentium D 945/950,"
+3.4 GHz ",single_core,"
+3.4 GHz ",189
+AMD A4-6210,"
+1.8 GHz ",single_core,"
+1.8 GHz ",186
+Intel Pentium N3530,"
+2.2 GHz ",single_core,"
+2.2 GHz ",185
+AMD E2-7110,"
+1.8 GHz ",single_core,"
+1.8 GHz ",181
+Intel Atom x7-Z8700,"
+1.6 GHz ",single_core,"
+1.6 GHz ",178
+Intel Pentium N3700,"
+1.6 GHz ",single_core,"
+1.6 GHz ",178
+Intel Atom x5-Z8550,"
+1.4 GHz ",single_core,"
+1.4 GHz ",177
+Intel Atom x7-Z8750,"
+1.6 GHz ",single_core,"
+1.6 GHz ",177
+Intel Celeron J1900,"
+2.0 GHz ",single_core,"
+2.0 GHz ",176
+Intel Celeron N2840,"
+2.2 GHz ",single_core,"
+2.2 GHz ",175
+Intel Celeron N2830,"
+2.2 GHz ",single_core,"
+2.2 GHz ",173
+Intel Atom x5-Z8500,"
+1.4 GHz ",single_core,"
+1.4 GHz ",168
+Intel Celeron N2940,"
+1.8 GHz ",single_core,"
+1.8 GHz ",165
+Intel Celeron N3160,"
+1.6 GHz ",single_core,"
+1.6 GHz ",163
+AMD A4-5000,"
+1.5 GHz ",single_core,"
+1.5 GHz ",159
+Intel Celeron J3060,"
+1.6 GHz ",single_core,"
+1.6 GHz ",158
+Intel Celeron N3150,"
+1.6 GHz ",single_core,"
+1.6 GHz ",154
+Intel Celeron N3050,"
+1.6 GHz ",single_core,"
+1.6 GHz ",143
+AMD E1-2500,"
+1.4 GHz ",single_core,"
+1.4 GHz ",141
+Intel Atom x5-Z8350,"
+1.4 GHz ",single_core,"
+1.4 GHz ",136
+AMD E1-6010,"
+1.4 GHz ",single_core,"
+1.4 GHz ",130
+Intel Atom x5-Z8300,"
+1.4 GHz ",single_core,"
+1.4 GHz ",128
+AMD E1-6015,"
+1.4 GHz ",single_core,"
+1.4 GHz ",124
+AMD E2-1800,"
+1.7 GHz ",single_core,"
+1.7 GHz ",108
+AMD E-450,"
+1.6 GHz ",single_core,"
+1.6 GHz ",105
+AMD E-350,"
+1.6 GHz ",single_core,"
+1.6 GHz ",100
+AMD E-300,"
+1.3 GHz ",single_core,"
+1.3 GHz ",77
+AMD C-60,"
+1.0 GHz ",single_core,"
+1.0 GHz ",74
+Intel Core i9-13900KS,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",21683
+Intel Core i9-13900KF,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",20018
+Intel Core i9-13900K,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",19876
+AMD Ryzen 9 7950X3D,"
+4.2 GHz ",multi_core,"
+4.2 GHz ",19425
+AMD Ryzen 9 7950X,"
+4.5 GHz ",multi_core,"
+4.5 GHz ",18979
+AMD Ryzen Threadripper PRO 5995WX,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",18334
+AMD Ryzen 9 7900X,"
+4.7 GHz ",multi_core,"
+4.7 GHz ",17497
+AMD Ryzen 9 7900X3D,"
+4.4 GHz ",multi_core,"
+4.4 GHz ",17464
+Intel Core i7-13700K,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",17360
+Intel Core i7-13700KF,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",17258
+AMD Ryzen 9 7900,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",16678
+Intel Core i9-12900KS,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",16202
+AMD Ryzen Threadripper PRO 5975WX,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",16163
+Intel Core i9-13900,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",15938
+AMD Ryzen 9 7945HX,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",15201
+Intel Core i9-12900K,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",15119
+AMD Ryzen 7 7700X,"
+4.5 GHz ",multi_core,"
+4.5 GHz ",15074
+AMD Ryzen 7 7800X3D,"
+4.2 GHz ",multi_core,"
+4.2 GHz ",15062
+AMD Ryzen Threadripper PRO 3995WX,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",14983
+Intel Core i9-12900KF,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",14777
+AMD Ryzen Threadripper PRO 3975WX,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",14727
+Intel Core i5-13600K,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",14672
+Intel Core i5-13600KF,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",14557
+Intel Core i7-13700,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",14536
+AMD Ryzen 7 7700,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",14307
+AMD Ryzen Threadripper PRO 5965WX,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",14294
+AMD Ryzen Threadripper PRO 5945WX,"
+4.1 GHz ",multi_core,"
+4.1 GHz ",13951
+AMD Ryzen Threadripper 3970X,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",13880
+AMD Ryzen Threadripper PRO 5955WX,"
+4.0 GHz ",multi_core,"
+4.0 GHz ",13667
+AMD Ryzen 9 7845HX,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",13613
+AMD Ryzen Threadripper 3990X,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",13601
+Intel Core i7-12700K,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",13404
+AMD Ryzen Threadripper 3960X,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",13322
+Intel Core i7-12700KF,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",13052
+Intel Core i5-13600,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",12652
+Intel Core i9-12900,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",12615
+AMD Ryzen 5 7600X,"
+4.7 GHz ",multi_core,"
+4.7 GHz ",12589
+Intel Core i5-13500,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",12247
+AMD Ryzen 9 5950X,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",12136
+Intel Xeon W-3175X,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",12107
+Intel Core i9-7980XE,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",12028
+AMD Ryzen 5 7600,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",11963
+Intel Core i9-10980XE,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",11957
+Intel Core i5-12600KF,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",11903
+AMD Ryzen 9 5900X,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",11787
+Intel Xeon W-3245,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",11738
+Intel Core i5-12600K,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",11637
+Intel Xeon W-3275M,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",11569
+Intel Core i7-12700F,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",11374
+AMD Ryzen Threadripper PRO 3945WX,"
+4.0 GHz ",multi_core,"
+4.0 GHz ",11086
+AMD Ryzen Threadripper PRO 3955WX,"
+3.9 GHz ",multi_core,"
+3.9 GHz ",11010
+AMD Ryzen 7 5800X3D,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",10874
+Intel Core i9-9980XE,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",10798
+Intel Core i9-10940X,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",10737
+AMD Ryzen 9 3950X,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",10597
+Intel Core i9-9960X,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",10477
+Intel Core i9-10920X,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",10457
+Intel Xeon W-2295,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",10431
+Intel Core i9-11900K,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",10419
+Intel Core i9-9920X,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",10377
+Intel Core i7-12700,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",10330
+Intel Core i9-7960X,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",10283
+AMD Ryzen 7 5800X,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",10259
+Intel Core i9-9940X,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",10152
+Intel Xeon W-3235,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",10041
+Intel Core i9-11900KF,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",10033
+Intel Core i5-12600,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",9958
+AMD Ryzen 9 3900X,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",9880
+AMD Ryzen 9 3900XT,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",9775
+AMD Ryzen 7 5700X,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",9682
+Intel Core i9-11900F,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",9682
+Intel Core i9-7940X,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",9679
+Intel Core i7-11700K,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",9667
+AMD Ryzen 9 5900,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",9643
+Intel Xeon Gold 6154,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",9498
+Intel Core i7-11700KF,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",9497
+AMD Ryzen 9 6900HX,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",9414
+AMD Ryzen 9 3900,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",9372
+Intel Core i9-10900K,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",9309
+Intel Core i9-10900KF,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",9307
+Intel Core i9-10900X,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",9240
+Intel Xeon W-2191B,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",9233
+Intel Core i9-10850K,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",9130
+Intel Core i9-11900T,"
+1.5 GHz ",multi_core,"
+1.5 GHz ",9086
+Intel Core i9-9900X,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",9026
+Intel Core i5-12500,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",8973
+Intel Core i9-7900X,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",8964
+Intel Core i9-7920X,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",8895
+AMD Ryzen 7 3800X,"
+3.9 GHz ",multi_core,"
+3.9 GHz ",8816
+Intel Xeon W-1290P,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",8815
+Intel Core i5-12400,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",8801
+Intel Core i5-12400F,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",8778
+AMD Ryzen 7 6800H,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",8742
+Intel Core i7-11700F,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",8717
+AMD Ryzen 7 5700G,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",8714
+Intel Core i9-11900,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",8687
+AMD Ryzen 7 5800,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",8685
+Intel Xeon Gold 6148,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",8666
+Intel Xeon W-2155,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",8594
+AMD Ryzen 5 5600X,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",8588
+AMD Ryzen 9 6900HS,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",8575
+Intel Core i5-11600KF,"
+3.9 GHz ",multi_core,"
+3.9 GHz ",8553
+Intel Core i9-9900KS,"
+4.0 GHz ",multi_core,"
+4.0 GHz ",8521
+AMD Ryzen 7 6800HS,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",8521
+Intel Core i5-11600K,"
+3.9 GHz ",multi_core,"
+3.9 GHz ",8508
+Intel Core i9-10900F,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",8496
+Intel Core i7-11700,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",8496
+AMD Ryzen 7 3800XT,"
+3.9 GHz ",multi_core,"
+3.9 GHz ",8461
+AMD Ryzen Threadripper 2950X,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",8452
+AMD Ryzen 5 5600,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",8424
+Intel Core i9-10900,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",8396
+AMD EPYC 7302P,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",8270
+Intel Core i7-6950X,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",8253
+Intel Xeon E5-2696 v3,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",8247
+Intel Core i5-11600,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",8203
+Intel Core i9-10910,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",8171
+Intel Xeon W-2145,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",8119
+Intel Xeon E5-2697A v4,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",8100
+Intel Core i7-10700K,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",8090
+AMD Ryzen 7 3700X,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",8075
+Intel Xeon W-2150B,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",8027
+Intel Core i7-11800H,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",8002
+Intel Xeon W-3223,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",7951
+Intel Core i9-9900K,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",7946
+Intel Core i9-9900KF,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",7940
+Intel Core i7-10700KF,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",7886
+AMD Ryzen Threadripper 2970WX,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",7873
+Intel Xeon E5-2697 v4,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",7723
+AMD Ryzen 7 PRO 5750G,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",7606
+AMD Ryzen Threadripper 2920X,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",7605
+AMD Ryzen 5 5500,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",7593
+Intel Core i7-9800X,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",7592
+AMD Ryzen 5 5600G,"
+3.9 GHz ",multi_core,"
+3.9 GHz ",7591
+Intel Core i5-11500,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",7577
+Intel Core i7-7820X,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",7568
+AMD Ryzen 7 PRO 4750G,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",7538
+Intel Xeon E5-2690 v4,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",7535
+Intel Core i5-11400F,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",7526
+Intel Xeon W-2140B,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",7511
+Intel Xeon E5-2699 v4,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",7492
+Intel Core i7-5960X,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",7434
+Intel Xeon E5-2697 v3,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",7401
+AMD Ryzen 7 6800U,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",7393
+Intel Xeon E5-1660 v3,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",7388
+AMD Ryzen 9 5900HX,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",7374
+Intel Core i3-13100,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",7291
+AMD Ryzen Threadripper 2990WX,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",7236
+Intel Core i7-6900K,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",7225
+AMD Ryzen 5 3600XT,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",7224
+Intel Core i7-10700F,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",7215
+AMD Ryzen Threadripper 1950X,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",7212
+Intel Core i9-9900,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",7194
+Intel Core i5-11400,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",7191
+Intel Core i3-12100F,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",7158
+Intel Core i7-8086K,"
+4.0 GHz ",multi_core,"
+4.0 GHz ",7094
+Intel Core i7-9700KF,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",7090
+Intel Xeon E5-2696 v4,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",7082
+Intel Xeon E5-2680 v4,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",7059
+AMD Ryzen 5 PRO 5650G,"
+3.9 GHz ",multi_core,"
+3.9 GHz ",6988
+Intel Xeon E5-2698 v3,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",6979
+AMD Ryzen 7 5800H,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",6964
+Intel Core i7-9700K,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",6952
+Intel Xeon E5-2690 v3,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",6912
+AMD Ryzen 9 4900H,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",6895
+Intel Core i3-12100,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",6882
+AMD Ryzen 5 3600X,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",6876
+AMD Ryzen 5 3600,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",6804
+Intel Core i7-10700,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",6804
+Intel Xeon W-3265M,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",6802
+Intel Core i5-10600K,"
+4.1 GHz ",multi_core,"
+4.1 GHz ",6789
+Intel Core i5-10600KF,"
+4.1 GHz ",multi_core,"
+4.1 GHz ",6772
+AMD Ryzen Threadripper 1920X,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",6765
+Intel Xeon E5-2687W v3,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",6706
+Intel Xeon E5-2667 v4,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",6642
+Intel Xeon E5-1660 v4,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",6622
+Intel Core i9-10885H,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",6579
+Intel Xeon E5-2680 v3,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",6577
+Intel Xeon E-2136,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",6527
+Intel Xeon E5-2678 v3,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",6477
+Intel Core i7-8700K,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",6408
+Intel Xeon W-2135,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",6393
+Intel Xeon E5-2683 v4,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",6389
+Intel Core i7-10875H,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",6377
+Intel Xeon Silver 4214,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",6364
+Intel Core i7-11700T,"
+1.4 GHz ",multi_core,"
+1.4 GHz ",6352
+Intel Core i5-11400H,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",6286
+AMD Ryzen 9 4900HS,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",6276
+Intel Core i9-9980HK,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",6244
+AMD Ryzen 7 PRO 5850U,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",6241
+Intel Core i5-10600,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",6239
+AMD Ryzen 7 5800U,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",6225
+Intel Core i7-9700F,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",6223
+AMD Ryzen 7 4800HS,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",6204
+Intel Xeon E5-2660 v4,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",6195
+Intel Core i7-9700,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",6160
+Intel Core i7-10870H,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",6145
+Intel Xeon E5-2683 v3,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",6142
+AMD Ryzen 5 PRO 4650G,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",6107
+Intel Core i5-11260H,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",6093
+AMD Ryzen 7 2700X,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",6092
+Intel Core i7-1265U,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",6088
+Intel Core i9-9880H,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",6018
+Intel Core i7-7800X,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",6014
+Intel Xeon Gold 6128,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",6014
+AMD EPYC 7551P,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",5941
+Intel Core i7-8700B,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",5923
+Intel Core i7-8700,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",5920
+AMD Ryzen 7 1800X,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",5911
+Intel Xeon E5-2660 v3,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",5906
+Intel Xeon E5-2640 v4,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",5878
+AMD Ryzen 7 4800H,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",5864
+AMD Ryzen Threadripper 1900X,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",5830
+AMD Ryzen 5 3500X,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",5829
+Intel Xeon E5-2670 v3,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",5797
+AMD Ryzen 5 5600H,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",5773
+Intel Xeon W-2133,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",5762
+Intel Core i5-1235U,"
+1.3 GHz ",multi_core,"
+1.3 GHz ",5750
+AMD Ryzen 5 5600U,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",5745
+Intel Core i5-9600KF,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",5743
+Intel Core i5-10400F,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",5739
+Intel Core i5-9600K,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",5725
+AMD Ryzen 3 3300X,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",5717
+Intel Core i7-6850K,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",5693
+Intel Core i7-6800K,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",5565
+Intel Xeon E-2146G,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",5557
+AMD Ryzen 7 4800U,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",5537
+Intel Xeon E5-1650 v4,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",5535
+AMD Ryzen 7 PRO 1700X,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",5535
+AMD Ryzen 7 1700X,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",5512
+Intel Core i5-11500T,"
+1.5 GHz ",multi_core,"
+1.5 GHz ",5474
+Intel Core i5-10500,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",5473
+Intel Core i5-9600,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",5465
+Intel Core i7-11370H,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",5451
+Intel Core i5-11320H,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",5445
+Intel Core i5-8600K,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",5440
+Intel Core i5-10400,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",5440
+Intel Xeon E5-2650 v3,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",5408
+Intel Core i7-10750H,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",5382
+Intel Core i7-1195G7,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",5375
+AMD Ryzen 5 3500,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",5352
+Intel Xeon E5-2630 v4,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",5349
+Intel Xeon E5-2650L v4,"
+1.7 GHz ",multi_core,"
+1.7 GHz ",5342
+AMD Ryzen 7 2700,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",5338
+Intel Core i7-11375H,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",5331
+Intel Core i7-5820K,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",5328
+Intel Xeon E-2276M,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",5319
+Intel Core i7-5930K,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",5318
+AMD Ryzen 3 5300G,"
+4.0 GHz ",multi_core,"
+4.0 GHz ",5303
+AMD Ryzen 5 4600HS,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",5287
+Intel Core i5-1230U,"
+1.0 GHz ",multi_core,"
+1.0 GHz ",5277
+Intel Xeon E5-2640 v3,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",5268
+AMD Ryzen 7 PRO 4750U,"
+1.7 GHz ",multi_core,"
+1.7 GHz ",5205
+Intel Core i7-1185G7,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",5191
+Intel Core i7-9700T,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",5182
+AMD Ryzen 5 2600X,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",5178
+Intel Xeon E5-1650 v3,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",5168
+AMD Ryzen 7 5700U,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",5160
+Intel Core i7-10850H,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",5110
+AMD Ryzen 5 4600H,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",5075
+Intel Core i7-7700K,"
+4.2 GHz ",multi_core,"
+4.2 GHz ",5067
+Intel Core i7-9850H,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",5047
+Intel Core i5-11300H,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",5041
+Intel Core i5-9500,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",5016
+Intel Xeon Silver 4114,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",5005
+Intel Core i7-1250U,"
+1.1 GHz ",multi_core,"
+1.1 GHz ",4998
+AMD Ryzen 7 1700,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",4994
+AMD Ryzen 3 3100,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",4989
+Intel Xeon E-2176M,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",4965
+Intel Core i5-8600,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",4960
+Intel Core i7-7740X,"
+4.3 GHz ",multi_core,"
+4.3 GHz ",4950
+Intel Core i5-8500B,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",4937
+Intel Core i7-1165G7,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",4911
+Intel Xeon W-2125,"
+4.0 GHz ",multi_core,"
+4.0 GHz ",4893
+Intel Core i7-9750H,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",4891
+Intel Core i7-8700T,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",4872
+AMD Ryzen 7 PRO 1700,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",4870
+Intel Core i3-1215U,"
+1.2 GHz ",multi_core,"
+1.2 GHz ",4870
+AMD Ryzen 7 4700U,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",4843
+Intel Core i9-8950HK,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",4831
+Intel Core i7-6700K,"
+4.0 GHz ",multi_core,"
+4.0 GHz ",4820
+Intel Xeon E5-2630 v3,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",4813
+Intel Core i5-8500,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",4807
+Intel Core i5-9400F,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",4794
+Intel Xeon D-1541,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",4785
+AMD Ryzen 5 2600,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",4783
+Intel Core i5-1145G7,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",4777
+Intel Core i7-1068NG7,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",4751
+AMD Ryzen 5 1600X,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",4742
+Intel Core i5-8400,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",4720
+Intel Xeon Silver 4110,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",4715
+AMD Ryzen 5 4600U,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",4710
+AMD Ryzen 5 5500U,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",4676
+Intel Core i5-9400,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",4674
+Intel Core i7-8850H,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",4651
+AMD Ryzen 5 PRO 4650U,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",4648
+Intel Core i7-5775C,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",4618
+Intel Core i5-1135G7,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",4587
+Intel Core i7-8750H,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",4562
+Intel Core i5-1038NG7,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",4509
+Intel Core i7-8569U,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",4508
+Intel Core i7-8809G,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",4491
+AMD Ryzen 5 1600,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",4481
+Intel Xeon E3-1285L v4,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",4472
+Intel Core i3-10100F,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",4439
+Intel Core i7-7700,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",4438
+Intel Xeon E5-2620 v4,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",4408
+Intel Core i7-4790K,"
+4.0 GHz ",multi_core,"
+4.0 GHz ",4402
+Intel Xeon E3-1230 v6,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",4392
+Intel Xeon E5-2630L v3,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",4358
+Intel Xeon Silver 4108,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",4351
+Intel Xeon E5-2697 v2,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",4281
+Intel Xeon E3-1270 v5,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",4262
+Intel Xeon W-2123,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",4253
+Intel Core i3-8350K,"
+4.0 GHz ",multi_core,"
+4.0 GHz ",4232
+Intel Xeon E3-1240 v6,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",4232
+Intel Core i5-9500T,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",4193
+Intel Core i7-7920HQ,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",4178
+Intel Core i3-10100,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",4176
+Intel Xeon E3-1535M v6,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",4152
+Intel Core i5-9300HF,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",4137
+Intel Core i5-7600K,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",4126
+Intel Xeon E3-1245 v5,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",4126
+Intel Xeon E5-1630 v4,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",4106
+Intel Core i3-1125G4,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",4096
+Intel Xeon E5-2690 v2,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",4083
+Intel Core i5-8257U,"
+1.4 GHz ",multi_core,"
+1.4 GHz ",4078
+Intel Core i7-7820HK,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",4075
+Intel Core i7-8559U,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",4072
+Intel Core i7-6700,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",4058
+Intel Core i5-8259U,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",4056
+Intel Core i7-1260U,"
+1.1 GHz ",multi_core,"
+1.1 GHz ",4052
+Intel Xeon E5-2637 v3,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",4030
+Intel Xeon E3-1276 v3,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",4027
+Intel Xeon E3-1240 v5,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",4021
+Intel Xeon E3-1230 v5,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",4016
+Intel Core i7-4770K,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",4008
+Intel Core i5-8500T,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",4007
+Intel Xeon E3-1545M v5,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",3990
+Intel Xeon E5-1630 v3,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",3988
+Intel Core i5-10300H,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",3984
+Intel Core i7-8705G,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",3979
+Intel Xeon E5-2696 v2,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",3972
+Intel Xeon E3-1271 v3,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",3957
+Intel Core i5-6600K,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3952
+Intel Xeon E5-2667 v2,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",3950
+Intel Xeon E5-1680 v2,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",3881
+Intel Core i7-4771,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3873
+Intel Xeon E3-1270 v3,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3866
+Intel Xeon E3-1505M v6,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",3866
+Intel Core i5-8400T,"
+1.7 GHz ",multi_core,"
+1.7 GHz ",3864
+Intel Core i3-10100T,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",3829
+Intel Xeon E5-2620 v3,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",3824
+Intel Xeon E3-1245 v3,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",3814
+Intel Core i7-6770HQ,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",3808
+Intel Core i7-4790,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",3806
+Intel Xeon E3-1241 v3,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3794
+Intel Xeon E3-1231 v3,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",3781
+Intel Xeon E3-1246 v3,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3780
+Intel Core i5-7600,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3751
+Intel Xeon E5-2680 v2,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",3748
+Intel Xeon E5-1620 v3,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3711
+Intel Xeon E3-1280 v3,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",3702
+Intel Core i7-4960HQ,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",3701
+Intel Xeon E3-1240 v3,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",3698
+Intel Core i5-8279U,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",3693
+Intel Core i7-4940MX,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",3693
+Intel Core i7-4770,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",3690
+Intel Core i5-8300H,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",3670
+Intel Xeon E3-1535M v5,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",3667
+Intel Xeon E3-1230 v3,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",3657
+Intel Core i7-6920HQ,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",3656
+Intel Xeon E5-2687W,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",3654
+Intel Core i7-4790S,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",3653
+Intel Xeon E3-1275 v3,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3645
+Intel Core i3-8100B,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",3624
+Intel Core i3-9100F,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",3620
+Intel Core i5-9300H,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",3614
+AMD Ryzen 5 3400G,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",3598
+Intel Core i5-5675R,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",3598
+Intel Core i7-4980HQ,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",3589
+Intel Core i5-4690K,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3588
+AMD Ryzen 5 1500X,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3581
+Intel Core i7-6820HK,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",3580
+Intel Core i7-4770S,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",3570
+AMD Ryzen 3 5300U,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",3569
+Intel Core i7-1060NG7,"
+1.2 GHz ",multi_core,"
+1.2 GHz ",3563
+Intel Core i7-7700HQ,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",3547
+Intel Xeon E5-1620 v4,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3544
+Intel Xeon E3-1225 v6,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",3520
+Intel Core i7-7820HQ,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",3516
+Intel Core i7-6700T,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",3510
+Intel Xeon E3-1505M v5,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",3507
+Intel Core i5-6600,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",3491
+Intel Core i5-4670K,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",3483
+Intel Core i5-8400H,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",3458
+Intel Xeon E5-2670 v2,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",3447
+Intel Core i7-4870HQ,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",3447
+Intel Core i3-9100,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",3432
+Intel Core i5-7500,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",3430
+Intel Core i7-4930MX,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",3430
+Intel Core i7-7700T,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",3418
+Intel Core i7-6820HQ,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",3398
+Intel Core i5-7600T,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",3397
+AMD Ryzen 3 4300U,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",3394
+Intel Xeon E5-1660 v2,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",3376
+Intel Xeon E5-2623 v4,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",3376
+Intel Core i5-4690S,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",3374
+Intel Core i7-6700HQ,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",3367
+Intel Xeon E3-1220 v5,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",3363
+Intel Core i3-8100,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",3352
+Intel Core i7-4850HQ,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",3344
+Intel Xeon E3-1225 v5,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",3335
+Intel Xeon E3-1275L v3,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",3331
+Intel Core i5-5575R,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",3319
+Intel Xeon E5-2680,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",3317
+Intel Xeon E5-1650 v2,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3315
+Intel Core i7-4930K,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",3304
+Intel Core i7-4960X,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",3302
+Intel Core i7-4910MQ,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",3302
+Intel Xeon E3-1265L v3,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",3301
+Intel Core i7-3960X,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",3297
+Intel Core i7-4790T,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",3296
+AMD Ryzen 5 2400G,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",3284
+Intel Xeon E3-1226 v3,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",3272
+Intel Xeon E5-2690,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",3269
+AMD Ryzen 3 2300X,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3265
+Intel Core i5-4690,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3244
+Intel Xeon E5-2650 v2,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",3234
+Intel Core i7-4770HQ,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",3230
+Intel Core i7-10510U,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",3220
+Intel Core i7-4750HQ,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",3213
+Intel Xeon E5-2667 v3,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",3212
+Intel Core i7-5700HQ,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",3205
+Intel Core i5-4670S,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",3190
+Intel Core i5-4670,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",3189
+Intel Xeon E3-1220 v6,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",3176
+Intel Core i5-6600T,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",3170
+Intel Core i5-7400,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",3159
+Intel Core i5-6500,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",3158
+Intel Core i3-9100T,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",3152
+AMD Ryzen 5 1400,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",3143
+Intel Core i7-3970X,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3137
+Intel Xeon E3-1225 v3,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",3120
+Intel Core i7-4810MQ,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",3118
+AMD Ryzen 7 3750H,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",3118
+Intel Xeon E5-2660 v2,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",3115
+AMD Ryzen 3 1300X,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",3107
+Intel Core i7-4710MQ,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",3101
+Intel Core i5-4590,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",3098
+Intel Xeon E5-1660,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",3082
+Intel Core i7-4700HQ,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",3073
+Intel Core i5-7440HQ,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",3072
+Intel Xeon E5-2670,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",3069
+Intel Xeon E3-1220 v3,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",3068
+Intel Xeon E5-2665,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",3068
+Intel Core i5-7500T,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",3055
+Intel Core i5-10210U,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",3037
+Intel Xeon E5-1607 v4,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",3016
+Intel Core i7-4785T,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",3006
+Intel Core i7-3930K,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",2999
+Intel Core i5-6402P,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",2997
+Intel Core i5-4570,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",2994
+Intel Core i7-4770T,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",2992
+Intel Core i7-4900MQ,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",2989
+AMD Ryzen 3 PRO 1300,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",2987
+Intel Core i5-6400,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",2985
+Intel Core i7-4720HQ,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",2978
+Intel Core i3-1115G4,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",2975
+AMD Ryzen 3 3200G,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",2969
+Intel Core i3-8100T,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",2968
+Intel Xeon E5-1650,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",2961
+Intel Core i7-4700MQ,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",2946
+Intel Xeon E5-2470 v2,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",2946
+Intel Core i5-4590S,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",2911
+Intel Core i5-4460,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",2896
+Intel Core i7-4702HQ,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",2882
+Intel Core i5-7300HQ,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",2865
+Intel Core i7-4710HQ,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",2857
+Intel Core i7-4765T,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",2855
+Intel Core i5-4570S,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",2852
+Intel Core i7-4800MQ,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",2843
+AMD Ryzen 3 2200G,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",2840
+AMD Ryzen 5 3550H,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",2837
+Intel Core i5-4440,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",2833
+Intel Core i5-1030NG7,"
+1.1 GHz ",multi_core,"
+1.1 GHz ",2816
+Intel Core i7-4702MQ,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",2802
+Intel Core i4-4690T,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",2800
+Intel Core i5-4670T,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",2794
+Intel Core i5-7400T,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",2788
+AMD Ryzen 3 1200,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",2773
+Intel Core i5-4430,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",2752
+Intel Core i5-6500T,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",2752
+Intel Core i5-4460S,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",2735
+Intel Xeon E5-2660,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",2729
+Intel Core i5-6440HQ,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",2693
+Intel Xeon W3690,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",2692
+Intel Core i5-6300HQ,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",2683
+AMD Ryzen 5 PRO 3500U,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",2676
+Intel Core i5-4430S,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",2662
+AMD Ryzen 5 3580U Microsoft Surface Edition,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",2654
+Intel Core i7-7567U,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",2632
+Intel Core i7-990X,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",2629
+Intel Xeon W3680,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",2621
+Intel Xeon X5690,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",2587
+Intel Core i5-4570R,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",2549
+AMD Ryzen 7 3700U,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",2545
+Intel Core i7-4712HQ,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",2537
+Intel Core i7-980X,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",2523
+Intel Core i3-6320,"
+3.9 GHz ",multi_core,"
+3.9 GHz ",2522
+Intel Core i5-6400T,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",2513
+Intel Core i7-4712MQ,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",2510
+Intel Core i5-4590T,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",2484
+Intel Xeon E5-2640 v2,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",2483
+Intel Xeon X5680,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",2477
+Intel Core i3-4370,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",2477
+AMD Ryzen 7 PRO 3700U,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",2465
+AMD Ryzen 7 3780U Microsoft Surface Edition,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",2461
+AMD Ryzen 5 PRO 2500U,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",2459
+Intel Xeon E5-2630 v2,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",2458
+Intel Core i7-3770K,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",2423
+AMD Ryzen 5 3500U,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",2407
+Intel Core i3-7100,"
+3.9 GHz ",multi_core,"
+3.9 GHz ",2371
+Intel Xeon E3-1280 V2,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",2367
+AMD Ryzen 7 2700U,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",2361
+Intel Core i3-8109U,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",2350
+Intel Xeon E3-1270 V2,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",2342
+Intel Core i7-3820,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",2338
+Intel Core i7-970,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",2334
+Intel Xeon E5-1620 v2,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",2331
+Intel Core i5-7360U,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",2327
+Intel Core i3-1005G1,"
+1.2 GHz ",multi_core,"
+1.2 GHz ",2322
+Intel Xeon X5675,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",2321
+Intel Xeon E3-1245 V2,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",2320
+AMD Ryzen 5 2500U,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",2317
+Intel Core i3-6300T,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",2310
+Intel Core i7-2600K,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",2308
+Intel Core i7-2700K,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",2306
+Intel Core i7-4820K,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",2305
+Intel Xeon E3-1275 v2,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",2297
+Intel Xeon X5670,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",2294
+Intel Core i5-7260U,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",2291
+Intel Core i7-3770,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",2285
+Intel Core i3-4360,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",2285
+Intel Xeon E3-1240 v2,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",2283
+Intel Core i3-6100,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",2283
+Intel Xeon E5-1620,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",2267
+Intel Core i7-7660U,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",2267
+Intel Xeon E5-2640,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",2265
+Intel Xeon X5660,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",2261
+Intel Core i3-8121U,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",2256
+AMD Ryzen 7 PRO 2700U,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",2244
+Intel Core i3-6098P,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",2224
+Intel Core i3-7100T,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",2222
+Intel Core i7-3770S,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",2220
+Intel Xeon X5650,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",2218
+Intel Core i7-7560U,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",2209
+Intel Xeon E5-2420 v2,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",2196
+AMD FX-9590,"
+4.7 GHz ",multi_core,"
+4.7 GHz ",2156
+Intel Core i7-3840QM,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",2150
+Intel Xeon E3-1230V2,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",2126
+Intel Xeon E3-1240,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",2115
+AMD FX-9370,"
+4.4 GHz ",multi_core,"
+4.4 GHz ",2111
+Intel Xeon E3-1270,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",2101
+Intel Core i3-4330,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",2091
+Intel Core i5-4460T,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",2086
+Intel Core i3-10110U,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",2085
+Intel Core i5-5287U,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",2084
+AMD Ryzen 3 2300U,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",2081
+Intel Xeon E5-2620 v2,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",2080
+Intel Core i5-3570K,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",2074
+Intel Core i5-6267U,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",2072
+Intel Core i3-4170,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",2067
+Intel Core i3-6100T,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",2058
+Intel Core i7-4610M,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",2056
+Intel Core i7-5557U,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",2052
+Intel Core i5-4308U,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",2048
+Intel Core i7-2600,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",2042
+AMD FX-8370,"
+4.0 GHz ",multi_core,"
+4.0 GHz ",2041
+Intel Core i7-3820QM,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",2038
+Intel Core i3-4150,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",2024
+Intel Core i7-6650U,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",2021
+AMD FX-8350,"
+4.0 GHz ",multi_core,"
+4.0 GHz ",2015
+Intel Xeon E5-2643,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",2008
+Intel Core i5-4570T,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1994
+Intel Core i7-3720QM,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",1985
+Intel Core i7-3740QM,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1964
+AMD Athlon 3000G,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",1957
+Intel Core i7-6560U,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",1952
+Intel Core i5-3570S,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1941
+Intel Xeon E5-2620,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",1935
+Intel Core i3-4160,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",1934
+Intel Core i5-3570,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",1929
+Intel Core i5-6260U,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",1927
+Intel Xeon E5-2430,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",1922
+Intel Core i5-3550,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",1919
+Intel Core i5-2500K,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",1908
+Intel Core i5-6360U,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",1906
+Intel Core i5-4310M,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1904
+Intel Core i3-1000NG4,"
+1.1 GHz ",multi_core,"
+1.1 GHz ",1886
+Intel Core i7-4600M,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1884
+Intel Core i3-4130,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",1881
+Intel Core i7-3615QM,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",1870
+Intel Core i7-3630QM,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",1869
+Intel Xeon E3-1230,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1864
+Intel Xeon E3-1220 v2,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1858
+Intel Core i5-4210H,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1858
+Intel Xeon E3-1225 V2,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1856
+Intel Xeon E5-2420,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",1852
+AMD FX-8320,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",1848
+Intel Core i3-4170T,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1846
+AMD Phenom II X6 1100T Black Edition,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",1842
+Intel Core i7-2600S,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1841
+Intel Core i5-3470,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1837
+Intel Core i3-8130U,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",1829
+AMD Athlon 200GE,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1826
+Intel Core i7-3635QM,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",1826
+Intel Core i5-3450,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1825
+Intel Core i7-3610QE,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",1814
+Intel Xeon E3-1265L v2,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",1813
+Intel Core i5-4300M,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",1806
+Intel Core i3-4130T,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1798
+Intel Core i5-5257U,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1790
+Intel Core i5-5350U,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",1780
+AMD FX-8150,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",1778
+AMD FX-8300,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",1765
+Intel Core i5-3470S,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1762
+Intel Core i3-4150T,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",1762
+Intel Core i7-875K,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1760
+Intel Core i7-3610QM,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",1759
+Intel Core i3-4160T,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1755
+Intel Core i5-4210M,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",1752
+Intel Core i5-4278U,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",1743
+Intel Core i7-5600U,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",1732
+Intel Core i5-2500,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",1718
+Intel Core i7-5650U,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",1717
+AMD A12-9800,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",1715
+Intel Core i5-3340S,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1714
+Intel Core i7-2760QM,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",1708
+Intel Core i5-2550K,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",1706
+Intel Core i7-2860QM,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",1703
+Intel Xeon W3565,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1699
+Intel Core i5-3450S,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1693
+Intel Core i5-4200H,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1692
+Intel Core i7-3612QM,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",1692
+Intel Core i5-8210Y,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",1684
+Intel Core i3-6157U,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",1683
+Intel Xeon E3-1225,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1681
+Intel Core i3-7130U,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1679
+Intel Core i7-2960XM,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1675
+Intel Core i5-4200M,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",1672
+Intel Core i7-5500U,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",1671
+AMD FX-8320E,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1667
+Intel Core i7-960,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1659
+Intel Xeon E3-1220,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1658
+Intel Core i7-3632QM,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",1651
+Intel Core i5-3475S,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1642
+Intel Core i5-3330S,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1632
+Intel Core i5-2400,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1623
+Intel Core i5-3350P,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1622
+Intel Core i5-4288U,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",1622
+Intel Core i5-3330,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",1616
+Intel Core i7-4510U,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",1600
+AMD FX-8120,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1589
+AMD FX-9830P,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",1589
+AMD FX-6350,"
+3.9 GHz ",multi_core,"
+3.9 GHz ",1585
+Intel Core i5-4258U,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",1584
+Intel Core i7-950,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1572
+Intel Xeon W3550,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1572
+Intel Core i5-3340,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1569
+Intel Xeon E3-1260L,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",1564
+Intel Core i5-5300U,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",1564
+Intel Core i7-870,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1560
+Intel Core i3-7100U,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",1560
+Intel Core i5-5250U,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",1557
+Intel Core i7-4600U,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",1552
+Intel Pentium Gold G5400,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",1551
+Intel Core i5-2500S,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1527
+Intel Xeon E5-2673 v3,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",1527
+Intel Core i3-4100M,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",1526
+Intel Pentium G4600,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",1522
+Intel Core i3-6100U,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",1517
+Intel Core i5-2300,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1506
+AMD Ryzen 3 3200U,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",1496
+Intel Core i5-2310,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1495
+AMD FX-6300,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",1493
+AMD Ryzen 3 2200U,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",1493
+Intel Xeon W3530,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1492
+Intel Core i5-2320,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",1488
+Intel Core i7-930,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1487
+AMD A10-9700,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",1487
+Intel Core i7-860,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1486
+Intel Core i5-5200U,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",1483
+Intel Core i7-920,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1477
+AMD Phenom II X6 1090T Black Edition,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1473
+Intel Core i5-4260U,"
+1.4 GHz ",multi_core,"
+1.4 GHz ",1470
+Intel Core i5-4300U,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",1469
+Intel Core i5-4310U,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",1469
+Intel Core i5-4250U,"
+1.3 GHz ",multi_core,"
+1.3 GHz ",1462
+Intel Pentium G4560,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",1456
+Intel Core i3-7020U,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",1452
+Intel Xeon E5-1607 v2,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",1442
+Intel Xeon E5620,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",1440
+Intel Core i7-2670QM,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",1433
+Intel Xeon E5-1603,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1430
+Intel Core i7-2820QM,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",1426
+Intel Core i7-4650U,"
+1.7 GHz ",multi_core,"
+1.7 GHz ",1425
+AMD A8-9600,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1412
+Intel Xeon X3450,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1411
+AMD Ryzen 3 3250U,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",1401
+Intel Xeon X3440,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",1398
+Intel Xeon W3520,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1398
+Intel Core i5-4210U,"
+1.7 GHz ",multi_core,"
+1.7 GHz ",1396
+Intel Core i7-4500U,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",1393
+AMD PRO A10-8770E,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1390
+Intel Core i3-4000M,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",1389
+Intel Core i5-2405S,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",1381
+Intel Core i5-2400S,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",1370
+Intel Core i7-2630QM,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",1363
+Intel Core i3-5020U,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",1363
+Intel Core i7-2675QM,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",1362
+AMD FX-6200,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",1357
+Intel Core i5-4200U,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",1356
+Intel Core i3-5015U,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",1338
+Intel Core i3-5010U,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",1337
+Intel Core i5-7267U,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1331
+Intel Core i7-4578U,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",1320
+Intel Core i3-6006U,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",1315
+Intel Core i7-2720QM,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",1312
+Intel Core i5-760,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1291
+AMD FX-4350,"
+4.2 GHz ",multi_core,"
+4.2 GHz ",1280
+Intel Core i5-3380M,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1258
+AMD Phenom II X4 975 Black Edition,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",1250
+Intel Core i5-750,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1227
+AMD FX-6100,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",1211
+AMD A10-7860K,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",1199
+Intel Core i3-5005U,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",1194
+Intel Pentium G4400,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",1188
+AMD A10-6800K,"
+4.1 GHz ",multi_core,"
+4.1 GHz ",1173
+Intel Core i5-L16G7,"
+1.4 GHz ",multi_core,"
+1.4 GHz ",1168
+AMD Athlon X4 840,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1165
+AMD Athlon X4 860K,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",1158
+Intel Core i3-4030U,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",1155
+AMD PRO A10-8730B,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",1154
+Intel Core i5-3470T,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1150
+AMD A10-7850K,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",1146
+Intel Xeon X5460,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1140
+Intel Core i5-3360M,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1132
+Intel Core i7-3520M,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1128
+AMD A10-6700,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",1127
+Intel Core 2 Quad Q9650,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",1123
+Intel Core i3-3240,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",1121
+AMD Phenom II X4 965 Black Edition,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",1119
+Intel Core i7-920XM,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",1117
+AMD Athlon II X4 651,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",1113
+AMD A10-9620P,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",1111
+Intel Xeon E5450,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",1102
+AMD Phenom II X4 955 Black Edition,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1102
+AMD A12-9720P,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1099
+AMD A8-6600K,"
+3.9 GHz ",multi_core,"
+3.9 GHz ",1098
+Intel Core i3-3220,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",1096
+Intel Core i5-3340M,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1095
+Intel Core i3-3225,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",1095
+Intel Core i3-4010U,"
+1.7 GHz ",multi_core,"
+1.7 GHz ",1087
+Intel Pentium G3258,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1086
+AMD FX-9800P,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1077
+AMD A10 PRO-7800B,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",1077
+AMD A8-7600,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1075
+Intel Core i3-2130,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",1073
+AMD A8-3870,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",1071
+Intel Core 2 Quad Q9500,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1069
+Intel Pentium G4400T,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1069
+AMD A8-5600K,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",1067
+Intel Core 2 Quad Q9550,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1062
+Intel Pentium Silver J5005,"
+1.5 GHz ",multi_core,"
+1.5 GHz ",1060
+AMD FX-4300,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",1058
+Intel Celeron G4900,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1058
+AMD Phenom II X4 945,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",1057
+Intel Celeron G3930,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",1051
+AMD A10-5800K,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",1050
+Intel Core i3-3210,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1049
+Intel Core i7-2620M,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",1048
+Intel Core i5-3320M,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",1047
+Intel Xeon E5440,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1046
+AMD A8-6500,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",1043
+AMD FX-4100,"
+3.6 GHz ",multi_core,"
+3.6 GHz ",1042
+Intel Core M-5Y10c,"
+800 MHz ",multi_core,"
+800 MHz ",1039
+Intel Core i3-2120,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",1033
+AMD PRO A8-8600B,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",1033
+AMD A10-8700P,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",1033
+AMD A8 PRO-7600B,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",1031
+AMD PRO A8-8650B,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",1029
+AMD A10-5800B,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",1025
+Intel Core i3-4005U,"
+1.7 GHz ",multi_core,"
+1.7 GHz ",1025
+AMD A10-9600P,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",1022
+Intel Core i5-3230M,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",1019
+AMD Athlon X4 760K,"
+3.8 GHz ",multi_core,"
+3.8 GHz ",1018
+Intel Core 2 Quad Q9505,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1017
+AMD A10-7800,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",1014
+Intel Celeron G3900,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",1000
+Intel Pentium G3260,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",994
+Intel Core i7-3540M,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",994
+Intel Core i7-3687U,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",990
+Intel Core i3-3250,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",989
+Intel Core i7-2640M,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",986
+Intel Core i5-2540M,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",984
+Intel Core i5-3210M,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",981
+Intel Core i5-660,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",981
+Intel Pentium G3250,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",978
+Intel Core i3-2100,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",977
+Intel Core i7-740QM,"
+1.7 GHz ",multi_core,"
+1.7 GHz ",977
+AMD A8-7650K,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",977
+Intel Core i3-2105,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",962
+Intel Pentium G3240,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",962
+Intel Core i5-2435M,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",959
+Intel Core 2 Quad Q8400,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",956
+Intel Core i3-3220T,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",956
+Intel Core i7-3667U,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",954
+AMD A10-5700,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",953
+Intel Core i5-4202Y,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",946
+Intel Core 2 Quad Q9400,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",943
+AMD PRO A10-8700B,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",942
+Intel Core i5-650,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",932
+Intel Core i5-2430M,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",931
+Intel Celeron J4125,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",931
+AMD A6-9500,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",929
+AMD Athlon II X4 640,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",929
+Intel Core i5-2415M,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",926
+Intel Core i5-2520M,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",923
+Intel Celeron G3900T,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",922
+Intel Core i5-4210Y,"
+1.5 GHz ",multi_core,"
+1.5 GHz ",917
+Intel Core i7-3517U,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",914
+Intel Celeron J4105,"
+1.5 GHz ",multi_core,"
+1.5 GHz ",913
+Intel Core i7-720QM,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",912
+Intel Pentium G3220,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",907
+Intel Core i5-3427U,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",904
+AMD A8-5500,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",901
+Intel Pentium G3250T,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",901
+Intel Core i7-840QM,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",898
+Intel Pentium Gold 4417U,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",897
+Intel Core i7-3537U,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",896
+AMD A8-5500B,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",895
+Intel Core 2 Quad Q9450,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",894
+Intel Core i5-2450M,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",892
+Intel Pentium Silver N5000,"
+1.1 GHz ",multi_core,"
+1.1 GHz ",892
+Intel Core i3-550,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",883
+Intel Core i3-4020Y,"
+1.5 GHz ",multi_core,"
+1.5 GHz ",876
+Intel Core i5-3437U,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",868
+Intel Pentium 4415U,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",868
+Intel Core 2 Quad Q8300,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",867
+Intel Core 2 Quad Q8200,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",860
+Intel Core i5-2410M,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",859
+Intel Core i3-540,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",857
+AMD Athlon II X4 635,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",855
+Intel Celeron G1840,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",852
+Intel Core i7-620M,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",849
+Intel Core i5-3337U,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",843
+Intel Celeron G1820,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",838
+Intel Core i3-3120M,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",836
+Intel Pentium G2020,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",836
+Intel Celeron N4100,"
+1.1 GHz ",multi_core,"
+1.1 GHz ",831
+Intel Pentium G3220T,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",823
+Intel Core i5-3317U,"
+1.7 GHz ",multi_core,"
+1.7 GHz ",815
+AMD R-Series RX-427BB,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",808
+Intel Pentium 4405U,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",801
+Intel Core i3-530,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",798
+Intel Core 2 Quad Q6700,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",793
+Intel Core i3-3110M,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",792
+Intel Pentium G645,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",789
+Intel Pentium G860,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",771
+Intel Core i5-580M,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",771
+Intel Core 2 Quad Q6600,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",766
+Intel Core i5-560M,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",754
+Intel Pentium G850,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",754
+Intel Celeron G1620,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",754
+AMD FX-7500,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",751
+AMD A10-4600M,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",749
+Intel Pentium G2030,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",744
+Intel Core i5-520M,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",741
+Intel Core i5-480M,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",738
+Intel Pentium G840,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",736
+Intel Celeron J3455,"
+1.5 GHz ",multi_core,"
+1.5 GHz ",724
+Intel Core i7-640M,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",718
+Intel Atom x7-E3950,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",715
+Intel Core i3-2350M,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",713
+AMD A8-5550M,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",703
+Intel Pentium G620,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",701
+AMD Phenom X4 9550,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",700
+Intel Pentium 2020M,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",697
+Intel Celeron 3955U,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",693
+Intel Pentium G630,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",687
+Intel Pentium N4200,"
+1.1 GHz ",multi_core,"
+1.1 GHz ",687
+Intel Core i5-540M,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",686
+Intel Core i5-2467M,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",685
+Intel Core i3-2330M,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",685
+Intel Core i3-2370M,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",681
+Intel Core i5-430M,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",674
+Intel Core i5-460M,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",672
+Intel Core 2 Duo E8600,"
+3.3 GHz ",multi_core,"
+3.3 GHz ",671
+Intel Core i3-2310M,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",669
+Intel Core i5-450M,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",668
+Intel Core i3-2348M,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",668
+Intel Pentium 4415Y,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",665
+Intel Celeron G530,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",662
+AMD Athlon 5350,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",660
+Intel Core 2 Duo E8500,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",655
+Intel Celeron 3865U,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",653
+Intel Xeon E3110,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",648
+Intel Core i3-370M,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",631
+Intel Core 2 Duo E8400,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",627
+AMD A10-7300,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",627
+AMD A8-7410,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",626
+Intel Core i5-2537M,"
+1.4 GHz ",multi_core,"
+1.4 GHz ",622
+Intel Core i3-3227U,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",621
+AMD A4-7210,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",621
+Intel Celeron N3450,"
+1.1 GHz ",multi_core,"
+1.1 GHz ",619
+AMD A6-7400K,"
+3.5 GHz ",multi_core,"
+3.5 GHz ",618
+Intel Core i3-2328M,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",617
+Intel Pentium J4205,"
+1.5 GHz ",multi_core,"
+1.5 GHz ",613
+AMD A6-7310,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",611
+AMD A8-4500M,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",609
+AMD A10-5745M,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",603
+Intel Core i3-380M,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",602
+AMD A6-5200,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",599
+AMD A8-6410,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",598
+Intel Core 2 Duo E7600,"
+3.1 GHz ",multi_core,"
+3.1 GHz ",597
+Intel Core i3-330M,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",596
+Intel Core i3-350M,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",594
+Intel Core i3-3217U,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",593
+Intel Core 2 Duo T9600,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",589
+AMD A6-6310,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",583
+Intel Pentium B980,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",575
+AMD Athlon II X2 260,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",572
+Intel Pentium N3540,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",570
+Intel Celeron J4005,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",569
+Intel Pentium J3710,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",568
+Intel Pentium E5800,"
+3.2 GHz ",multi_core,"
+3.2 GHz ",568
+Intel Core 2 Duo E7500,"
+2.9 GHz ",multi_core,"
+2.9 GHz ",563
+Intel Core 2 Duo T9500,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",563
+Intel Pentium 3825U,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",555
+Intel Pentium 3805U,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",555
+Intel Pentium E5700,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",553
+AMD A8-5545M,"
+1.7 GHz ",multi_core,"
+1.7 GHz ",544
+AMD A4-6210,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",544
+Intel Pentium B960,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",541
+Intel Celeron N4020,"
+1.1 GHz ",multi_core,"
+1.1 GHz ",541
+Intel Atom x7-Z8750,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",541
+Intel Core 2 Duo T9300,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",537
+Intel Celeron N4000,"
+1.1 GHz ",multi_core,"
+1.1 GHz ",536
+Intel Atom x5-Z8550,"
+1.4 GHz ",multi_core,"
+1.4 GHz ",535
+Intel Pentium N3530,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",535
+Intel Celeron J1900,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",534
+Intel Celeron 1005M,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",532
+AMD A4-6300,"
+3.7 GHz ",multi_core,"
+3.7 GHz ",529
+AMD E2-7110,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",526
+AMD Athlon II X2 240,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",525
+Intel Pentium 2117U,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",515
+Intel Atom x7-Z8700,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",515
+AMD Athlon II X2 250,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",504
+Intel Pentium B950,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",502
+Intel Pentium N3700,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",501
+Intel Core 2 Duo E7400,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",500
+Intel Pentium B940,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",500
+Intel Celeron 3205U,"
+1.5 GHz ",multi_core,"
+1.5 GHz ",478
+AMD A4-5000,"
+1.5 GHz ",multi_core,"
+1.5 GHz ",477
+Intel Celeron N3150,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",473
+Intel Core 2 Duo P8700,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",469
+AMD A4-5300,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",469
+Intel Celeron N2940,"
+1.8 GHz ",multi_core,"
+1.8 GHz ",468
+Intel Pentium E5300,"
+2.6 GHz ",multi_core,"
+2.6 GHz ",466
+Intel Core 2 Duo T9400,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",464
+Intel Pentium P6200,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",461
+Intel Pentium E5500,"
+2.8 GHz ",multi_core,"
+2.8 GHz ",460
+Intel Celeron N3160,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",459
+AMD A4-4000,"
+3.0 GHz ",multi_core,"
+3.0 GHz ",458
+Intel Celeron B820,"
+1.7 GHz ",multi_core,"
+1.7 GHz ",458
+Intel Core 2 Duo P7450,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",450
+Intel Core 2 Duo P8600,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",449
+Intel Core 2 Duo T8300,"
+2.4 GHz ",multi_core,"
+2.4 GHz ",448
+Intel Pentium E5200,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",442
+Intel Celeron B815,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",441
+Intel Pentium E5400,"
+2.7 GHz ",multi_core,"
+2.7 GHz ",437
+Intel Core 2 Duo P8400,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",436
+Intel Atom x5-Z8500,"
+1.4 GHz ",multi_core,"
+1.4 GHz ",433
+Intel Core 2 Duo E6550,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",432
+Intel Core 2 Duo T6570,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",427
+Intel Celeron J3355,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",425
+Intel Core i3-2365M,"
+1.4 GHz ",multi_core,"
+1.4 GHz ",413
+Intel Celeron 1007U,"
+1.5 GHz ",multi_core,"
+1.5 GHz ",412
+Intel Pentium T4400,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",408
+Intel Pentium T4500,"
+2.3 GHz ",multi_core,"
+2.3 GHz ",403
+AMD A4-4300M,"
+2.5 GHz ",multi_core,"
+2.5 GHz ",401
+Intel Celeron N3350,"
+1.1 GHz ",multi_core,"
+1.1 GHz ",401
+AMD A4-3300M,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",399
+Intel Core 2 Duo T7500,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",392
+Intel Core 2 Duo T6600,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",390
+Intel Atom x5-Z8350,"
+1.4 GHz ",multi_core,"
+1.4 GHz ",380
+Intel Pentium T4200,"
+2.0 GHz ",multi_core,"
+2.0 GHz ",362
+Intel Celeron T3100,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",361
+AMD A4-3330MX,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",356
+Intel Atom x5-Z8300,"
+1.4 GHz ",multi_core,"
+1.4 GHz ",354
+Intel Pentium T4300,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",342
+Intel Core 2 Duo T6500,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",339
+Intel Core 2 Duo E6300,"
+1.9 GHz ",multi_core,"
+1.9 GHz ",324
+Intel Pentium D 945/950,"
+3.4 GHz ",multi_core,"
+3.4 GHz ",317
+AMD A6-4455M,"
+2.1 GHz ",multi_core,"
+2.1 GHz ",312
+Intel Celeron N2840,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",294
+Intel Celeron N2830,"
+2.2 GHz ",multi_core,"
+2.2 GHz ",292
+Intel Celeron J3060,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",292
+AMD E1-2500,"
+1.4 GHz ",multi_core,"
+1.4 GHz ",251
+Intel Celeron N3050,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",238
+AMD E1-6015,"
+1.4 GHz ",multi_core,"
+1.4 GHz ",229
+AMD E1-6010,"
+1.4 GHz ",multi_core,"
+1.4 GHz ",212
+AMD E2-1800,"
+1.7 GHz ",multi_core,"
+1.7 GHz ",195
+AMD E-350,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",179
+AMD E-450,"
+1.6 GHz ",multi_core,"
+1.6 GHz ",168
+AMD C-60,"
+1.0 GHz ",multi_core,"
+1.0 GHz ",135
+AMD E-300,"
+1.3 GHz ",multi_core,"
+1.3 GHz ",123
